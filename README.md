@@ -3,7 +3,7 @@ Tasks:
 1. Collect raw data:
     * Kazym FW
     * Western FW
-    * website
+    * [website](http://www.babel.gwi.uni-muenchen.de/index.php?abfrage=KK_corpus&subnavi=corpus_pub)
 2. Initial preprocessing, making UniMorph-like tsv files with all the information from the data (stem - wordform - tags):
    * Kazym and Western FWs - TSV to Triplets.ipynb
    * website - 
