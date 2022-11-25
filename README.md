@@ -4,7 +4,9 @@ Tasks:
     * Kazym FW
     * Western FW
     * website
-2. Initial preprocessing, making UniMorph-like tsv files with all the information from the data (stem - wordform - tags)
+2. Initial preprocessing, making UniMorph-like tsv files with all the information from the data (stem - wordform - tags):
+   * Kazym and Western FWs - TSV to Triplets.py
+   * website - 
 3. Developing a universal UniMorph tagset
 4. Combining all the data
 5. Automatic detection of errrors:
