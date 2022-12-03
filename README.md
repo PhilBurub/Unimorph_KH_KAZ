@@ -8,7 +8,7 @@ Tasks:
    * Kazym and Western FWs - TSV to Triplets.ipynb
    * website - Website to Triplets.ipynb
 3. Developing [a universal UniMorph tagset](https://docs.google.com/spreadsheets/d/16ISV_Tj9VOCSoos6XBLfljAnNMa1vxNfhyvU3EpkVyU/edit?usp=sharing)
-4. Combining all the data
+4. Combining all the data - Unifying.ipynb -> Unified.tsv
 5. Automatic detection of errrors:
     * finding same wordforms with different tagsets
     * finding lemmas not listed in Solovar's dictionary
