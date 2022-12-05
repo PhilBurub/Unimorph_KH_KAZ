@@ -10,4 +10,4 @@ Tasks:
 3. Developing [a universal UniMorph tagset](https://docs.google.com/spreadsheets/d/16ISV_Tj9VOCSoos6XBLfljAnNMa1vxNfhyvU3EpkVyU/edit?usp=sharing)
 4. Combining all the data - Unifying.ipynb -> Unified.tsv
 5. Finding verb lemmas - Verb lemma redo.ipynb -> Prep.tsv
-6. Manual check in [google sheets](https://docs.google.com/spreadsheets/d/1xMTFvap5oq24Hh21yxZOgH0coK2t5kQxn-QtKvuODkw/edit?usp=sharing)
+6. Manual check in [google sheets](https://docs.google.com/spreadsheets/d/1i502IITeltupGG5edVFuk2V3rgJ-Rtu3WAjCu1SSI24/edit?usp=sharing)
