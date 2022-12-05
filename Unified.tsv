@@ -1257,7 +1257,7 @@ aŋkśaśԑ	aŋkśaśԑm	N;PSS1S;NOM;SG
 aŋkśaśԑ	aŋkśaśԑmn	N;PSS1S;LOC;SG
 aŋkərmə	aŋkərməsəm	V;PST;ARGNO1;ARGNOS
 aŋkərmə	aŋkərməλən	V;PRS;ARGNO2;ARGNOS
-aŋkərt	aŋkərmaλən	V.PTCP;PST;PSS3S;LOC
+aŋkərt	aŋkərmaλən	V;PST;INFER;ARGNO3;ARGNOS;LOC
 aŋkərt	aŋəλəλ	V;PRS;ARGNO3;ARGNOS
 aŋkəλ	aŋkəλ	N;NOM;SG
 aŋkəλ	aŋkəλa	N;DAT;SG
@@ -1331,7 +1331,7 @@ aλəŋ	aλəŋa	N;DAT;SG
 aλəŋ	aλəŋən	N;LOC;SG
 aλəŋa	aλəŋaja	N;DAT;SG
 aλʼ	aλʼe	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS
-aλʼ	aλʼmaλ	V.PTCP;PST;PSS3S
+aλʼ	aλʼmaλ	V;PST;INFER;ARGNO3;ARGNOS
 aλʼ	aλʼsət	V;PST;ARGNO3;ARGNOP
 aλʼ	aλʼsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
 aλʼ	aλʼəm	V.PTCP;PST
@@ -1417,7 +1417,7 @@ ewəλλət	ewəλλət
 ewԑ	ewԑm	N;PSS1S;NOM;SG
 ewԑ	ewԑŋən	N;DU;NOM;SG
 eλti	eλti	ADP
-eχət	eχətmaλ	V.PTCP;PST;PSS3S
+eχət	eχətmaλ	V;PST;INFER;ARGNO3;ARGNOS
 f	f	N;NOM;SG
 fermerskoe xozˊajstvo	fermerskoe xozˊajstvo	N;NOM;SG
 gazeta	gazetajən	N;LOC;SG
@@ -1649,7 +1649,7 @@ iλ=	iλi	ADV
 iλampa	iλampa	ADV
 iλi	iλi	N;NOM;SG
 iλi kɛrəptijəλ	iλi kɛrəptijəλsəŋən	V;PST;ARGNO3;ARGNOD
-iλi pit	iλi pitmaλən	V.PTCP;PST;PSS3S;LOC
+iλi pit	iλi pitmaλən	V;PST;INFER;ARGNO3;ARGNOS;LOC
 iλi pit	iλi pitəs	V;PST;ARGNO3;ARGNOS
 iλi rakən	iλi raknəs	V;PST;ARGNO3;ARGNOS
 iλi sɛwər	iλi sɛwərti	V.PTCP;PRS
@@ -1754,7 +1754,7 @@ jań	jańλi	ADJ
 jańś	jańśe	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS
 jańś	jańśijλsət	V;PST;ARGNO3;ARGNOP
 jańś	jańśijλsəw	V;PST;ARGNO1;ARGNOP
-jańś	jańśmaλ	V.PTCP;PST;PSS3S
+jańś	jańśmaλ	V;PST;INFER;ARGNO3;ARGNOS
 jańś	jańśsət	V;PST;ARGNO3;ARGNOP
 jańś	jańśsəw	V;PST;ARGNO1;ARGNOP
 jańś	jańśsɛm	V;PST;ARGNO1;ARGNOS;ARGACS
@@ -1805,7 +1805,7 @@ jaś	jaśmeλ	V.PTCP;PST;ARGNO3;ARGNOP
 jaś	jaśti	V.PTCP;PRS
 jaś	jaśtəλλe	V;PRS;ARGNO3;ARGNOS;ARGAC
 jaś	jaśλtəti	V.PTCP;PRS
-jaś	λԑtən-jaśtən	V.PTCP;PRS;ARGNO};ARGNOD;V;V.PTCP;PRS;PSS{2/3}D
+jaś	λԑtən-jaśtən	V;PRS;ARGNO};ARGNOD;V;V.PTCP;PRS;INFER;ARGNO};ARGNOD
 jaχa	jaχa	ADV
 jaχa akəm	jaχa akəmsət	V;PST;ARGNO3;ARGNOP
 jaχa pit	jaχa pitsəŋən	V;PST;ARGNO3;ARGNOD
@@ -1873,10 +1873,10 @@ ji	jisəm	V;PST;ARGNO1;ARGNOS
 ji	jisən	V;PST;ARGNO2;ARGNOS
 ji	jisət	V;PST;ARGNO3;ARGNOP
 ji	jisəŋən	V;PST;ARGNO3;ARGNOD
-ji	jitaλ	V.PTCP;PRS;PSS3S
+ji	jitaλ	V;PRS;INFER;ARGNO3;ARGNOS
 ji	jiten	V.PTCP;PRS;ARGNO2;ARGNOS
 ji	jitewn	V.PTCP;PRS;ARGNO1;ARGNOP;LOC
-ji	jiteλ	V.PTCP;PRS;PSS3S
+ji	jiteλ	V;PRS;INFER;ARGNO3;ARGNOS
 ji	jiti	V.PTCP;PRS
 ji	jitijən	V.PTCP;PRS;PASS;LOC
 ji	jiλ	V;PRS;ARGNO3;ARGNOS
@@ -1884,9 +1884,9 @@ ji	jiλəm	V;PRS;ARGNO1;ARGNOS
 ji	jiλən	
 ji	jiλət	V;PRS;ARGNO3;ARGNOP
 ji	jʉwa	V;IMP;ARGNOS;ARGNO3;ARGNOS
-ji	jʉwmaλ	V.PTCP;PST;PSS3S
-ji	jʉwmaλən	V.PTCP;PST;PSS3S;LOC
-ji	jʉwmeλ	V.PTCP;PST;PSS3S
+ji	jʉwmaλ	V;PST;INFER;ARGNO3;ARGNOS
+ji	jʉwmaλən	V;PST;INFER;ARGNO3;ARGNOS;LOC
+ji	jʉwmeλ	V;PST;INFER;ARGNO3;ARGNOS
 ji	jʉwəm	V.PTCP;PST
 ji	jʉwəman	V.PTCP;PST;LOC
 ji	jʉwəmən	V.PTCP;PST;LOC
@@ -1999,7 +1999,7 @@ jont	jontman	V.CVB
 jont	jontsa	V;PST;PASS;ARGNO3;ARGNOS
 jont	jontsət	V;PST;ARGNO3;ARGNOP
 jont	jontsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
-jont	jontteλən	V.PTCP;PRS;PSS3P;LOC
+jont	jontteλən	V;PRS;INFER;ARGNO3;ARGNOP;LOC
 jont	jontti	V.PTCP;PRS
 jont	jontəm	N;V.PTCP;PST;NOM;SG
 jont	jontəsλət	V;PRS;ARGNO3;ARGNOP
@@ -2088,7 +2088,7 @@ jurɛmə	jurɛməti	V.PTCP;PRS
 jurԑm	jurԑməsti	V;PST;ARGNO2;ARGNOP
 juw	juwa	V;IMP;ARGNOS;ARGNO3;ARGNOS
 juw	juwaja	V;IMP;ARGNOS;IMP;ARGNOS;ARGNO3;ARGNOS
-juw	juwmaλ	V.PTCP;PST;PSS3S
+juw	juwmaλ	V;PST;INFER;ARGNO3;ARGNOS
 juw	juwmɛm	V.PTCP;PST;ARGNO1;ARGNOS
 juw	juwəm	V.PTCP;PST
 juwan	juwan	N;NOM;SG
@@ -2131,13 +2131,13 @@ juχt	juχtati	V;IMP;ARGNOP;ARGNO3;ARGNOS
 juχt	juχtaλən	V;ARGNO3;ARGNOP;LOC
 juχt	juχtijəλsəm	V;PST;ARGNO1;ARGNOS
 juχt	juχtijəλsət	V;PST;ARGNO3;ARGNOP
-juχt	juχtijəλtən	V.PTCP;PRS;PSS{2/3}D
+juχt	juχtijəλtən	V;PRS;INFER;ARGNO};ARGNOD
 juχt	juχtijəλtəwən	V.PTCP;PRS;ARGNO1;ARGNOP;LOC
 juχt	juχtijəλəs	V;PST;ARGNO3;ARGNOS
 juχt	juχtijəλλaŋən	V;PRS;ARGNO3;ARGNOD
 juχt	juχtijλ	V;ARGNO3;ARGNOS
 juχt	juχtijλsət	V;PST;ARGNO3;ARGNOP
-juχt	juχtijλtewn	V.PTCP;PRS;PSS1P;LOC
+juχt	juχtijλtewn	V;PRS;INFER;ARGNO1;ARGNOP;LOC
 juχt	juχtijλti	V.PTCP;PRS
 juχt	juχtijλət	V;ARGNO3;ARGNOP
 juχt	juχtiλsəw	V;PST;ARGNO1;ARGNOP
@@ -2154,13 +2154,13 @@ juχt	juχtəλ	V;PRS;ARGNO3;ARGNOS
 juχt	juχtəλəm	PRS;V.PTCP;PST
 juχt	juχtλəw	V;PRS;ARGNO1;ARGNOP
 juχtiλə	juχtiλəm	V.PTCP;PST
-juχət	juχətmaλ	V.PTCP;PST;PSS3S
-juχət	juχətmaλən	V.PTCP;PST;PSS3S;LOC
+juχət	juχətmaλ	V;PST;INFER;ARGNO3;ARGNOS
+juχət	juχətmaλən	V;PST;INFER;ARGNO3;ARGNOS;LOC
 juχət	juχətmewn	V.PTCP;PST;ARGNO1;ARGNOP;LOC
 juχət	juχətmeλ	V.PTCP;PST;ARGNO3;ARGNOP
-juχət	juχətmənən	V.PTCP;PST;PSS{2/3}D;LOC
-juχət	juχətmɛmən	V.PTCP;PST;PSS1D
-juχət	juχətmɛmən	V.PTCP;PST;PSS1S;LOC
+juχət	juχətmənən	V;PST;INFER;ARGNO};ARGNOD;LOC
+juχət	juχətmɛmən	V;PST;INFER;ARGNO1;ARGNOD
+juχət	juχətmɛmən	V;PST;INFER;ARGNO1;ARGNOS;LOC
 juχət	juχətmԑmn	V.PTCP;PST;ARGNO1;ARGNOS;LOC
 juχət	juχətsa	V;PST;PASS;ARGNO3;ARGNOS
 juχət	juχətsajəm	V;PST;PASS;ARGNO1;ARGNOS
@@ -2173,8 +2173,8 @@ juχət	juχətsət	V;PST;ARGNO3;ARGNOP
 juχət	juχətsəw	V;PST;ARGNO1;ARGNOP
 juχət	juχətsəŋən	V;PST;ARGNO3;ARGNOD
 juχət	juχətsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
-juχət	juχəttaλ	V.PTCP;PRS;PSS3S
-juχət	juχəttaλən	V.PTCP;PRS;PSS3S;LOC
+juχət	juχəttaλ	V;PRS;INFER;ARGNO3;ARGNOS
+juχət	juχəttaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 juχət	juχətten	V.PTCP;PRS;ARGNO2;ARGNOS
 juχət	juχətti	V.PTCP;PRS
 juχət	juχəttԑm	V.PTCP;PRS;ARGNO1;ARGNOS
@@ -2237,7 +2237,7 @@ jărχɵs	jărχɵs	NUM
 jăsəŋ	jăsəŋ	N;NOM;SG
 jăsəŋ	jăsəŋa	N;DAT;SG
 jăńś	jăńśi	V;ARGNO3;ARGNOS
-jăńś	jăńśmeλ	V.PTCP;PST;PSS3S
+jăńś	jăńśmeλ	V;PST;INFER;ARGNO3;ARGNOS
 jăńś	jăńśsət	V;PST;ARGNO3;ARGNOP
 jăńś	jăńśəm	V.PTCP;PST
 jăńś	jăńśəs	V;PST;ARGNO3;ARGNOS
@@ -2262,7 +2262,7 @@ jăŋχ	jăŋχa-sa	V;ARGNO3;ARGNOS
 jăŋχ	jăŋχa-săr	V;ARGNO3;ARGNOS
 jăŋχ	jăŋχijəλsaŋən	V;PST;ARGNO3;ARGNOD
 jăŋχ	jăŋχijəλti	V.PTCP;PRS
-jăŋχ	jăŋχijəλtɛmən	V.PTCP;PRS;PSS1S;LOC
+jăŋχ	jăŋχijəλtɛmən	V;PRS;INFER;ARGNO1;ARGNOS;LOC
 jăŋχ	jăŋχijəλλaŋən	V;PRS;ARGNO3;ARGNOD
 jăŋχ	jăŋχijəλλəm	V;PRS;ARGNO1;ARGNOS
 jăŋχ	jăŋχijəλλəw	V;PRS;ARGNO1;ARGNOP
@@ -2271,8 +2271,8 @@ jăŋχ	jăŋχijλəmən	V;PRS;ARGNO1;ARGNOD
 jăŋχ	jăŋχijλət	
 jăŋχ	jăŋχijλλəm	PRS;V.PTCP;PST
 jăŋχ	jăŋχmatsət	V;PST;ARGNO3;ARGNOP
-jăŋχ	jăŋχmaλ	V.PTCP;PST;PSS3S
-jăŋχ	jăŋχmɛmən	V.PTCP;PST;PSS1S;LOC
+jăŋχ	jăŋχmaλ	V;PST;INFER;ARGNO3;ARGNOS
+jăŋχ	jăŋχmɛmən	V;PST;INFER;ARGNO1;ARGNOS;LOC
 jăŋχ	jăŋχsəm	PST;V.PTCP;PST
 jăŋχ	jăŋχsəm	V;PST;ARGNO1;ARGNOS
 jăŋχ	jăŋχsəmən	V;PST;ARGNO1;ARGNOD
@@ -2281,7 +2281,7 @@ jăŋχ	jăŋχsəti	V;PST;ARGNO2;ARGNOP
 jăŋχ	jăŋχsəw	V;PST;ARGNO1;ARGNOP
 jăŋχ	jăŋχsəŋən	V;PST;ARGNO3;ARGNOD
 jăŋχ	jăŋχti	V.PTCP;PRS
-jăŋχ	jăŋχtɛmən	V.PTCP;PRS;PSS1D
+jăŋχ	jăŋχtɛmən	V;PRS;INFER;ARGNO1;ARGNOD
 jăŋχ	jăŋχəm	V.PTCP;PST
 jăŋχ	jăŋχəməŋən	V.PTCP;PST;ARGNO3;ARGNOD
 jăŋχ	jăŋχəs	V;PST;ARGNO3;ARGNOS
@@ -2297,7 +2297,7 @@ jăša	jăša
 jăša	jăša	ADV
 jăχ	jăχsəmən	V;PST;ARGNO1;ARGNOD
 jăχ	jăχsəw	V;PST;ARGNO1;ARGNOP
-jăχ	jăχtaλən	V.PTCP;PRS;PSS3S;LOC
+jăχ	jăχtaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 jăχ	jăχti	V.PTCP;PRS
 jăχ	jăχλəm	V;PRS;ARGNO1;ARGNOS
 jăχa	jăχa	ADV
@@ -2334,7 +2334,7 @@ jɛtnətən	jɛtnətən	ADV
 jɛtšə	jɛtšəja	V;IMP;ARGNOS;ARGNO3;ARGNOS
 jɛtšə	jɛtšəm	V.PTCP;PST
 jɛtšə	jɛtšəma	V.PTCP;PST;IMP;ARGNOS
-jɛtšə	jɛtšəmaλ	V.PTCP;PST;PSS3S
+jɛtšə	jɛtšəmaλ	V;PST;INFER;ARGNO3;ARGNOS
 jɛtšə	jɛtšəs	V;PST;ARGNO3;ARGNOS
 jɛtən	jɛtna	N;DAT;SG
 jɛtən	jɛtən	N;NOM;SG
@@ -2448,17 +2448,17 @@ jʉrən χir	jʉrən χir	N;NOM;SG
 jʉrən χir	jʉrən χirəλ	N;PSS3S;NOM;SG
 jʉw	jʉwa	V;ARGNO3;ARGNOS
 jʉw	jʉwman	V.CVB
-jʉw	jʉwman	V.PTCP;PST;PSS{2/3}D
-jʉw	jʉwmaλ	V.PTCP;PST;PSS3S
+jʉw	jʉwman	V;PST;INFER;ARGNO};ARGNOD
+jʉw	jʉwmaλ	V;PST;INFER;ARGNO3;ARGNOS
 jʉw	jʉwmeλ	V.PTCP;PST;ARGNO3;ARGNOP
 jʉw	jʉwməwən	V.PTCP;PST;ARGNO1;ARGNOP;LOC
 jʉw	jʉwmɛm	V.PTCP;PST;ARGNO1;ARGNOS
 jʉw	jʉwmɛmən	V.PTCP;PST;ARGNO1;ARGNOS;LOC
 jʉw	jʉwmԑm	V.PTCP;PST;ARGNO1;ARGNOS
 jʉw	jʉwmԑmn	V.PTCP;PST;ARGNO1;ARGNOD
-jʉw	jʉwtaλən	V.PTCP;PRS;PSS3S;LOC
+jʉw	jʉwtaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 jʉw	jʉwəm	V.PTCP;PST
-jʉw	jʉwəmaλən	V.PTCP;PST;PSS3S;LOC
+jʉw	jʉwəmaλən	V;PST;INFER;ARGNO3;ARGNOS;LOC
 jʉw	jʉwəmən	V.PTCP;PST;LOC
 jʉw	jʉwəntəs	V;PST;ARGNO3;ARGNOS
 jʉw	jʉwəntλ	V;PRS;ARGNO3;ARGNOS
@@ -2525,7 +2525,7 @@ jʉχan	jʉχan	N;NOM;SG
 jʉχan	jʉχanen	N;PSS2S;NOM;SG
 jʉχan	jʉχanət	N;PL;NOM
 jʉχan tij	jʉχan tijn	N;LOC;SG
-jʉχi ji	jʉχi jitaλən	V.PTCP;PRS;PSS3S;LOC
+jʉχi ji	jʉχi jitaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 jʉχi ji	jʉχi jiti	V.PTCP;PRS
 jʉχi jʉχət	jʉχi jʉχtəs	V;PST;ARGNO3;ARGNOS
 jʉχi jʉχət	jʉχi jʉχətsəŋən	V;PST;ARGNO3;ARGNOD
@@ -2541,7 +2541,7 @@ jʉχi pit	jʉχi pitəs	V;PST;ARGNO3;ARGNOS
 jʉχi rakn	jʉχi raknəs	V;PST;ARGNO3;ARGNOS
 jʉχi tɵ	jʉχi tɵλi	V;PRS;PASS;ARGNO3;ARGNOS
 jʉχi wʉχ	jʉχi wʉχsa	V;PST;PASS;ARGNO3;ARGNOS
-jʉχi šɵš	jʉχi šɵštaλən	V.PTCP;PRS;PSS3S;LOC
+jʉχi šɵš	jʉχi šɵštaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 jʉχi šɵšəm	jʉχi šɵšməs	V;PST;ARGNO3;ARGNOS
 jʉχi λʉŋ	jʉχi λʉŋsəm	V;PST;ARGNO1;ARGNOS
 jʉχi λʉŋ	jʉχi λʉŋsəŋən	V;PST;ARGNO3;ARGNOD
@@ -2563,8 +2563,8 @@ jʉχət	jʉχətsən	V;PST;ARGNO2;ARGNOS
 jʉχət	jʉχətsət	V;PST;ARGNO3;ARGNOP
 jʉχət	jʉχətsəŋən	V;PST;ARGNO3;ARGNOD
 jʉχət	jʉχətt	V;PRS;ARGNO3;ARGNOS
-jʉχət	jʉχəttaλən	V.PTCP;PRS;PSS3S;LOC
-jʉχət	jʉχətteλ	V.PTCP;PRS;PSS3S
+jʉχət	jʉχəttaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
+jʉχət	jʉχətteλ	V;PRS;INFER;ARGNO3;ARGNOS
 jʉχət	jʉχəttəw	V;PRS;ARGNO1;ARGNOP
 jʉχət	jʉχətəλ	V;PRS;ARGNO3;ARGNOS
 jʉχət	jʉχətλət	V;PRS;ARGNO3;ARGNOP
@@ -2699,7 +2699,7 @@ kaš	kašλi	ADJ
 kašaŋ	kašaŋa	ADJ;DAT
 kašaś	kašaśa	V;ARGNO3;ARGNOS
 kašaś	kašaśsəm	V;PST;ARGNO1;ARGNOS
-kašaś	kašaśtaλən	V.PTCP;PRS;PSS3S;LOC
+kašaś	kašaśtaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 kašaś	kašaśəs	V;PST;ARGNO3;ARGNOS
 kašaś	kašaśλəm	V;PRS;ARGNO1;ARGNOS
 kašaś	kašaśλən	V;PRS;ARGNO2;ARGNOS
@@ -2844,7 +2844,7 @@ kănš	kănšsa	V;PST;PASS;ARGNO3;ARGNOS
 kănš	kănšsət	V;PST;ARGNO3;ARGNOP
 kănš	kănšsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
 kănš	kănšsɛmən	V;PST;ARGNO1;ARGNOD;ARGACS
-kănš	kănštaλ	V.PTCP;PRS;PSS3S
+kănš	kănštaλ	V;PRS;INFER;ARGNO3;ARGNOS
 kănš	kănšti	V.PTCP;PRS
 kănš	kănšəməsijŋən	V;PST;PASS;ARGNO3;ARGNOD
 kănš	kănšəλ	V;PRS;ARGNO3;ARGNOS
@@ -3195,7 +3195,7 @@ kԑri	kԑrijs	V;PST;ARGNO3;ARGNOS
 kԑri	kԑrijəs	V;PST;ARGNO3;ARGNOS
 kԑrt	kԑrtəm	V.PTCP;PST
 kԑrət	kԑrətəλ	V;PRS;ARGNO3;ARGNOS
-kԑrət	kԑrətλətaλ	V.PTCP;PRS;PSS3S
+kԑrət	kԑrətλətaλ	V;PRS;INFER;ARGNO3;ARGNOS
 kԑrλ	kԑrλa	V;ARGNO3;ARGNOS
 kԑrλə	kԑrλəs	V;PST;ARGNO3;ARGNOS
 kԑrλə	kԑrλəsət	V;PST;ARGNO3;ARGNOP
@@ -3260,15 +3260,15 @@ lup	lupijəλλəm	V;ARGNO3;ARGNOS;ARGNO1;ARGNOS
 lup	lupijλ	V;PRS;ARGNO3;ARGNOS
 lup	lupijλa	V;PASS;ARGNO3;ARGNOS
 lup	lupijλsa	V;PST;PASS;ARGNO3;ARGNOS
-lup	lupmaλ	V.PTCP;PST;PSS3S
+lup	lupmaλ	V;PST;INFER;ARGNO3;ARGNOS
 lup	lupsa	V;PST;PASS;ARGNO3;ARGNOS
 lup	lupsəm	PST;V.PTCP;PST
 lup	lupsəm	V;PST;ARGNO1;ARGNOS
 lup	lupsən	V;PST;ARGNO2;ARGNOS
 lup	lupsət	V;PST;ARGNO3;ARGNOP
 lup	lupsəw	V;PST;ARGNO1;ARGNOP
-lup	luptan	V.PTCP;PRS;PSS{2/3}D
-lup	luptaλ	V.PTCP;PRS;PSS3S
+lup	luptan	V;PRS;INFER;ARGNO};ARGNOD
+lup	luptaλ	V;PRS;INFER;ARGNO3;ARGNOS
 lup	lupti	V.PTCP;PRS
 lup	lupəm	V.PTCP;PST
 lup	lupəs	V;PST;ARGNO3;ARGNOS
@@ -3335,7 +3335,7 @@ man	manmeλ	V.PTCP;PST;ARGNO3;ARGNOP
 man	mans	V;PST;ARGNO3;ARGNOS
 man	mansət	V;PST;ARGNO3;ARGNOP
 man	mantanan	V.PTCP;PRS;ARGNO3;ARGNOD;LOC
-man	mantaλ	V.PTCP;PRS;PSS3S
+man	mantaλ	V;PRS;INFER;ARGNO3;ARGNOS
 man	manti	V.PTCP;PRS
 man	mantət	V;PRS;ARGNO3;ARGNOP
 man	mantɛm	V.PTCP;PRS;ARGNO1;ARGNOS
@@ -3543,7 +3543,7 @@ mutur	mutur	N;NOM;SG
 mutš	muttaśs	V;PST;ARGNO3;ARGNOS
 mutš	mutšaśs	V;PST;ARGNO3;ARGNOS
 mutš	mutšəsi	V;PST;PASS;ARGNO3;ARGNOS
-mutš	mutšəteλ	V.PTCP;PRS;PSS3P
+mutš	mutšəteλ	V;PRS;INFER;ARGNO3;ARGNOP
 mutšańś	mutšańśəs	V;PST;ARGNO3;ARGNOS
 mutšə	mutšəsi	V;PST;PASS;ARGNO3;ARGNOS
 mutšə	mutšəsλe	V;PST;ARGNO3;ARGNOS;ARGAC
@@ -3608,8 +3608,8 @@ măn	măna	V;IMP;ARGNOS;ARGNO3;ARGNOS
 măn	mănasa	V;ARGNO3;ARGNOS
 măn	mănatən	V;IMP;ARGNOD;ARGNO3;ARGNOS
 măn	mănijəλλət	V;PRS;ARGNO3;ARGNOP
-măn	mănmaλ	V.PTCP;PST;PSS3S
-măn	mănmaλən	V.PTCP;PST;PSS3S;LOC
+măn	mănmaλ	V;PST;INFER;ARGNO3;ARGNOS
+măn	mănmaλən	V;PST;INFER;ARGNO3;ARGNOS;LOC
 măn	mănmen	V.PTCP;PST;ARGNO2;ARGNOS
 măn	mănmən	V.PTCP;PST;LOC
 măn	măns	V;PST;ARGNO3;ARGNOS
@@ -3622,11 +3622,11 @@ măn	mănsət	V;PST;ARGNO3;ARGNOP
 măn	mănsət-mănsət	V;PST;ARGNO3;ARGNOP;V;PST;ARGNO3;ARGNOP
 măn	mănsəw	V;PST;ARGNO1;ARGNOP
 măn	mănsəŋən	V;PST;ARGNO3;ARGNOD
-măn	măntan	V.PTCP;PRS;PSS{2/3}D
-măn	măntaw	V.PTCP;PRS;PSS1P
+măn	măntan	V;PRS;INFER;ARGNO};ARGNOD
+măn	măntaw	V;PRS;INFER;ARGNO1;ARGNOP
 măn	măntaλ	V.PTCP;PRS;ARGNO3;ARGNOP
-măn	măntaλ	V.PTCP;PRS;PSS3S
-măn	măntaλn	V.PTCP;PRS;PSS3S;LOC
+măn	măntaλ	V;PRS;INFER;ARGNO3;ARGNOS
+măn	măntaλn	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 măn	măntew	V.PTCP;PRS;ARGNO1;ARGNOP
 măn	mănteλ	V.PTCP;PRS;ARGNO3;ARGNOP
 măn	mănti	PRO;ACC;SG
@@ -3673,7 +3673,7 @@ mănema	mănema	PRO;NOM;SG
 mănš	mănšəmsԑmn	V;PST;ARGNO1;ARGNOD
 mănš	mănšəsi	V;PST;PASS;ARGNO3;ARGNOS
 mănš	mănšəsλe	V;PST;ARGNO3;ARGNOS;ARGAC
-mănšə	mănšətaλ	V.PTCP;PRS;PSS3S
+mănšə	mănšətaλ	V;PRS;INFER;ARGNO3;ARGNOS
 mănšə	mănšəλijət	V;PRS;PASS;ARGNO3;ARGNOP
 mănətti	mănətti	PRO;NOM;SG
 mănɛm	mănɛm	PRO;NOM;SG
@@ -3716,7 +3716,7 @@ măšja	măšja	ADJ
 măšja	măšjaja	ADJ;DAT
 măλ	măλ	ADJ
 mɛlək	mɛlək	ADJ
-mɛn	mɛnəmmaλ	V.PTCP;PST;PSS3S
+mɛn	mɛnəmmaλ	V;PST;INFER;ARGNO3;ARGNOS
 mɛn	mɛnɛməsi	V;PST;PASS;ARGNO3;ARGNOS
 mɛnλ	mɛnλaλət	V;PASS;PL;ARGNO3;ARGNOP
 mɛsta	mɛsta	N;NOM;SG
@@ -3739,7 +3739,7 @@ mɛŋk iki	mɛŋk ikeλ	N;PSS3S;NOM;SG
 mɛŋk iki	mɛŋk iki	N;NOM;SG
 mɛšəm	mɛšəmsəλλe	V;PST;ARGNO3;ARGNOS
 mɵnti	mɵnti	ADV
-mɵrə	mɵrəmaλ	V.PTCP;PST;PSS3S
+mɵrə	mɵrəmaλ	V;PST;INFER;ARGNO3;ARGNOS
 mɵrəχ	mɵrəχ	N;NOM;SG
 mɵrəχ	mɵrəχλaλ	N;PL;PSS3S;NOM
 mɵrɛmə	mɵrɛməs	V;PST;ARGNO3;ARGNOS
@@ -3886,7 +3886,7 @@ narəs	narəsəλ	V;PRS;ARGNO3;ARGNOS
 narԑp	narԑp	N;NOM;SG
 narԑp	narԑpəλ	N;PSS3S;NOM;SG
 naverno	naverno	ADV
-nawr	nawrijəteλ	V.PTCP;PRS;PSS3P
+nawr	nawrijəteλ	V;PRS;INFER;ARGNO3;ARGNOP
 nawr	nawrijəλ	V;ARGNO3;ARGNOS
 nawr	nawrijλsəw	V;PST;ARGNO1;ARGNOP
 nawr	nawrəmsən	V;PST;ARGNO2;ARGNOS
@@ -3981,7 +3981,7 @@ nuχ losit	nuχ losite	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS
 nuχλi	nuχλi	ADV
 năj	năj	N;NOM;SG
 năpt	năptəs	V;PST;ARGNO3;ARGNOS
-năpət	năpətmaλ	V.PTCP;PST;PSS3S
+năpət	năpətmaλ	V;PST;INFER;ARGNO3;ARGNOS
 năpət	năpətsa	V;PST;PASS;ARGNO3;ARGNOS
 năpət	năpətti	V.PTCP;PRS
 nărtama	nărtama	ADV
@@ -4060,7 +4060,7 @@ nɵməs	nɵməsijλ	V;PRS;ARGNO3;ARGNOS
 nɵməs	nɵməsijλsət	V;PST;ARGNO3;ARGNOP
 nɵməs	nɵməsiλa	V;IMP;ARGNOS;ARGNO3;ARGNOS
 nɵməs	nɵməsiλti	V.PTCP;PRS
-nɵməs	nɵməsməλən	V.PTCP;PST;PSS3S;LOC
+nɵməs	nɵməsməλən	V;PST;INFER;ARGNO3;ARGNOS;LOC
 nɵməs	nɵməssət	V;PST;ARGNO3;ARGNOP
 nɵməs	nɵməssəŋən	V;PST;ARGNO3;ARGNOD
 nɵməs	nɵməsti	V.PTCP;PRS
@@ -4209,7 +4209,7 @@ omsəλ	omsəλλajəm	V;PRS;PASS;ARGNO1;ARGNOS
 omsəλ	omsəλλəλλʉw	V;PRS;ARGNO1;ARGNOP;ARGAC{D/P}
 oməs	oməs	V;ARGNO3;ARGNOS
 oməs	oməsman	V.CVB
-oməs	oməsmaλ	V.PTCP;PST;PSS3S
+oməs	oməsmaλ	V;PST;INFER;ARGNO3;ARGNOS
 oməs	oməssa	V;PST;PASS;ARGNO3;ARGNOS
 oməs	oməssajət	V;PST;PASS;ARGNO3;ARGNOP
 oməs	oməssaŋən	V;PST;ARGNO3;ARGNOD
@@ -4220,12 +4220,12 @@ oməs	oməssəw	V;PST;ARGNO1;ARGNOP
 oməs	oməssəŋən	V;PST;ARGNO3;ARGNOD
 oməs	oməssəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
 oməs	oməssԑm	V;PST;ARGNO1;ARGNOS;ARGACS
-oməs	oməstaλ	V.PTCP;PRS;PSS3S
-oməs	oməstaλən	V.PTCP;PRS;PSS3S;LOC
+oməs	oməstaλ	V;PRS;INFER;ARGNO3;ARGNOS
+oməs	oməstaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 oməs	oməstewn	V.PTCP;PRS;ARGNO1;ARGNOP;LOC
 oməs	oməsti	V.PTCP;PRS
-oməs	oməstən	V.PTCP;PRS;PSS{2/3}D
-oməs	oməstɛmən	V.PTCP;PRS;PSS1D
+oməs	oməstən	V;PRS;INFER;ARGNO};ARGNOD
+oməs	oməstɛmən	V;PRS;INFER;ARGNO1;ARGNOD
 oməs	oməstλen	V;PRS;ARGNO2;ARGNOS
 oməs	oməsəs	V;PST;ARGNO3;ARGNOS
 oməs	oməsəλ	V;PRS;ARGNO3;ARGNOS
@@ -4336,7 +4336,7 @@ paknəλ	paknəλsajəm	V;PST;PASS;ARGNO1;ARGNOS
 paknəλ	paknəλsən	V;PST;ARGNO2;ARGNOS
 paknəλ	paknəλtijəλti	V.PTCP;PRS
 pakən	pakənman	V.CVB
-pakən	pakənmaλ	V.PTCP;PST;PSS3S
+pakən	pakənmaλ	V;PST;INFER;ARGNO3;ARGNOS
 pakən	pakənsəm	V;PST;ARGNO1;ARGNOS
 pakən	pakənsən	V;PST;ARGNO2;ARGNOS
 pakən	pakənsət	V;PST;ARGNO3;ARGNOP
@@ -4451,14 +4451,14 @@ pirəś	pirśa	ADJ;DAT
 pirəś	pirəś	ADJ
 pirəś iki	pirəś iki	N;NOM;SG
 pit	pit	ADJ
-pit	pitijitaλ	V.PTCP;PRS;PSS3S
+pit	pitijitaλ	V;PRS;INFER;ARGNO3;ARGNOS
 pit	pitijəλsəm	V;PST;ARGNO1;ARGNOS
 pit	pitiλəs	V;PST;ARGNO3;ARGNOS
 pit	pitman	V.CVB
-pit	pitmaλ	V.PTCP;PST;PSS3S
-pit	pitmaλən	V.PTCP;PST;PSS3S;LOC
+pit	pitmaλ	V;PST;INFER;ARGNO3;ARGNOS
+pit	pitmaλən	V;PST;INFER;ARGNO3;ARGNOS;LOC
 pit	pitmeλ	V.PTCP;PST;ARGNO3;ARGNOP
-pit	pitməλ	V.PTCP;PST;PSS3S
+pit	pitməλ	V;PST;INFER;ARGNO3;ARGNOS
 pit	pitmԑm	V.PTCP;PST;ARGNO1;ARGNOS
 pit	pits	V;PST;ARGNO3;ARGNOS
 pit	pitsa	V;PST;PASS;ARGNO3;ARGNOS
@@ -4483,15 +4483,15 @@ pit	pitsəλəw	V;PST;ARGNO1;ARGNOP;ARGAC{D/P}
 pit	pitsəλλe	V;PST;ARGNO3;ARGNOS
 pit	pitsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
 pit	pitsԑmn	V;PST;ARGNO1;ARGNOD
-pit	pittaλ	V.PTCP;PRS;PSS3S
-pit	pittaλən	V.PTCP;PRS;PSS3S;LOC
+pit	pittaλ	V;PRS;INFER;ARGNO3;ARGNOS
+pit	pittaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 pit	pitti	V.PTCP;PRS
 pit	pittijn	V.PTCP;PRS;LOC
 pit	pittijən	V.PTCP;PRS;LOC
 pit	pitəm	V.PTCP;PST
 pit	pitəmsa	V;PST;PASS;ARGNO3;ARGNOS
 pit	pitəmtəs	V;PST;ARGNO3;ARGNOS
-pit	pitəmɛmən	V.PTCP;PST;PSS1D
+pit	pitəmɛmən	V;PST;INFER;ARGNO1;ARGNOD
 pit	pitəs	V;PST;ARGNO3;ARGNOS
 pit	pitəsəm	V;PST;ARGNO1;ARGNOS
 pit	pitəsəmən	V;PST;ARGNO1;ARGNOD
@@ -4589,7 +4589,7 @@ pot	potλajəm	PRS;PASS;V.PTCP;PST
 potpot	potpot	N;NOM;SG
 pottəsti	pottəstisλe	V;PST;ARGNO3;ARGNOS;ARGAC
 potəm	potəm	ADJ
-pošχ	pošχəmmaλ	V.PTCP;PST;V.PTCP;PST;PSS3S
+pošχ	pošχəmmaλ	V;PST;V.PTCP;PST;INFER;ARGNO3;ARGNOS
 pošχ	pošχəmtəs	N;PST;NOM;SG
 poλt	poλt	N;NOM;SG
 poλt	poλti	ADJ
@@ -4616,8 +4616,8 @@ pun	punijəλti	V.PTCP;PRS
 pun	punijλsajət	V;PST;PASS;ARGNO3;ARGNOP
 pun	punijλλət	V;PRS;ARGNO3;ARGNOP
 pun	punman	V.CVB
-pun	punmaλ	V.PTCP;PST;PSS3S
-pun	punmaλən	V.PTCP;PST;PSS3S;LOC
+pun	punmaλ	V;PST;INFER;ARGNO3;ARGNOS
+pun	punmaλən	V;PST;INFER;ARGNO3;ARGNOS;LOC
 pun	punsa	V;PST;PASS;ARGNO3;ARGNOS
 pun	punseλ	V;PST;ARGNO3;ARGNOP;ARGACS
 pun	punsəmən	V;PST;ARGNO1;ARGNOD
@@ -4684,7 +4684,7 @@ putr	putrɛməsəw	V;PST;ARGNO1;ARGNOP
 putr	putrԑmijλ	V;PRS;ARGNO3;ARGNOS
 putr	putrԑməstən	V;PST;ARGNO2;ARGNOD
 putr	putrԑməsŋən	V;PST;ARGNO3;ARGNOD
-putǝrt	putǝrtiλəm	PASS;PSS3S;V.PTCP;PST
+putǝrt	putǝrtiλəm	V;PST;PASS;INFER;ARGNO3;ARGNOS
 putər	putər	N;NOM;SG
 putər	putərsəm	PST;V.PTCP;PST
 putər	putərsəm	V;PST;ARGNO1;ARGNOS
@@ -5006,7 +5006,7 @@ pʉnant	pʉnanəλ	V;PRS;ARGNO3;ARGNOS
 pʉnijəλ	pʉnijəλsət	V;PST;ARGNO3;ARGNOP
 pʉntši	pʉntši	V;ARGNO3;ARGNOS
 pʉnš	pʉnši	V.PTCP;PRS
-pʉnš	pʉnšmaλ	V.PTCP;PST;PSS3S
+pʉnš	pʉnšmaλ	V;PST;INFER;ARGNO3;ARGNOS
 pʉnš	pʉnšməsλe	V;PST;ARGNO3;ARGNOS;ARGAC
 pʉnš	pʉnšsa	V;PST;PASS;ARGNO3;ARGNOS
 pʉnš	pʉnšsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
@@ -5230,7 +5230,7 @@ rɵpit	rɵpitsət	V;PST;ARGNO3;ARGNOP
 rɵpit	rɵpitsəw	V;PST;ARGNO1;ARGNOP
 rɵpit	rɵpitsəŋən	V;PST;ARGNO3;ARGNOD
 rɵpit	rɵpitti	V.PTCP;PRS
-rɵpit	rɵpittɛmən	V.PTCP;PRS;PSS1D
+rɵpit	rɵpittɛmən	V;PRS;INFER;ARGNO1;ARGNOD
 rɵpit	rɵpitəs	V;PST;ARGNO3;ARGNOS
 rɵpit	rɵpitəλ	V;PRS;ARGNO3;ARGNOS
 rɵpit	rɵpitλəm	PRS;V.PTCP;PST
@@ -5259,7 +5259,7 @@ rʉtśə	rʉtśəλmən	V;PRS;ARGNO1;ARGNOD
 rʉtʼ	rʉtʼəλ	V;PRS;ARGNO3;ARGNOS
 rʉtʼśə	rʉtʼśəman	V.CVB
 rʉtʼśə	rʉtʼśəsəw	V;PST;ARGNO1;ARGNOP
-rʉtʼśə	rʉtʼśətaλ	V.PTCP;PRS;PSS3S
+rʉtʼśə	rʉtʼśətaλ	V;PRS;INFER;ARGNO3;ARGNOS
 rʉtʼśə	rʉtʼśəti	V.PTCP;PRS
 rʉw	rʉw	N;NOM;SG
 rʉw	rʉweλən	N;PSS3P;LOC;SG
@@ -5583,7 +5583,7 @@ sɛŋk	sɛŋkijəλλen	V;PRS;ARGNO2;ARGNOS;ARGACS
 sɛŋk	sɛŋksət	V;PST;ARGNO3;ARGNOP
 sɛŋk	sɛŋksəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
 sɛŋk	sɛŋkti	V.PTCP;PRS
-sɛŋk	sɛŋktеn	V.PTCP;PRS;PSS2S
+sɛŋk	sɛŋktеn	V;PRS;INFER;ARGNO2;ARGNOS
 sɛŋk	sɛŋkλa	V;PRS;DAT;ARGNO3;ARGNOS
 sɛŋk	sɛŋkλλaλ	V;PRS;ARGNO3;ARGNOP;ARGAC{D/P}
 sɛŋk	sɛŋman	V.CVB
@@ -5674,7 +5674,7 @@ sԑn	sԑnije	N;NOM;SG
 sԑn	sԑnəλ	N;PSS3S;NOM;SG
 sԑr	sԑr	ADJ
 sԑŋ	sԑŋԑmtupsi	V;ARGNO3;ARGNOS
-sԑŋ	sԑŋԑmtətaλ	V.PTCP;PRS;PSS3S
+sԑŋ	sԑŋԑmtətaλ	V;PRS;INFER;ARGNO3;ARGNOS
 sԑŋ	sԑŋԑməti	V.PTCP;PRS
 sԑŋ	sԑŋԑməλem	V;PRS;ARGNO1;ARGNOS;ARGACS
 sԑŋk	sԑŋkańśəs-sԑŋkańśəs	V;PST;V;PST;ARGNO3;ARGNOS
@@ -5685,7 +5685,7 @@ sԑŋk	sԑŋkəλ	V;PRS;ARGNO3;ARGNOS
 sԑŋk	sԑŋkλajəm	V;PRS;PASS;ARGNO1;ARGNOS
 t	t	N;NOM;SG
 ta	ta	INTJ
-taj	tajmaλ	V.PTCP;PST;PSS3S
+taj	tajmaλ	V;PST;INFER;ARGNO3;ARGNOS
 taj	tajseλ	V;PST;ARGNO3;ARGNOP
 taj	tajsət	V;PST;ARGNO3;ARGNOP
 taj	tajsəŋən	V;PST;ARGNO3;ARGNOD
@@ -5755,7 +5755,7 @@ taλ	taλ	N;NOM;SG
 taλ	taλa	N;DAT;SG
 taλ	taλe	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS
 taλ	taλman	V.CVB
-taλ	taλmaλ	V.PTCP;PST;PSS3S
+taλ	taλmaλ	V;PST;INFER;ARGNO3;ARGNOS
 taλ	taλsa	V;PST;PASS;ARGNO3;ARGNOS
 taλ	taλsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
 taλ	taλti	V.PTCP;PRS
@@ -5974,7 +5974,7 @@ tăkλi+dial.var.	tăkλa	ADP
 tăm	tăm	ADJ
 tăm	tăm	PRO;NOM;SG
 tăm	tămen	PRO;ARGNO2;ARGNOS;NOM;SG
-tăm	tămmaλ	V.PTCP;PST;PSS3S
+tăm	tămmaλ	V;PST;INFER;ARGNO3;ARGNOS
 tăm	tămpi	PRO;ADJ;NOM;SG
 tămi	tămi	PRO;NOM;SG
 tămi	tămiti	V.PTCP;PRS
@@ -5987,7 +5987,7 @@ tăməś	tăməś	PRO;NOM;SG
 tămχătəλ	tămχătəλ	ADV
 tămχătλ	tămχătλ	ADV
 tănəλ	tănəλman	V.CVB
-tănλ	tănλteλ	V.PTCP;PRS;PSS3P
+tănλ	tănλteλ	V;PRS;INFER;ARGNO3;ARGNOP
 tănλ	tănλλajət	V;PRS;DAT;ARGNO3;ARGNOP
 tănλ	tănλλəλe	V;PRS;ARGNO3;ARGNOS;ARGAC
 tărm	tărməm	V.PTCP;PST
@@ -6059,7 +6059,7 @@ tăχte	tăχteλ	N;PSS3S;NOM;SG
 tăχti	tăχti	N;NOM;SG
 tăχti	tăχtijən	N;LOC;SG
 tăχəmə	tăχəməsλe	V;PST;ARGNO3;ARGNOS;ARGAC
-tăχərλə	tăχərλəmaλ	V.PTCP;PST;PSS3S
+tăχərλə	tăχərλəmaλ	V;PST;INFER;ARGNO3;ARGNOS
 tăχərλə	tăχərλəs	V;PST;ARGNO3;ARGNOS
 tăχԑ	tăχԑm	N;PSS1S;NOM;SG
 tăχԑ	tăχԑλ	N;PSS3S;NOM;SG
@@ -6092,7 +6092,7 @@ tɵ	tɵsλe	V;PST;ARGNO3;ARGNOS;ARGAC
 tɵ	tɵsλe	V;PST;PL;PSS3S;ARGNO3;ARGNOS
 tɵ	tɵsλəŋən	
 tɵ	tɵtan	V.PTCP;PRS;ARGNO3;ARGNOD
-tɵ	tɵtaλ	V.PTCP;PRS;PSS3S
+tɵ	tɵtaλ	V;PRS;INFER;ARGNO3;ARGNOS
 tɵ	tɵti	V.PTCP;PRS
 tɵ	tɵtija	V.PTCP;PRS;DAT
 tɵ	tɵtɛm	V;PRS;ARGNO1;ARGNOS
@@ -6158,7 +6158,7 @@ tɵs	tɵsa	ADJ
 tɵs	tɵsa	ADV;DAT
 tɵsa+dial.var.	tɵsi	ADV
 tɵt	tɵt	
-tɵt	tɵtmaλ	V.PTCP;PST;PSS3S
+tɵt	tɵtmaλ	V;PST;INFER;ARGNO3;ARGNOS
 tɵt	tɵtλaλ	V;PRS;ARGNO3;ARGNOP;ARGAC{D/P}
 tɵt	tɵtλˊəsəm	V;PST;ARGNO1;ARGNOS
 tɵtʼλə	tɵtʼλəsŋən	V;PST;ARGNO3;ARGNOD
@@ -6184,7 +6184,7 @@ tɵχm	tɵχməs	V;PST;ARGNO3;ARGNOS
 tɵχm	tɵχməλət	V;PRS;ARGNO3;ARGNOP
 tɵχśos	tɵχśos	ADV
 tɵχəm	tɵχəmsԑm	V;PST;ARGNO1;ARGNOS;ARGACS
-tɵχəm	tɵχəmtaλən	V.PTCP;PRS;PSS3S;LOC
+tɵχəm	tɵχəmtaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 tɵχəm	tɵχəmλa	V;PRS;PASS;ARGNO3;ARGNOS
 tɵχər	tɵχərman	V.CVB
 tɵχər	tɵχərsa	V;PST;PASS;ARGNO3;ARGNOS
@@ -6242,7 +6242,7 @@ tʉw	tʉwa	V;IMP;ARGNOS;ARGNO3;ARGNOS
 tʉw	tʉwatən	V;IMP;ARGNOS;DU;ARGNO3;ARGNOS
 tʉw	tʉwe	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS
 tʉw	tʉwman	V.CVB
-tʉw	tʉwmaλ	V.PTCP;PST;PSS3S
+tʉw	tʉwmaλ	V;PST;INFER;ARGNO3;ARGNOS
 tʉw	tʉwəm	V.PTCP;PST
 tʉw	tʉwɛməs	PST
 tʉw	tʉwɛməsλe	V;PST;ARGNO3;ARGNOS;ARGAC
@@ -6358,13 +6358,13 @@ už	už	ADV
 uže	uže	ADV
 uλ	uλ	V;ARGNO3;ARGNOS
 uλ	uλan	
-uλ	uλmaλ	V.PTCP;PST;PSS3S
+uλ	uλmaλ	V;PST;INFER;ARGNO3;ARGNOS
 uλ	uλsaŋən	V;PST;ARGNO3;ARGNOD
 uλ	uλsəm	V;PST;ARGNO1;ARGNOS
 uλ	uλsəmn	V;PST;ARGNO1;ARGNOD
 uλ	uλsət	V;PST;ARGNO3;ARGNOP
 uλ	uλsəw	V;PST;ARGNO1;ARGNOP
-uλ	uλtaλ	V.PTCP;PRS;PSS3S
+uλ	uλtaλ	V;PRS;INFER;ARGNO3;ARGNOS
 uλ	uλti	V.PTCP;PRS
 uλ	uλəm	V.PTCP;PST
 uλ	uλəmtəs	V;PST;ARGNO3;ARGNOS
@@ -6455,7 +6455,7 @@ want	wantsəλe	V;PST;ARGNO3;ARGNOS;ARGAC
 want	wantsəλəw	V;PST;ARGNO1;ARGNOP;ARGAC{D/P}
 want	wantsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
 want	wantsɛmən	V;PST;ARGNO1;ARGNOD;ARGACS
-want	wanttaλən	V.PTCP;PRS;PSS3S;LOC
+want	wanttaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 want	wantti	V.PTCP;PRS
 want	wantti	V;ARGNO3;ARGNOP
 want	wanttijən	V.PTCP;PRS;LOC
@@ -6533,7 +6533,7 @@ weλ	sԑŋkti-weλti	V.PTCP;PRS;V;V.PTCP;PRS;ARGNO3;ARGNOS
 weλ	weλaλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS
 weλ	weλe	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS
 weλ	weλman	V.CVB
-weλ	weλmaλ	V.PTCP;PST;PSS3S
+weλ	weλmaλ	V;PST;INFER;ARGNO3;ARGNOS
 weλ	weλs	V;PST;ARGNO3;ARGNOS
 weλ	weλsa	V;PST;PASS;ARGNO3;ARGNOS
 weλ	weλsajət	V;PST;PASS;ARGNO3;ARGNOP
@@ -6610,7 +6610,7 @@ wońś	wońśsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
 wońśi	wońśi	V;ARGNO3;ARGNOS
 wońśəm	wońśəməλaλ	N;PL;PSS3S;NOM
 wońśəmut	wońśəmut	N;NOM;SG
-woś	wośmaλ	V.PTCP;PST;PSS3S
+woś	wośmaλ	V;PST;INFER;ARGNO3;ARGNOS
 wośχ	wośχəsaŋən	V;PST;ARGNO3;ARGNOD
 wośχ	wośχԑmijəλλəλλe	V;PRS;ARGNO3;ARGNOS;ARGAC
 wośχi	wośχijəλ	V;PRS;ARGNO3;ARGNOS
@@ -6691,7 +6691,7 @@ wustə	wustəλ	V;PRS;ARGNO3;ARGNOS
 wusχəmt	wusχəmtəs	V;PST;ARGNO3;ARGNOS
 wut	wutəmλ	V;PRS;ARGNO3;ARGNOS
 wut	wutəmλa	V;PRS;PASS;ARGNO3;ARGNOS
-wut	wutəmλˊəmaλ	V.PTCP;PST;PSS3S
+wut	wutəmλˊəmaλ	V;PST;INFER;ARGNO3;ARGNOS
 wuś	wuś	N;NOM;SG
 wuś	wuśəmtəs	V;PST;ARGNO3;ARGNOS
 wuśk	wuśke	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS
@@ -6790,7 +6790,7 @@ wɛr	wɛret	N;PL;NOM
 wɛr	wɛrew	N;PSS1P;NOM;SG
 wɛr	wɛreλ	N;PSS3S;NOM;SG
 wɛr	wɛrman	V.CVB
-wɛr	wɛrmaλ	V.PTCP;PST;PSS3S
+wɛr	wɛrmaλ	V;PST;INFER;ARGNO3;ARGNOS
 wɛr	wɛrmɛm	V.PTCP;PST;ARGNO1;ARGNOS
 wɛr	wɛrs	V;PST;ARGNO3;ARGNOS
 wɛr	wɛrsa	V;PST;PASS;ARGNO3;ARGNOS
@@ -6929,7 +6929,7 @@ wɵjt	wɵjtλəm	V;PRS;ARGNO1;ARGNOS
 wɵjt	wɵjtλəw	V;PRS;ARGNO1;ARGNOP
 wɵjə	wɵjəλ	V;PRS;ARGNO3;ARGNOS
 wɵjət	wɵjtəs	V;PST;ARGNO3;ARGNOS
-wɵjət	wɵjətmaλ	V.PTCP;PST;PSS3S
+wɵjət	wɵjətmaλ	V;PST;INFER;ARGNO3;ARGNOS
 wɵjət	wɵjətsa	V;PST;PASS;ARGNO3;ARGNOS
 wɵjət	wɵjətsaŋən	V;PST;ARGNO3;ARGNOD
 wɵjət	wɵjətsəmən	V;PST;ARGNO1;ARGNOD
@@ -7055,19 +7055,19 @@ wɵλ	wɵλijλ	V;ARGNO3;ARGNOS
 wɵλ	wɵλiteλən	V.PTCP;PRS;ARGNO3;ARGNOP;LOC
 wɵλ	wɵλm	
 wɵλ	wɵλman	V.CVB
-wɵλ	wɵλmaλ	V.PTCP;PST;PSS3S
+wɵλ	wɵλmaλ	V;PST;INFER;ARGNO3;ARGNOS
 wɵλ	wɵλmemən	V.PTCP;PST;ARGNO1;ARGNOS;LOC
 wɵλ	wɵλmen	V.PTCP;PST;ARGNO2;ARGNOS
-wɵλ	wɵλmew	V.PTCP;PST;PSS1P
-wɵλ	wɵλmewn	V.PTCP;PST;PSS1P;PSS2S
-wɵλ	wɵλmewən	V.PTCP;PST;PSS1P;LOC
+wɵλ	wɵλmew	V;PST;INFER;ARGNO1;ARGNOP
+wɵλ	wɵλmewn	V;PST;INFER;ARGNO1;ARGNOP;PSS2S
+wɵλ	wɵλmewən	V;PST;INFER;ARGNO1;ARGNOP;LOC
 wɵλ	wɵλmeλən	V.PTCP;PST;ARGNO3;ARGNOP;LOC
 wɵλ	wɵλmətəs	V;PST;ARGNO3;ARGNOS
-wɵλ	wɵλməλ	V.PTCP;PST;PSS3S
+wɵλ	wɵλməλ	V;PST;INFER;ARGNO3;ARGNOS
 wɵλ	wɵλmɛm	V.PTCP;PST;ARGNO1;ARGNOS
-wɵλ	wɵλmɛmn	V.PTCP;PST;PSS1S;PSS2S
-wɵλ	wɵλmɛmən	V.PTCP;PST;PSS1D
-wɵλ	wɵλmɛmən	V.PTCP;PST;PSS1S;LOC
+wɵλ	wɵλmɛmn	V;PST;INFER;ARGNO1;ARGNOS;PSS2S
+wɵλ	wɵλmɛmən	V;PST;INFER;ARGNO1;ARGNOD
+wɵλ	wɵλmɛmən	V;PST;INFER;ARGNO1;ARGNOS;LOC
 wɵλ	wɵλmԑm	V.PTCP;PST;ARGNO1;ARGNOS
 wɵλ	wɵλmԑmn	V.PTCP;PST;ARGNO1;ARGNOS;LOC
 wɵλ	wɵλsəm	V;PST;ARGNO1;ARGNOS
@@ -7075,8 +7075,8 @@ wɵλ	wɵλsəmən	V;PST;ARGNO1;ARGNOD
 wɵλ	wɵλsət	V;PST;ARGNO3;ARGNOP
 wɵλ	wɵλtan	V.PTCP;PRS;ARGNO3;ARGNOD
 wɵλ	wɵλtan	V.PTCP;PRS;DAT
-wɵλ	wɵλtaλ	V.PTCP;PRS;PSS3S
-wɵλ	wɵλtaλn	V.PTCP;PRS;PSS3S;LOC
+wɵλ	wɵλtaλ	V;PRS;INFER;ARGNO3;ARGNOS
+wɵλ	wɵλtaλn	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 wɵλ	wɵλtenən	V.PTCP;PRS;ARGNO2;ARGNOS;LOC
 wɵλ	wɵλteλ	V.PTCP;PRS;ARGNO3;ARGNOP
 wɵλ	wɵλteλən	V.PTCP;PRS;ARGNO3;ARGNOP;LOC
@@ -7085,10 +7085,10 @@ wɵλ	wɵλtija	V.PTCP;PRS;DAT
 wɵλ	wɵλtijən	V.PTCP;PRS;LOC
 wɵλ	wɵλtəwən	V.PTCP;PRS;ARGNO1;ARGNOP;LOC
 wɵλ	wɵλtəλijət	V;PRS;PASS;ARGNO3;ARGNOP
-wɵλ	wɵλtɛmən	V.PTCP;PRS;PSS1D
+wɵλ	wɵλtɛmən	V;PRS;INFER;ARGNO1;ARGNOD
 wɵλ	wɵλtԑm	V.PTCP;PRS;ARGNO1;ARGNOS
 wɵλ	wɵλəm	V.PTCP;PST
-wɵλ	wɵλəmen	V.PTCP;PST;PSS2S
+wɵλ	wɵλəmen	V;PST;INFER;ARGNO2;ARGNOS
 wɵλ	wɵλəmewən	V.PTCP;PST;ARGNO1;ARGNOP;LOC
 wɵλ	wɵλəmɛmən	V.PTCP;PST;ARGNO1;ARGNOS;LOC
 wɵλ	wɵλəpsaλ	V;ARGNO3;ARGNOS
@@ -7137,7 +7137,7 @@ wʉ	wʉjati	V;IMP;ARGNOP;ARGNO3;ARGNOS
 wʉ	wʉjaλi	V;IMP;ARGNOS;ARGAC{D/P};ARGNO3;ARGNOS
 wʉ	wʉje	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS
 wʉ	wʉjman	V.CVB
-wʉ	wʉjmaλ	V.PTCP;PST;PSS3S
+wʉ	wʉjmaλ	V;PST;INFER;ARGNO3;ARGNOS
 wʉ	wʉjmԑmən	V.PTCP;PST;ARGNO1;ARGNOS;LOC
 wʉ	wʉjəm	V.PTCP;PST
 wʉ	wʉjλəmən	V;PRS;ARGNO1;ARGNOD
@@ -7207,7 +7207,7 @@ wʉraja χʉj	wʉraja χʉjti	V.PTCP;PRS
 wʉrak	wʉrak	N;NOM;SG
 wʉras	wʉras	N;NOM;SG
 wʉrat	wʉratijλλət	V;PRS;ARGNO3;ARGNOP
-wʉrat	wʉrattaλ	V.PTCP;PRS;PSS3S
+wʉrat	wʉrattaλ	V;PRS;INFER;ARGNO3;ARGNOS
 wʉrat	wʉratti	V.PTCP;PRS
 wʉrat	wʉratəm	V.PTCP;PST
 wʉrat	wʉratəλ	V;PRS;ARGNO3;ARGNOS
@@ -7270,7 +7270,7 @@ wʉtś	wʉtśijəλs	V;PST;ARGNO3;ARGNOS
 wʉtś	wʉtśijəλsən	V;PST;ARGNO2;ARGNOS
 wʉtś	wʉtśijəλsət	V;PST;ARGNO3;ARGNOP
 wʉtś	wʉtśijəλsλe	V;PST;ARGNO3;ARGNOS;ARGAC
-wʉtś	wʉtśijəλəmen	V.PTCP;PST;PSS2S
+wʉtś	wʉtśijəλəmen	V;PST;INFER;ARGNO2;ARGNOS
 wʉtś	wʉtśijλəλλe	V;PRS;ARGNO3;ARGNOS;ARGAC
 wʉtś	wʉtśəsət	V;PST;ARGNO3;ARGNOP
 wʉtśiλ	wʉtśiλsəm	V;PST;ARGNO1;ARGNOS
@@ -7291,7 +7291,7 @@ wʉśa	wʉśa	INTJ
 wʉśa	wʉśa	N;NOM;SG
 wʉśa wɵλa	wʉśa wɵλa	V;ARGNO3;ARGNOS
 wʉśit	wʉśitman	V.CVB
-wʉśit	wʉśitmaλ	V.PTCP;PST;PSS3S
+wʉśit	wʉśitmaλ	V;PST;INFER;ARGNO3;ARGNOS
 wʉśit	wʉśitsəw	V;PST;ARGNO1;ARGNOP
 wʉśit	wʉśitsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
 wʉśit	wʉśitəλ	V;PRS;ARGNO3;ARGNOS
@@ -7382,7 +7382,7 @@ wԑr	wԑrsəmn	V;PST;ARGNO1;ARGNOD
 wԑr	wԑrsən	V;PST;ARGNO2;ARGNOS
 wԑr	wԑrsət	V;PST;ARGNO3;ARGNOP
 wԑr	wԑrsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
-wԑr	wԑrtaλ	V.PTCP;PRS;PSS3S
+wԑr	wԑrtaλ	V;PRS;INFER;ARGNO3;ARGNOS
 wԑr	wԑrti	V.PTCP;PRS
 wԑr	wԑrəm	V.PTCP;PST
 wԑr	wԑrəmta	V.PTCP;PRS
@@ -7408,7 +7408,7 @@ wԑrt	wԑrtəmtsa	V;PST;PASS;ARGNO3;ARGNOS
 wԑrəm	wԑrəmλəmn	V;PRS;ARGNO1;ARGNOD
 wԑrət	wԑrətəs	V;PST;ARGNO3;ARGNOS
 wԑrət	wԑrətəλ	V;PRS;ARGNO3;ARGNOS
-wԑrλə	wԑrλəmaλən	V.PTCP;PST;PSS3S;LOC
+wԑrλə	wԑrλəmaλən	V;PST;INFER;ARGNO3;ARGNOS;LOC
 wԑrλə	wԑrλəs	V;PST;ARGNO3;ARGNOS
 wԑŋ	wԑŋəλ	N;PSS3S;NOM;SG
 wԑš	wԑš	N;NOM;SG
@@ -7990,7 +7990,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 šawi	šawijλsajəm	V;PST;PASS;ARGNO1;ARGNOS
 šawi	šawisajət	V;PST;PASS;ARGNO3;ARGNOP
 šawi	šawisəλλe	V;PST;PL;PSS3S;ARGNO3;ARGNOS
-šawi	šawitaλən	V.PTCP;PRS;PSS3S;LOC
+šawi	šawitaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 šawi	šawitenən	V.PTCP;PRS;ARGNO2;ARGNOS;LOC
 šawλʼəŋ	šawλʼəŋ	ADJ
 šawԑs	šawԑssət	V;PST;ARGNO3;ARGNOP
@@ -8014,7 +8014,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 šiw	šiwəŋ	ADJ
 šiw	šiwəλ	N;PSS3S;NOM;SG
 šiw	šiwλaλ	N;PL;PSS3P;NOM;SG
-šiwaλ	šiwaλəmaλ	V.PTCP;PST;PSS3S
+šiwaλ	šiwaλəmaλ	V;PST;INFER;ARGNO3;ARGNOS
 šiwaλ	šiwaλəsi	V;PST;PASS;ARGNO3;ARGNOS
 šiwaλ	šiwaλəsijŋən	V;PST;PASS;ARGNO3;ARGNOD
 šiwaλ	šiwaλəsət	V;PST;ARGNO3;ARGNOP
@@ -8174,7 +8174,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 šɵš	šɵtλ	V;PRS;ARGNO3;ARGNOS
 šɵš	šɵša	V;ARGNO3;ARGNOS
 šɵš	šɵša	V;IMP;ARGNOS;ARGNO3;ARGNOS
-šɵš	šɵšijəλtaλ	V.PTCP;PRS;PSS3S
+šɵš	šɵšijəλtaλ	V;PRS;INFER;ARGNO3;ARGNOS
 šɵš	šɵšijəλti	V.PTCP;PRS
 šɵš	šɵšijəλəsət	V;PST;ARGNO3;ARGNOP
 šɵš	šɵšijəλλ	V;PRS;ARGNO3;ARGNOS
@@ -8414,7 +8414,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 ʉw	ʉwman	V.CVB
 ʉw	ʉwsəm	V;PST;ARGNO1;ARGNOS
 ʉw	ʉwsəŋən	V;PST;ARGNO3;ARGNOD
-ʉw	ʉwteλ	V.PTCP;PRS;PSS3S
+ʉw	ʉwteλ	V;PRS;INFER;ARGNO3;ARGNOS
 ʉw	ʉwti	V.PTCP;PRS
 ʉw	ʉwtijəs	V;PST;ARGNO3;ARGNOS
 ʉw	ʉwtəs	V;PST;ARGNO3;ARGNOS
@@ -8463,7 +8463,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 ʉλ	ʉλ	N;NOM;SG
 ʉλ	ʉλ	V;ARGNO3;ARGNOS
 ʉλ	ʉλa	N;DAT;SG
-ʉλ	ʉλtaλ	V.PTCP;PRS;PSS3S
+ʉλ	ʉλtaλ	V;PRS;INFER;ARGNO3;ARGNOS
 ʉλ	ʉλti	V.PTCP;PRS
 ʉλ	ʉλəm	V.PTCP;PST
 ʉλ	ʉλəs	V;PST;ARGNO3;ARGNOS
@@ -8535,7 +8535,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 λarpiλa	λarpiλaλət	V;PRS;ARGNO3;ARGNOP
 λarpət	λarpətti	V.PTCP;PRS
 λarɛmə	λarɛməsijŋən	V;PST;PASS;ARGNO3;ARGNOD
-λat	λatmaλ	V.PTCP;PST;PSS3S
+λat	λatmaλ	V;PST;INFER;ARGNO3;ARGNOS
 λat	λatəmtəs	V;PST;ARGNO3;ARGNOS
 λat	λatəs	V;PST;ARGNO3;ARGNOS
 λat	λatλ	V;PRS;ARGNO3;ARGNOS
@@ -8560,7 +8560,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 λawλ	λawλa	V;ARGNO3;ARGNOS
 λawλ	λawλe	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS
 λawλ	λawλman	V.CVB
-λawλ	λawλtaλ	V.PTCP;PRS;PSS3S
+λawλ	λawλtaλ	V;PRS;INFER;ARGNO3;ARGNOS
 λawλ	λawλəs	V;PST;ARGNO3;ARGNOS
 λawλ	λawλəs-λawλəs	V;PST;V;PST;ARGNO3;ARGNOS
 λawλ	λawλəsman	V.CVB
@@ -8789,10 +8789,10 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 λuŋ	λuŋati	V;IMP;ARGNOP;ARGNO3;ARGNOS
 λuŋ	λuŋijəs	V;PST;ARGNO3;ARGNOS
 λuŋ	λuŋman	V.PTCP;PST;ARGNO3;ARGNOD
-λuŋ	λuŋmaλ	V.PTCP;PST;PSS3S
+λuŋ	λuŋmaλ	V;PST;INFER;ARGNO3;ARGNOS
 λuŋ	λuŋsaŋən	V;PST;ARGNO3;ARGNOD
 λuŋ	λuŋsət	V;PST;ARGNO3;ARGNOP
-λuŋ	λuŋtaλ	V.PTCP;PRS;PSS3S
+λuŋ	λuŋtaλ	V;PRS;INFER;ARGNO3;ARGNOS
 λuŋ	λuŋti	V.PTCP;PRS
 λuŋ	λuŋəm	V.PTCP;PST
 λuŋ	λuŋəməs	V;PST;ARGNO3;ARGNOS
@@ -8803,7 +8803,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 λuŋ	λuŋλa	V;PRS;PASS;ARGNO3;ARGNOS
 λuŋ	λuŋԑməs	V;PST;ARGNO3;ARGNOS
 λuŋ	λuŋԑməsəm	V;PST;ARGNO1;ARGNOS
-λuŋ	λuŋԑmətaλ	V.PTCP;PRS;PSS3S
+λuŋ	λuŋԑmətaλ	V;PRS;INFER;ARGNO3;ARGNOS
 λuŋ	λuŋԑməλ	V;PRS;ARGNO3;ARGNOS
 λuŋt	λuŋtəs	V;PST;ARGNO3;ARGNOS
 λuŋəλ	λuŋəλsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
@@ -8887,7 +8887,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 λɛ	λɛsλe	V;PST;ARGNO3;ARGNOS;ARGAC
 λɛ	λɛt	V.PTCP;PRS
 λɛ	λɛti	V.PTCP;PRS
-λɛ	λɛtəλ	V.PTCP;PRS;PSS3S
+λɛ	λɛtəλ	V;PRS;INFER;ARGNO3;ARGNOS
 λɛ	λɛwman	V.CVB
 λɛ	λɛwəm	V.PTCP;PST
 λɛ	λɛλ	V;PRS;ARGNO3;ARGNOS
@@ -9103,7 +9103,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 λʼawt	λʼawtijəλsaŋən	V;PST;ARGNO3;ARGNOD
 λʼawtəŋ	λʼawtəŋ	ADJ
 λʼawət	λʼawətsən	V;PST;ARGNO2;ARGNOS
-λʼawət	λʼawəttaλən	V.PTCP;PRS;PSS3S;LOC
+λʼawət	λʼawəttaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 λʼawət	λʼawətti	V.PTCP;PRS
 λʼawət	λʼawəttijəλsajəm	V;PST;PASS;ARGNO1;ARGNOS
 λʼawət	λʼawəttəsajəm	V;PST;PASS;ARGNO1;ARGNOS
@@ -9119,7 +9119,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 λˊaksə	λˊaksə	V;ARGNO3;ARGNOS
 λˊaksə	λˊaksəm	V.PTCP;PST
 λˊaksə	λˊaksəman	V.CVB
-λˊaksə	λˊaksəmaλ	V.PTCP;PST;PSS3S
+λˊaksə	λˊaksəmaλ	V;PST;INFER;ARGNO3;ARGNOS
 λˊaksə	λˊaksəs	V;PST;ARGNO3;ARGNOS
 λˊaksə	λˊaksəteλ	V.PTCP;PRS;ARGNO3;ARGNOP
 λˊaksə	λˊaksəti	V.PTCP;PRS
@@ -9145,7 +9145,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 λԑ	λԑsəw	V;PST;ARGNO1;ARGNOP
 λԑ	λԑsλe	V;PST;ARGNO3;ARGNOS;ARGAC
 λԑ	λԑsλən	V;PST;ARGNO{2/3};ARGNOD;ARGACS
-λԑ	λԑtaλ	V.PTCP;PRS;PSS3S
+λԑ	λԑtaλ	V;PRS;INFER;ARGNO3;ARGNOS
 λԑ	λԑti	V.PTCP;PRS
 λԑ	λԑtԑm	V.PTCP;PRS;ARGNO1;ARGNOS
 λԑ	λԑwa	V;ARGNO3;ARGNOS
@@ -9218,7 +9218,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 χatəmə	χatəməs	V;PST;ARGNO3;ARGNOS
 χatəmə	χatəməλəm	V;PRS;ARGNO1;ARGNOS
 χatətˊλˊə	χatətˊλəλ	V;PRS;ARGNO3;ARGNOS
-χatətˊλˊə	χatətˊλˊətaλ	V.PTCP;PRS;PSS3S
+χatətˊλˊə	χatətˊλˊətaλ	V;PRS;INFER;ARGNO3;ARGNOS
 χatətˊλˊə	χatətˊλˊəλ	V;PRS;ARGNO3;ARGNOS
 χatəλ	χatəλ	ADV
 χatλ	χatəλ	N;NOM;SG
@@ -9239,7 +9239,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 χaś	χaś	PART
 χaś	χaś	V;ARGNO3;ARGNOS
 χaś	χaśa	V;IMP;ARGNOS;ARGNO3;ARGNOS
-χaś	χaśmaλ	V.PTCP;PST;PSS3S
+χaś	χaśmaλ	V;PST;INFER;ARGNO3;ARGNOS
 χaś	χaśsəm	V;PST;ARGNO1;ARGNOS
 χaś	χaśsəŋən	V;PST;ARGNO3;ARGNOD
 χaś	χaśəs	V;PST;ARGNO3;ARGNOS
@@ -9257,7 +9257,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 χir	χira	N;DAT;SG
 χir	χirije	N;NOM;SG
 χir	χirijəλəm	V.PTCP;PST
-χir	χirmaλ	V.PTCP;PST;PSS3S
+χir	χirmaλ	V;PST;INFER;ARGNO3;ARGNOS
 χir	χirn	N;LOC;SG
 χir	χirn	N;PSS2S;NOM;SG
 χir	χirəm	V.PTCP;PST
@@ -9286,7 +9286,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 χoj	χoj	V;ARGNO3;ARGNOS
 χoj	χojman	V.CVB
 χoj	χojmaŋ	V.PTCP;PST;ADJ
-χoj	χojmaλ	V.PTCP;PST;PSS3S
+χoj	χojmaλ	V;PST;INFER;ARGNO3;ARGNOS
 χoj	χojs	V;PST;ARGNO3;ARGNOS
 χoj	χojsa	V;PST;PASS;ARGNO3;ARGNOS
 χoj	χojsaŋən	V;PST;ARGNO3;ARGNOD
@@ -9568,7 +9568,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 χuλśa	χuλśa	ADV
 χuλśa	χuλśa	PRO;NOM;SG
 χuλśa	χuλśasa	ADV
-χăj	χăjijəλtaλ	V.PTCP;PRS;PSS3S
+χăj	χăjijəλtaλ	V;PRS;INFER;ARGNO3;ARGNOS
 χăj	χăjijλajət	V;PRS;PASS;ARGNO3;ARGNOP
 χăj	χăjijλəλλaλ	V;ARGNO3;ARGNOP;ARGAC{D/P}
 χăj	χăjman	V.CVB
@@ -9690,7 +9690,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 χăś	χăśa	V;ARGNO3;ARGNOS
 χăś	χăśijλəs	V;PST;ARGNO3;ARGNOS
 χăś	χăśman	V.CVB
-χăś	χăśmaλ	V.PTCP;PST;PSS3S
+χăś	χăśmaλ	V;PST;INFER;ARGNO3;ARGNOS
 χăś	χăśsa	V;PST;PASS;ARGNO3;ARGNOS
 χăś	χăśsaŋən	V;PST;ARGNO3;ARGNOD
 χăś	χăśsət	V;PST;ARGNO3;ARGNOP
@@ -9801,18 +9801,18 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 χɵλ	χɵλman	V.CVB
 χɵλ	χɵλmit	ADJ
 χɵλ	χɵλməsλe	V;PST;ARGNO3;ARGNOS;ARGAC
-χɵλ	χɵλməλ	V.PTCP;PST;PSS3S
+χɵλ	χɵλməλ	V;PST;INFER;ARGNO3;ARGNOS
 χɵλ	χɵλsa	V;PST;PASS;ARGNO3;ARGNOS
 χɵλ	χɵλsəm	V;PST;ARGNO1;ARGNOS
 χɵλ	χɵλsət	V;PST;ARGNO3;ARGNOP
 χɵλ	χɵλsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC
 χɵλ	χɵλsʉw	V;PST;ARGNO1;ARGNOP
-χɵλ	χɵλtaλən	V.PTCP;PRS;PSS3S;LOC
+χɵλ	χɵλtaλən	V;PRS;INFER;ARGNO3;ARGNOS;LOC
 χɵλ	χɵλteλən	V.PTCP;PRS;ARGNO3;ARGNOP;LOC
 χɵλ	χɵλti	V.PTCP;PRS
 χɵλ	χɵλtijən	V.PTCP;PRS;LOC
 χɵλ	χɵλtɛmən	V.PTCP;PRS;ARGNO1;ARGNOS;LOC
-χɵλ	χɵλəmɛmən	V.PTCP;PST;PSS1D
+χɵλ	χɵλəmɛmən	V;PST;INFER;ARGNO1;ARGNOD
 χɵλ	χɵλən	N;LOC;SG
 χɵλ	χɵλənsət	V;PST;ARGNO3;ARGNOP
 χɵλ	χɵλənta	V;ARGNO3;ARGNOS
@@ -9864,7 +9864,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 χɵλԑ	χɵλԑŋ	ADJ
 χɵχətʼλʼ	χɵχətʼλʼa	V;ARGNO3;ARGNOS
 χɵχətʼλʼə	χɵχətʼλʼəsəm	V;PST;ARGNO1;ARGNOS
-χɵχətʼλʼə	χɵχətʼλʼətaλ	V.PTCP;PRS;PSS3S
+χɵχətʼλʼə	χɵχətʼλʼətaλ	V;PRS;INFER;ARGNO3;ARGNOS
 χɵχətʼλʼə	χɵχətʼλʼəti	V.PTCP;PRS
 χɵχətʼλʼə	χɵχətʼλʼəλ	V;PRS;ARGNO3;ARGNOS
 χɵχəλ	χɵχəλ	V;ARGNO3;ARGNOS
@@ -9872,7 +9872,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 χɵχəλ	χɵχəλma	V;ARGNO3;ARGNOS
 χɵχəλ	χɵχəλman	V.CVB
 χɵχəλ	χɵχəλmatn	V;DU;ARGNO3;ARGNOS
-χɵχəλ	χɵχəλmaλ	V.PTCP;PST;PSS3S
+χɵχəλ	χɵχəλmaλ	V;PST;INFER;ARGNO3;ARGNOS
 χɵχəλ	χɵχəλməs	N;PST;NOM;SG
 χɵχəλ	χɵχəλməs	V;PST;ARGNO3;ARGNOS
 χɵχəλ	χɵχəλməsmən	V;PST;ARGNO1;ARGNOD
@@ -9981,10 +9981,10 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 χʉwən	χʉwn	ADV
 χʉwən	χʉwən	ADV
 χʉwən	χʉwənšək	ADV;COMP
-χʉwət	χʉwəttaλ	V.PTCP;PRS;PSS3S
+χʉwət	χʉwəttaλ	V;PRS;INFER;ARGNO3;ARGNOS
 χʉwɛm	χʉwɛməs	V;PST;ARGNO3;ARGNOS
 χʉwλə	χʉwλa	V;IMP;ARGNOS;ARGNO3;ARGNOS
-χʉwλə	χʉwλəmaλ	V.PTCP;PST;PSS3S
+χʉwλə	χʉwλəmaλ	V;PST;INFER;ARGNO3;ARGNOS
 χʉwλə	χʉwλəs	V;PST;ARGNO3;ARGNOS
 χʉwλə	χʉwλəsət	V;PST;ARGNO3;ARGNOP
 χʉśi	χʉśi	ADP
@@ -10074,7 +10074,7 @@ zwˊerofˊerma	zwˊerofˊerma	N;NOM;SG
 ԑsλ	ԑsλəsəs	V;PST;ARGNO3;ARGNOS
 ԑt	ԑte	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS
 ԑt	ԑtijλti	V.PTCP;PRS
-ԑt	ԑtmaλ	V.PTCP;PST;PSS3S
+ԑt	ԑtmaλ	V;PST;INFER;ARGNO3;ARGNOS
 ԑt	ԑtməm	V.PTCP;PST
 ԑt	ԑtməs	V;PST;ARGNO3;ARGNOS
 ԑt	ԑtməsəm	V;PST;ARGNO1;ARGNOS
