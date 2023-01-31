@@ -11,3 +11,7 @@ Tasks:
 4. Combining all the data - Unifying.ipynb -> Unified.tsv
 5. Finding verb lemmas - Verb lemma redo.ipynb -> Prep.tsv
 6. Manual check in [google sheets](https://docs.google.com/spreadsheets/d/1UL6KxLe6wz9uzrZl_zKgVVO24hoatezjtemCGVKqDU8/edit?usp=sharing)
+7. Last automatic adequacy check:
+   * Current manually checked data - manual check.tsv
+   * Notebook - LastRevision.ipynb
+   * Result - final.tsv
