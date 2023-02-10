@@ -322,12 +322,13 @@ bandit	banditλaλən	N;PL;PSS3S;LOC	TRUE
 ewi	ewen	N;PSS2S;NOM;SG	TRUE
 ewi	ewet	N;PL;NOM	TRUE
 ewi	eweλ	N;PSS3S;NOM;SG	TRUE
+ewəmλijəλti	ewəmλijəs	V;PST;ARGNO3;ARGNOS	TRUE
 ewətti	ewətsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
 ewətti	ewətti	V.PTCP;PRS	TRUE
 ewətti	ewətλ	V;PRS;ARGNO3;ARGNOS	TRUE
 ewətti	ewətλa	V;PRS;PASS;ARGNO3;ARGNOS	TRUE
 ewətti	ewətλajət	V;PRS;PASS;ARGNO3;ARGNOP	TRUE
-ewətti	ewətλəλən	V;PRS;ARGNO2;ARGNOP;ARGACS	TRUE
+ewətti	ewətλəλən	V;PRS;ARGNO2;ARGNO{D/P};ARGACS	TRUE
 ewətti	ewətλλe	V;PRS;ARGNO3;ARGNOS;ARGAC	TRUE
 ewəλt	ewəλt	ADP	TRUE
 ewəλt	ewəλta	ADP	TRUE
@@ -519,7 +520,7 @@ ińśəsti	ińśəsa	V;PASS;PST;ARGNO3;ARGNOS	TRUE
 ińśəsti	ińśəsəs	V;PST;ARGNO3;ARGNOS	TRUE
 ińśəsti	ińśəsət	V;PST;ARGNO3;ARGNOS	TRUE
 ińśəsti	ińśəsəλ	V;PRS;ARGNO3;ARGNOS	TRUE
-ińśəsti	ińśəsəλən	V;PST;ARGNO2;ARGNOP;ARGACS	TRUE
+ińśəsti	ińśəsəλən	V;PST;ARGNO2;ARGNOS	TRUE
 ińśəsijəλti	ińśəsijəλλa	V;PRS;PASS;ARGNO3;ARGNOS	TRUE
 ińśəsti	ińśəssəm	V;PST;ARGNO1;ARGNOS	TRUE
 ińśəsti	ińśəssəλλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
@@ -638,14 +639,14 @@ jalańiki	jalańikijən	N;LOC;SG	TRUE
 jalańjʉχ	jalańjʉχ	N;NOM;SG	TRUE
 jăm	jăm	ADJ	TRUE
 jăma	jăma	ADV	TRUE
-jăma	jămašək	ADV;COMP	TRUE
+jăma	jămašək	ADV;COMP	TRUE
 jămaśti	jămaśsəmən	V;PST;ARGNO1;ARGNOD	TRUE
 jămaśti	jămaśsəŋən	V;PST;ARGNO3;ARGNOD	TRUE
 jămaśti	jămaśti	V.PTCP;PRS	TRUE
 jăməs	jăməs	ADV	TRUE
 jămijewa	jămijewa	ADV	TRUE
 jămkɛm	jămkɛm	ADV	TRUE
-jămpɛlək	jămpɛlək	N;NOM;SG	TRUE
+jămpɛlək	jămpɛlək	N;NOM;SG	TRUE
 jăm	jămšək	ADJ;COMP	TRUE
 jămsijewa	jămsijewa	ADV	TRUE
 jăna	jăna	INTJ	TRUE
@@ -797,7 +798,7 @@ jeλ	jeλ	ADV	TRUE
 jeλɛmti	jeλɛms	V;PST;ARGNO3;ARGNOS	TRUE
 jeλɛmti	jeλɛmsa	V;PST;PASS;ARGNO3;ARGNOS	TRUE
 jeλi	jeλi	ADV	TRUE
-jeλi-juχi	jeλi-juχi	ADV	TRUE
+jeλijuχi	jeλijuχi	ADV	TRUE
 jeλi	jeλišək	ADV;COMP	TRUE
 jeλpijən	jeλpijən	ADP	TRUE
 jeλpijən	jeλpijənən	ADP;LOC	TRUE
@@ -896,7 +897,7 @@ jiti	jis	V;PST;ARGNO3;ARGNOS	TRUE
 jis	jisa	N;DAT;SG	TRUE
 jis	jisen	N;PSS2S;NOM;SG	TRUE
 jiti	jisen	V;PST;ARGNO2;ARGNOS;ARGACS	TRUE
-jis	jisǝn	N;LOC;SG	TRUE
+jis	jisən	N;LOC;SG	TRUE
 jiti	jisəm	V;PST;ARGNO1;ARGNOS	TRUE
 jisən	jisən	ADV	TRUE
 jiti	jisən	V;PST;ARGNO2;ARGNOS	TRUE
@@ -977,6 +978,7 @@ još	jošəλən	N;PSS2P;NOM;PL	TRUE
 još	jošɛm	N;PSS1S;NOM;SG	TRUE
 jošije	jošijen	N;PSS2S;NOM;SG	TRUE
 još	jošn	N;LOC;SG	TRUE
+još	jošŋəλ	N;PSS3S;DU;NOM	TRUE
 još	jošŋəλ	N;PSS3S;DU;NOM	TRUE
 josti	jossajət	V;PST;PASS;ARGNO3;ARGNOP	TRUE
 još	jošλaλ	N;PL;PSS3P;NOM	TRUE
@@ -1328,7 +1330,7 @@ kasəm	kasəmən	N;LOC;SG	TRUE
 kasəm	kasəmn	N;LOC;SG	TRUE
 kašəŋ	kašəŋ	ADJ	TRUE
 kăsti	kăsəpsətən	V;PST;ARGNO2;ARGNOD	TRUE
-kăsti	kăsətsa	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+kăsti	kăsətsa	V;PST;PASS;ARGNO3;ARGNOS	TRUE
 kaš	kašəλ	N;PSS3S;NOM;SG	TRUE
 kasəλti	kasəλijəλəw	V;PRS;ARGNO1;ARGNOP	TRUE
 kasəλti	kasəλsət	V;PST;ARGNO3;ARGNOP	TRUE
@@ -1336,7 +1338,7 @@ kasəλti	kăsəλλəman	V;PRS;ARGNO1;ARGNOD	TRUE
 kăši	kăši	ADV	TRUE
 kăši	kăši	N;NOM;SG	TRUE
 kăši	kăšija	N;DAT;SG	TRUE
-kăšti	kăšman	V.CVB	TRUE
+kăšti	kăšman	V.CVB	TRUE
 kasəm	kasmew	N;PSS1P;NOM;SG	TRUE
 kasəm	kasmewn	N;PSS1P;LOC;SG	TRUE
 kăsti	kăssət	V;PST;ARGNO3;ARGNOP	TRUE
@@ -1345,7 +1347,7 @@ kăsti	kăsti	V.PTCP;PRS	TRUE
 kaš	kašλ	N;PSS3S;NOM;SG	TRUE
 kăšti	kăšλ	V;PRS;ARGNO3;ARGNOS	TRUE
 kăšti	kăšλəm	V;PRS;ARGNO1;ARGNOS	TRUE
-kăsti	kăsλəmən	V;PRS;ARGNO1;ARGNOD	TRUE
+kăsti	kăsλəmən	V;PRS;ARGNO1;ARGNOD	TRUE
 kăšti	kăšλəmən	V;PRS;ARGNO1;ARGNOD	TRUE
 kasλəptəti	kasλəptəti	V.PTCP;PRS	TRUE
 kăšti	kăšλəw	V;PRS;ARGNO1;ARGNOP	TRUE
@@ -1371,13 +1373,13 @@ katəλti	katəλλəλλe	V;PRS;ARGNO3;ARGNOS;ARGAC	TRUE
 katəλti	katəλλɛm	V;PRS;ARGNO1;ARGNOS;ARGACS	TRUE
 kătkəš	kătkəša	ADJ;DAT	TRUE
 kătna	kătna	ADV	TRUE
-kătnatʉχnɛməti	kătnatʉχnɛməs	V;PST;ARGNO3;ARGNOS	TRUE
+kătnatʉχnɛməti	kătnatʉχnɛməs	V;PST;ARGNO3;ARGNOS	TRUE
 kătŋən	kătŋən	NUM	TRUE
 kăt	kătŋəλ	N;DU;NOM	TRUE
 katra	katra	ADJ	TRUE
 kătsər	kătsəršəka	ADJ;COMP;DAT	TRUE
 kătwojət	kătwojət	ADV	TRUE
-katəλti	katλaλən	V;IMP;ARGNOP;ARGNO2;ARGAC	TRUE
+katəλti	katλaλən	V;IMP;ARGNO{D/P};ARGNO2;ARGAC	TRUE
 katəλti	katλe	V;IMP;ARGNOS;ARGNO2;ARGACS	TRUE
 katəλti	katλəmən	V;PRS;ARGNO1;ARGNOD	TRUE
 katλəmti	katλəmsa	V;PST;PASS;ARGNO3;ARGNOS	TRUE
@@ -1406,7 +1408,7 @@ kăλti	kăλəs	V;PST;ARGNO3;ARGNOS	TRUE
 kăλi	kăλi	N;NOM;SG	TRUE
 kăλi	kăλija	N;DAT;SG	TRUE
 kăλti	kăλsaŋən	V;PST;ARGNO3;ARGNOD	TRUE
-kăλti	kăλsət	V;PST;ARGNO3;ARGNOP	TRUE
+kăλti	kăλsət	V;PST;ARGNO3;ARGNOP	TRUE
 kaλtəŋ	kaλtəŋa	N;DAT;SG	TRUE
 kaλtəŋ	kaλtəŋəλa	N;PSS3S;DAT;SG	TRUE
 kăλti	kăλti	V.PTCP;PRS	TRUE
@@ -1438,7 +1440,7 @@ kɛm	kɛm	ADP	TRUE
 kɛm	kɛm	N;NOM;SG	TRUE
 kɛm	kɛma	N;DAT;SG	TRUE
 kɛma	kɛma	ADP	TRUE
-kɛm	kɛmǝn	N;LOC;SG	TRUE
+kɛm	kɛmən	N;LOC;SG	TRUE
 kɛmən	kɛmən	ADV	TRUE
 kɛmən	kɛmən	ADP	TRUE
 kɛm	kɛmɛm	N;PSS1S;NOM;SG	TRUE
@@ -1569,656 +1571,436 @@ kɵśa	kɵśajλən	N;PL;LOC	TRUE
 kɵs	kɵseλ	N;PSS3P;NOM;SG	TRUE
 kɵs	kɵsən	N;PSS{2/3}D;NOM;SG	TRUE
 kɵsəŋ	kɵsəŋa	ADJ;DAT	TRUE
-kulˊtura	kulˊturajew	N;PSS1P;NOM;SG	TRUE
-kulak	kulak	N;NOM;SG	TRUE
-kulup	kulupət	N;PL;NOM	TRUE
-kun	kunλaλ	N;PL;PSS3S;NOM	TRUE
-kurs	kursa	N;DAT;SG	TRUE
-	kus		FALSE
-	kuλˊajən		FALSE
-	kʉ		FALSE
-kʉkər	kʉkər	N;NOM;SG	FALSE
-kʉkla	kʉkla	N;NOM;SG	FALSE
-kʉkla	kʉklajen	N;PSS2S;NOM;SG	FALSE
-kʉkla	kʉklajǝn	CONJ;LOC	FALSE
-kʉkla	kʉklajən	N;LOC;SG	FALSE
-kʉkla	kʉklajəλ	N;PSS3S;NOM;SG	FALSE
-kʉkla	kʉklajɛmən	N;PSS1S;LOC;SG	FALSE
-kʉlaśti	kʉlaśλəŋən	V;ARGNO3;ARGNOS;ARGNO3;ARGNOD	FALSE
-kʉləp	kʉləp	N;NOM;SG	FALSE
-kʉmi	kʉmi	N;NOM;SG	FALSE
-	kʉnšəmsajəm		FALSE
-kʉnš	kʉnšət	N;PL;NOM	FALSE
-kʉnšti	kʉnšɛmasəŋən	V;PST;ARGNO3;ARGNOD	FALSE
-kʉnšti	kʉnšɛmaλi	V;PRS;PASS;ARGNO3;ARGNOS	FALSE
-	kʉnšɛməmeλ		FALSE
-kʉnšɛməti	kʉnšɛməs	V;PST;ARGNO3;ARGNOS	FALSE
-kʉnšɛməti	kʉnšɛməsi	V;PST;PASS;ARGNO3;ARGNOS	FALSE
-kʉnšɛməti	kʉnšɛməsλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
-kʉnš	kʉnšɛməti	V.PTCP;PRS	FALSE
-kʉnšti	kʉnšɛməλλe	V;PRS;ARGNO3;ARGNOS;ARGAC	FALSE
-kʉnšti	kʉnšɛmijəλ	V;PRS;ARGNO3;ARGNOS	FALSE
-kʉnšpaŋ jʉχ	kʉnšpaŋ jʉχ	N;NOM;SG	FALSE
-kʉnšpaŋ jʉχ	kʉnšpaŋ jʉχɛm	N;PSS1S;NOM;SG	FALSE
-kʉnšpaŋ	kʉnšpaŋɛm	N;PSS1S;NOM;SG	FALSE
-kʉnš	kʉnštɛm	V.PTCP;PRS;ARGNO1;ARGNOS	FALSE
-kʉnš	kʉnšti	V.PTCP;PRS	FALSE
-kʉr	kʉr	N;NOM;SG	FALSE
-kʉr	kʉr	N;NOM;SG	FALSE
-	kʉra		FALSE
-kʉr	kʉra	N;DAT;SG	FALSE
-kʉrək	kʉrek	N;NOM;SG	FALSE
-kʉr	kʉren	N;PSS2S;NOM;SG	FALSE
-kʉr	kʉrew	N;PSS1P;NOM;SG	FALSE
-kʉrək	kʉrək	N;NOM;SG	FALSE
-kʉrək	kʉrəkən	N;LOC;SG	FALSE
-kʉrəm	kʉrəm	N;NOM;SG	FALSE
-kʉrəm	kʉrəmən	N;LOC;SG	FALSE
-kʉrəm	kʉrəmn	N;LOC;SG	FALSE
-kʉr	kʉrən	N;LOC;SG	FALSE
-kʉrəŋ	kʉrəŋ	ADJ	FALSE
-kʉr	kʉrəp	ADJ	FALSE
-kʉrəs	kʉrəs	N;NOM;SG	FALSE
-kʉrəs pʉχ	kʉrəs pʉχa	N;DAT;SG	FALSE
-kʉrət	kʉrətsa	V;PST;PASS;ARGNO3;ARGNOS	FALSE
-kʉr	kʉrəλ	N;PSS3S;NOM;SG	FALSE
-kʉr	kʉrɛm	N;PSS1S;NOM;SG	FALSE
-kʉrti	kʉrɛməs	V;PST;ARGNO3;ARGNOS	FALSE
-kʉr	kʉrijen	N;PSS2S;NOM;SG	FALSE
-ij	kʉrijeλ	N;PSS3P;NOM;SG	FALSE
-kʉr	kʉrijeλam	N;PL;PSS1S;NOM	FALSE
-kʉrińńa	kʉrińńa	N;NOM;SG	FALSE
-	kʉrlisa		FALSE
-kʉr	kʉrn	N;LOC;SG	FALSE
-kʉr	kʉrŋəna	N;DU;DAT;SG	FALSE
+kʉkər	kʉkər	N;NOM;SG	TRUE
+kʉkla	kʉkla	N;NOM;SG	TRUE
+kʉkla	kʉklajen	N;PSS2S;NOM;SG	TRUE
+kʉkla	kʉklajən	N;SG;LOC	TRUE
+kʉkla	kʉklajəλ	N;PSS3S;NOM;SG	TRUE
+kʉkla	kʉklajɛmən	N;PSS1D;NOM;SG	TRUE
+kʉlaśti	kʉlaśλəŋən	V;PRS;ARGNO3;ARGNOD	TRUE
+kʉləp	kʉləp	N;NOM;SG	TRUE
+kʉnš	kʉnšət	N;PL;NOM	TRUE
+kʉnšɛməti	kʉnšɛmaλi	V;IMP;ARGNO2;ARGNOS;ARGAC{D/P}	TRUE
+kʉnšɛməti	kʉnšɛməmeλ	V;PST;INFER;ARGNO3;ARGNOS	TRUE
+kʉnšɛməti	kʉnšɛməs	V;PST;ARGNO3;ARGNOS	TRUE
+kʉnšɛməti	kʉnšɛməsəŋən	V;PST;ARGNO3;ARGNOD	TRUE
+kʉnšɛməti	kʉnšɛməsi	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+kʉnšɛməti	kʉnšɛməsλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+kʉnšɛməti	kʉnšɛməti	V.PTCP;PRS	TRUE
+kʉnšɛməti	kʉnšɛməλλe	V;PRS;ARGNO3;ARGNOS;ARGAC	TRUE
+kʉnšɛmijəλti	kʉnšɛmijəλ	V;PRS;ARGNO3;ARGNOS	TRUE
+kʉnšɛməti	kʉnšɛmsajəm	V;PST;PASS;ARGNO1;ARGNOS	TRUE
+kʉnšpəŋ	kʉnšpəŋɛm	N;PSS1S;NOM;SG	TRUE
+kʉnšpəŋjʉχ	kʉnšpəŋjʉχ	N;NOM;SG	TRUE
+kʉnšpəŋjʉχ	kʉnšpəŋjʉχɛm	N;PSS1S;NOM;SG	TRUE
+kʉnšti	kʉnšti	V.PTCP;PRS	TRUE
+kʉr	kʉr	N;NOM;SG	TRUE
+kʉr	kʉra	N;DAT;SG	TRUE
+kʉrek	kʉrek	N;NOM;SG	TRUE
+kʉrek	kʉrekən	N;LOC;SG	TRUE
+kʉr	kʉren	N;PSS2S;NOM;SG	TRUE
+kʉr	kʉrew	N;PSS1P;NOM;SG	TRUE
+kʉrəm	kʉrəm	N;NOM;SG	TRUE
+kʉrəm	kʉrəmən	N;LOC;SG	TRUE
+kʉrəm	kʉrəmn	N;LOC;SG	TRUE
+kʉr	kʉrən	N;LOC;SG	TRUE
+kʉrəŋ	kʉrəŋ	ADJ	TRUE
+kʉrəp	kʉrəp	ADJ	TRUE
+kʉrtti	kʉrətsa	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+kʉr	kʉrəλ	N;PSS3S;NOM;SG	TRUE
+kʉr	kʉrɛm	N;PSS1S;NOM;SG	TRUE
+kʉrɛmti	kʉrɛməs	V;PST;ARGNO3;ARGNOS	TRUE
+kʉrije	kʉrijen	N;PSS2S;NOM;SG	TRUE
+kʉrije	kʉrijeλ	N;PSS3P;NOM;SG	TRUE
+kʉrije	kʉrijeλam	N;PL;PSS1S;NOM	TRUE
+kʉr	kʉrn	N;LOC;SG	TRUE
+kʉr	kʉrŋəna	N;DU;DAT	TRUE
 kʉr	kʉrŋəλ	N;PSS3S;DU;NOM	TRUE
-kʉr	kʉrŋəλ	N;DU;NOM;SG	FALSE
-kʉr	kʉrŋəλ	N;PSS3S;NOM;SG	FALSE
-još	kʉrŋəλ-jošŋəλ	N;DU;N;DU;NOM;SG	FALSE
-kʉr	kʉrŋəλam	N;DU;PSS1S;NOM;SG	FALSE
-kʉr	kʉrŋəλam	N;PSS1S;NOM;SG	FALSE
-kʉr	kʉrŋəλanən	N;DU;PSS2S;LOC;SG	FALSE
-kʉr	kʉrŋəλəm	N;PSS1S;NOM;SG	FALSE
-kʉr	kʉrŋəλən	N;DU;LOC;SG	FALSE
-kʉrtti	kʉrsəλλe	V;PST;ARGNO3;ARGNOS	FALSE
-kʉrtti	kʉrtəssət	V;PST;ARGNO3;ARGNOP	FALSE
-kʉr	kʉrλam	N;PL;PSS1S;NOM	FALSE
+kʉr	kʉrŋəλam	N;DU;PSS1S;NOM	TRUE
+kʉr	kʉrŋəλanən	N;DU;PSS2S;LOC	TRUE
+kʉrtti	kʉrsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+kʉrtti	kʉrtəsət	V;PST;ARGNO3;ARGNOP	TRUE
+kʉr	kʉrλam	N;PL;PSS1S;NOM	TRUE
 kʉr	kʉrλaλ	N;PL;PSS3P;NOM	TRUE
-kʉr	kʉrλaλ	N;PL;PSS3S;NOM	FALSE
-kʉr	kʉrλən	N;PL;PSS{2/3}D;NOM	FALSE
-kʉr	kʉrλən	N;PL;PSS{2/3}D;NOM;SG	FALSE
-kʉr	kʉrλi	ADJ	FALSE
-kʉš	kʉš	CONJ	FALSE
-kʉš	kʉš	N;NOM;SG	FALSE
-kʉš	kʉš	PART	FALSE
-kʉśar	kʉśar	N;NOM;SG	FALSE
-kʉśar	kʉśaren	N;PSS2S;NOM;SG	FALSE
-kʉśar	kʉśarleŋkɛm	N;PSS1S;NOM;SG	FALSE
-kʉśar	kʉśarleŋki	N;NOM;SG	FALSE
-kʉśar	kʉśarlɛ	N;NOM;SG	FALSE
-kʉšəm	kʉšəm	N;NOM;SG	FALSE
-kʉs	kʉsəλ	N;PSS3S;NOM;SG	FALSE
-kʉsi	kʉsi	N;NOM;SG	FALSE
-kʉškar	kʉškarəλ	N;PSS3S;NOM;SG	FALSE
-kʉškar	kʉškarɛm	N;PSS1S;NOM;SG	FALSE
-kʉškar	kʉškarije	N;NOM;SG	FALSE
-kʉśma iki	kʉśma iki	N;NOM;SG	FALSE
-kʉś	kʉśman	V.CVB	FALSE
-kʉšməλ	kʉšməλti	V.PTCP;PRS	FALSE
-kʉšməλti	kʉšməλλajət	V;PRS;PASS;ARGNO3;ARGNOP	FALSE
-kʉnšti	kʉšsaλən	V;PST;ARGNO{2/3};ARGNOD;ARGAC{D/P}	FALSE
-kʉštəλ	kʉštəλ	N;NOM;SG	FALSE
-kʉt	kʉt	ADP	FALSE
-kʉt	kʉt	N;NOM;SG	FALSE
-kʉtˊśə	kʉtˊśəsi	V;PST;PASS;ARGNO3;ARGNOS	FALSE
-kʉt	kʉta	ADP;DAT	FALSE
-kʉta	kʉta	ADP	FALSE
-kʉt	kʉteλən	ADP;ARGNO3;ARGNOP;LOC	FALSE
-kʉteλən	kʉteλən	ADV	FALSE
-kʉt	kʉteλn	ADP;ARGNO3;ARGNOP;LOC	FALSE
-kʉt	kʉtən	ADP;LOC	FALSE
-kʉt	kʉtən	N;PSS{2/3}D;NOM;SG	FALSE
-kʉtən	kʉtən	ADP	FALSE
-kʉtən	kʉtən	ADV	FALSE
-kʉt	kʉtənən	ADP;PSS{2/3}D;LOC	FALSE
-kʉtənən	kʉtənən	ADV	FALSE
-kʉt	kʉtəŋa	ADJ	FALSE
-kʉtəp	kʉtəp	ADJ	FALSE
-kʉtəp	kʉtəp	N;NOM;SG	FALSE
-kʉtəp	kʉtəpa	ADP;DAT	FALSE
-kʉtəp	kʉtəpa	N;DAT;SG	FALSE
-kʉtəpa	kʉtəpa	ADP	FALSE
-kʉtəp	kʉtəpən	ADP;LOC	FALSE
-kʉtəp	kʉtəpən	ADV;LOC	FALSE
-kʉtəp	kʉtəpən	N;LOC;SG	FALSE
-kʉtəpən	kʉtəpən	ADP	FALSE
-kʉtəri	kʉtərsa	V;PST;PASS;ARGNO3;ARGNOS	FALSE
-kʉtərtti	kʉtərtaλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS	FALSE
-kʉtəri	kʉtərλa	V;PRS;PASS;ARGNO3;ARGNOS	FALSE
-kʉt	kʉtɛm	N;PSS1S;NOM;SG	FALSE
-kʉt	kʉtɛmən	ADP;PSS1D	FALSE
-kʉt	kʉtɛmənən	ADP;ARGNO1;ARGNOD;LOC	FALSE
-	kʉtije		FALSE
-kʉt	kʉtn	ADP;LOC	FALSE
-kʉtəp	kʉtpəλ	N;PSS3S;NOM;SG	FALSE
-kʉtp	kʉtpəλa	ADP;PSS3S;DAT	FALSE
-kʉtəp	kʉtpijenən	N;PSS2S;LOC;SG	FALSE
-kʉtre	kʉtret	N;PL;NOM	FALSE
-kʉt	kʉtλəpən	PSS3S;ADJ;LOC	FALSE
-kʉtλəp	kʉtλəpən	N;LOC;SG	FALSE
-kʉtλəp	kʉtλəpəλ	N;PSS3S;NOM;SG	FALSE
-kʉλ	kʉλ	ADJ	FALSE
-kʉλˊ	kʉλˊ	N;NOM;SG	FALSE
-kʉλˊ	kʉλˊa	N;DAT;SG	FALSE
-	kʉλˊət		FALSE
-kʉλˊ	kʉλˊət	N;PL;NOM	FALSE
-	kʉλˊŋən		FALSE
-kʉλˊ	kʉλˊλɛŋki	N;NOM;SG	FALSE
-kʉλ	kʉλa	ADJ	FALSE
-kʉλ	kʉλa	ADJ;DAT	FALSE
-kʉλa	kʉλa	ADV	FALSE
-kʉλa	kʉλašək	ADV;COMP	FALSE
-kʉλ	kʉλǝt	ADJ;PL	FALSE
-kʉλ	kʉλət	ADJ;PL	FALSE
-kʉλ	kʉλλaw	ADJ;PL;PSS1P	FALSE
-kʉλ	kʉλλaλ	ADJ;PL;PSS3S	FALSE
-lagˊer	lagˊer	N;NOM;SG	FALSE
-lagˊer	lagˊerλ	N;PSS3S;NOM;SG	FALSE
-lajəm	lajəmn	N;LOC;SG	FALSE
-lajm	lajməŋ	ADJ	FALSE
-	lak		FALSE
-lakk	lakka	ADP;DAT	FALSE
-lăkka	lăkka	ADP	FALSE
-laknɛməti	laknɛməs	V;PST;ARGNO3;ARGNOS	FALSE
-lalɛm	lalɛməs	V;PST;ARGNO3;ARGNOS	FALSE
-lampa	lampajew	N;PSS1P;NOM;SG	FALSE
-	lana		FALSE
-laŋk	laŋkəm	V.PTCP;PST	FALSE
-laŋkti	laŋkəλən	V;ARGNO3;ARGNOS;LOC	FALSE
-laŋkti	laŋkλət	V;PRS;ARGNO3;ARGNOP	FALSE
-lăp	lăp	ADV	FALSE
-	lăp jirsəλλe		FALSE
-lap pɛnt	lap pɛntəm	V.PTCP;PST	FALSE
-lap šɵš	lap šɵšsa	V;PST;PASS;ARGNO3;ARGNOS	FALSE
-lăp tɵtˊλ	lăp tɵtˊλijəλ	V;PASS;PRS;ARGNO3;ARGNOS	FALSE
-lap tɵχər	lap tɵχərsətte	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
-lap tʉwɛmə	lap tʉwɛmətenən	V.PTCP;PRS;ARGNO2;ARGNOS;LOC	FALSE
-lap wʉ	lap wʉsi	V;PST;PASS;ARGNO3;ARGNOS	FALSE
-lap χɵrλɛmə	lap χɵrλɛməλən	V;PRS;ARGNO2;ARGNOS	FALSE
-	lapənman		FALSE
-lapən	lapənsət	V;PST;ARGNO3;ARGNOP	FALSE
-lăp	lăpəŋ	ADJ	FALSE
-lapət	lapət	N;NOM;SG	FALSE
-lăpte	lăpteλ	N;PSS3S;NOM;SG	FALSE
-laś	laśa	N;DAT;SG	FALSE
-latnu	latnu	INTJ	FALSE
-law	lawɛməsλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
-lawmi	lawmi	N;NOM;SG	FALSE
-le	le	PART	FALSE
-	leŋkeλən		FALSE
-leŋkər	leŋkər	N;NOM;SG	FALSE
-lɛŋki	lɛŋkeλ	N;PSS3S;NOM;SG	FALSE
-lɛŋk	lɛŋkɛm	N;PSS1S;NOM;SG	FALSE
-lɛpək	lɛpək	N;NOM;SG	FALSE
-lɛpək sʉχ	lɛpək sʉχət	N;PL;NOM	FALSE
-lɛpk	lɛpkət	N;PL;NOM	FALSE
-likəm	likəmsʉw	V;PST;ARGNO1;ARGNOP	FALSE
-	liŋken		FALSE
-lipaś	lipaś	ADJ	FALSE
-lipaś	lipaśa	ADJ;DAT	FALSE
-lipət	lipət	N;NOM;SG	FALSE
-lipət	lipətλaλ	N;PL;PSS3S;NOM	FALSE
-lipsiti	lipsiλən	V;PRS;ARGNO2;ARGNOS	FALSE
-lipət	liptəŋ	ADJ	FALSE
-lipt	liptət	N;PL;NOM	FALSE
-lipt	liptijet	N;PL;NOM	FALSE
-lis	lis	N;NOM;SG	FALSE
-loganɨ	loganɨ	N;NOM;SG	FALSE
-loŋχ	loŋχɛməm	V.PTCP;PST	FALSE
-loŋχ	loŋχɛməs	V;PST;ARGNO3;ARGNOS	FALSE
-losit	lositsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
-lot	lot	N;NOM;SG	FALSE
-lot	lotən	N;LOC;SG	FALSE
-lot	lotət	N;PL;NOM	FALSE
-lot	lotəλ	N;PSS3S;NOM;SG	FALSE
-lot	lotəλa	N;PSS3S;DAT;SG	FALSE
-lot	lotɛma	N;PSS1S;DAT;SG	FALSE
-lot	lotn	N;LOC;SG	FALSE
-lottə	lottəm	V.PTCP;PST	FALSE
-lottəti	lottəsλən	V;PST;ARGNO{2/3};ARGNOD;ARGAC{D/P}	FALSE
-lottəti	lottəλɛmən	V;PRS;ARGNO1;ARGNOD;ARGACS	FALSE
-lozˊamow	lozˊamow	N;NOM;SG	FALSE
-loχ	loχ	N;NOM;SG	FALSE
-lɵńi	lɵńi	ADJ	FALSE
-lɵśmi	lɵśmi	N;NOM;SG	FALSE
-lupti	lupa	V;ARGNO3;ARGNOS	FALSE
-lupti	lupaλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS	FALSE
-lup	lupəm	V.PTCP;PST	FALSE
-lupti	lupəs	V;PST;ARGNO3;ARGNOS	FALSE
-lupti	lupəλ	V;PRS;ARGNO3;ARGNOS	FALSE
-lupti	lupəλəmən	V;PRS;ARGNO1;ARGNOD	FALSE
-lupti	lupijəλ	V;PRS;ARGNO3;ARGNOS	FALSE
-lupti	lupijəλλəm	V;ARGNO3;ARGNOS;ARGNO1;ARGNOS	FALSE
-lupti	lupijsa	V;PASS;PST;DAT;ARGNO3;ARGNOS	FALSE
-lupti	lupijλ	V;PRS;ARGNO3;ARGNOS	FALSE
-lupti	lupijλa	V;PASS;ARGNO3;ARGNOS	FALSE
-lupti	lupijλsa	V;PST;PASS;ARGNO3;ARGNOS	FALSE
-lupti	lupmaλ	V;PST;INFER;ARGNO3;ARGNOS	FALSE
-lupti	lupsa	V;PST;PASS;ARGNO3;ARGNOS	FALSE
-	lupsajəŋən		FALSE
-lup	lupsəm	PST;V.PTCP;PST	FALSE
-lupti	lupsəm	V;PST;ARGNO1;ARGNOS	FALSE
-lupti	lupsən	V;PST;ARGNO2;ARGNOS	FALSE
-lupti	lupsət	V;PST;ARGNO3;ARGNOP	FALSE
-lupti	lupsəw	V;PST;ARGNO1;ARGNOP	FALSE
-lupti	luptan	V;PRS;INFER;ARGNO};ARGNOD	FALSE
-	luptaλ		FALSE
-lupti	luptaλ	V;PRS;INFER;ARGNO3;ARGNOS	FALSE
-	lupteλ		FALSE
-lup	lupti	V.PTCP;PRS	FALSE
-lupti	lupλ	V;PRS;ARGNO3;ARGNOS	FALSE
-lupti	lupλa	V;PRS;PASS;ARGNO3;ARGNOS	FALSE
-lupti	lupλajəm	V;PRS;PASS;ARGNO1;ARGNOS	FALSE
-lupti	lupλajət	V;PRS;PASS;ARGNO3;ARGNOP	FALSE
-lupti	lupλaŋən	V;PRS;ARGNO3;ARGNOD	FALSE
-lup	lupλəm	PRS;V.PTCP;PST	FALSE
-lupti	lupλəm	V;PRS;ARGNO1;ARGNOS	FALSE
-lupti	lupλən	V;PRS;ARGNO2;ARGNOS	FALSE
-lupti	lupλəŋən	V;PRS;ARGNO3;ARGNOD	FALSE
-lupti	lupλət	V;PRS;ARGNO3;ARGNOP	FALSE
-	lupλəw		FALSE
-lutəŋ	lutəŋ	ADJ	FALSE
-lʉk	lʉk	N;NOM;SG	FALSE
-lʉk	lʉka	N;DAT;SG	FALSE
-lʉk	lʉken	N;PSS2S;NOM;SG	FALSE
-lʉk	lʉkət	N;PL;NOM	FALSE
-lʉk	lʉkəλ	N;PSS3S;NOM;SG	FALSE
-lʉkɛməti	lʉkɛməsλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
-lʉk	lʉkleŋken	N;PSS2S;NOM;SG	FALSE
-lʉk	lʉkλamən	N;PL;PSS1D;NOM	FALSE
-lʉk	lʉkλən	N;PL;PSS{2/3}D;NOM	FALSE
-lʉp	lʉpəm	V.PTCP;PST	FALSE
-lʉp	lʉpəs	V;PST;ARGNO3;ARGNOS	FALSE
-lʉp	lʉpət	V;PRS;ARGNO3;ARGNOS	FALSE
-lʉp	lʉpəλ	V;PRS;ARGNO3;ARGNOS	FALSE
-lʉpijəλ	lʉpijəλ	V;PRS;ARGNO3;ARGNOS	FALSE
-lʉpijəλ	lʉpijəλət	V;PRS;ARGNO3;ARGNOP	FALSE
-lʉpijəλ	lʉpijəλteλ	V.PTCP;PRS;ARGNO3;ARGNOP	FALSE
-lʉpijəλ	lʉpijəλλət	V;PRS;ARGNO3;ARGNOP	FALSE
-lʉp	lʉptət	V;PRS;ARGNO3;ARGNOP	FALSE
-lʉp	lʉpλa	V;PRS;PASS;ARGNO3;ARGNOS	FALSE
-lʉp	lʉpλət	V;PRS;ARGNO3;ARGNOP	FALSE
-lʉp	lʉpλəλλe	V;PRS;PL;PSS3S;ARGNO3;ARGNOS	FALSE
-lʉt	lʉt	N;NOM;SG	FALSE
-lʉt	lʉta	N;DAT;SG	FALSE
-lʉt	lʉtəλ	N;PSS3S;NOM;SG	FALSE
-ma	ma	PRO;NOM;SG	FALSE
-makla	makla	N;NOM;SG	FALSE
-makla	maklalɛt	N;PL;NOM	FALSE
-maksimuvitš	maksimuvitš	N;NOM;SG	FALSE
-măl	măl	PART	FALSE
-manti	mana	V;IMP;ARGNOS;ARGNO3;ARGNOS	FALSE
-man	mana	V;IMP;ARGNOS;ARGNO3;ARGNOS	FALSE
-mănti	măna	V;ARGNO3;ARGNOS	FALSE
-mănti	măna	V;IMP;ARGNOS;ARGNO3;ARGNOS	FALSE
-mănti	mănasa	V;ARGNO3;ARGNOS	FALSE
-mănti	mănatən	V;IMP;ARGNOD;ARGNO3;ARGNOS	FALSE
-man	manati	V;IMP;ARGNOP;ARGNO3;ARGNOS	FALSE
-	mănati		FALSE
-mănema	mănema	PRO;NOM;SG	FALSE
-man	manəm	V.PTCP;PST	FALSE
-măn	mănəm	V.PTCP;PST	FALSE
-manti	manəs	V;PST;ARGNO3;ARGNOS	FALSE
-man	manəs	V;PST;ARGNO3;ARGNOS	FALSE
-mănti	mănəs	V;PST;ARGNO3;ARGNOS	FALSE
-mănti	mănəs-mănəs	V;PST;V;PST;ARGNO3;ARGNOS	FALSE
-mănti	mănəsəm	V;PST;ARGNO1;ARGNOS	FALSE
-mănti	mănəsəw	V;PST;ARGNO1;ARGNOP	FALSE
-manətti	manət	PRO;NOM;SG	FALSE
-măn	mănət	PRO;ACC;SG	FALSE
-mănti	mănətən	V;ARGNO2;ARGNOD	FALSE
-manətti	manətti	PRO;NOM;SG	FALSE
-măn	mănətti	PRO;ACC;ACC;SG	FALSE
-mănətti	mănətti	PRO;NOM;SG	FALSE
-man	manəλ	V;PRS;ARGNO3;ARGNOS	FALSE
-mănti	mănəλ	V;ARGNO3;ARGNOS	FALSE
-mănti	mănəλ	V;PRS;ARGNO3;ARGNOS	FALSE
-măn	mănɛm	PRO;ARGNO1;ARGNOS;NOM;SG	FALSE
-mănɛm	mănɛm	PRO;NOM;SG	FALSE
-manɛma	manɛma	PRO;NOM;SG	FALSE
-măn	mănɛma	PRO;ARGNO1;ARGNOS;DAT;SG	FALSE
-mănɛma	mănɛma	PRO;NOM;SG	FALSE
-mănti	mănɛməs	V;PST;ARGNO3;ARGNOS	FALSE
-mănti	mănɛms	V;PST;ARGNO3;ARGNOS	FALSE
-manijəλti	manijəλsəm	V;PST;ARGNO1;ARGNOS	FALSE
-mănti	mănijəλλət	V;PRS;ARGNO3;ARGNOP	FALSE
-	măniλəs		FALSE
-mănti	mănmaλ	V;PST;INFER;ARGNO3;ARGNOS	FALSE
-mănti	mănmaλən	V;PST;INFER;ARGNO3;ARGNOS;LOC	FALSE
-măn	mănmen	V.PTCP;PST;ARGNO2;ARGNOS	FALSE
-man	manmeλ	V.PTCP;PST;ARGNO3;ARGNOP	FALSE
-măn	mănmən	V.PTCP;PST;LOC	FALSE
-man	mans	V;PST;ARGNO3;ARGNOS	FALSE
-mănti	măns	V;PST;ARGNO3;ARGNOS	FALSE
-	mănsajtən		FALSE
-manšańś	manšańśəs	V;PST;ARGNO3;ARGNOS	FALSE
-mănti	mănsaŋən	V;PST;ARGNO3;ARGNOD	FALSE
-mănti	mănsaŋən-mănsaŋən	V;PST;ARGNO3;ARGNOD;V;PST;ARGNO3;ARGNOD	FALSE
-manti	manset	V;PST;ARGNO3;ARGNOP	FALSE
-mănti	mănsəm	V;PST;ARGNO1;ARGNOS	FALSE
-mănti	mănsəmən	V;PST;ARGNO1;ARGNOD	FALSE
-mănti	mănsəmn	V;PST;ARGNO1;ARGNOD	FALSE
-mănš	mănšəmsɛmn	V;PST;ARGNO1;ARGNOD	FALSE
-mănti	mănsəŋən	V;PST;ARGNO3;ARGNOD	FALSE
-manšə	manšəs	V;PST;ARGNO3;ARGNOS	FALSE
-mănš	mănšəsi	V;PST;PASS;ARGNO3;ARGNOS	FALSE
-mănš	mănšəsλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
-man	mansət	V;PST;ARGNO3;ARGNOP	FALSE
-mănti	mănsət	V;PST;ARGNO3;ARGNOP	FALSE
-mănti	mănsət-mănsət	V;PST;ARGNO3;ARGNOP;V;PST;ARGNO3;ARGNOP	FALSE
-mănšəti	mănšətaλ	V;PRS;INFER;ARGNO3;ARGNOS	FALSE
-manšə	manšətenən	V.PTCP;PRS;ARGNO2;ARGNOS;LOC	FALSE
-	mănsəw		FALSE
-mănti	mănsəw	V;PST;ARGNO1;ARGNOP	FALSE
-mănšəti	mănšəλijət	V;PRS;PASS;ARGNO3;ARGNOP	FALSE
-mansijsk	mansijskən	LOC	FALSE
-mănti	măntan	V;PRS;INFER;ARGNO};ARGNOD	FALSE
-man	mantanan	V.PTCP;PRS;ARGNO3;ARGNOD;LOC	FALSE
-mănti	măntaw	V;PRS;INFER;ARGNO1;ARGNOP	FALSE
-man	mantaλ	V;PRS;INFER;ARGNO3;ARGNOS	FALSE
-măn	măntaλ	V.PTCP;PRS;ARGNO3;ARGNOP	FALSE
-mănti	măntaλ	V;PRS;INFER;ARGNO3;ARGNOS	FALSE
-	măntaλən		FALSE
-mănti	măntaλn	V;PRS;INFER;ARGNO3;ARGNOS;LOC	FALSE
-	mănten		FALSE
-măn	măntew	V.PTCP;PRS;ARGNO1;ARGNOP	FALSE
-măn	mănteλ	V.PTCP;PRS;ARGNO3;ARGNOP	FALSE
-man	mantət	V;PRS;ARGNO3;ARGNOP	FALSE
-man	mantɛm	V.PTCP;PRS;ARGNO1;ARGNOS	FALSE
-mănti	măntɛm	V.PTCP;PRS;ARGNO1;ARGNOS	FALSE
-măn	măntɛmən	V.PTCP;PRS;ARGNO1;ARGNOS;LOC	FALSE
-manti	manti	V.PTCP;PRS	FALSE
-man	manti	V.PTCP;PRS	FALSE
-manətti	manti	PRO;NOM;SG	FALSE
+kʉr	kʉrλən	N;PL;PSS{2/3}D;NOM	TRUE
+kʉr	kʉrλən	N;PL;PSS2P;NOM	TRUE
+kʉrλi	kʉrλi	ADJ	TRUE
+kʉš	kʉš	CONJ	TRUE
+kʉśar	kʉśar	N;NOM;SG	TRUE
+kʉśar	kʉśaren	N;PSS2S;NOM;SG	TRUE
+kʉśarleŋki	kʉśarleŋkɛm	N;PSS1S;NOM;SG	TRUE
+kʉśarleŋki	kʉśarleŋki	N;NOM;SG	TRUE
+kʉśarlɛ	kʉśarlɛ	N;NOM;SG	TRUE
+kʉšəm	kʉšəm	N;NOM;SG	TRUE
+kʉsi	kʉsi	N;NOM;SG	TRUE
+kʉśma	kʉśma	N;NOM;SG	TRUE
+kʉśti	kʉśman	V.CVB	TRUE
+kʉšməλti	kʉšməλti	V.PTCP;PRS	TRUE
+kʉšməλti	kʉšməλλajət	V;PRS;PASS;ARGNO3;ARGNOP	TRUE
+kʉnšti	kʉšsəλən	V;PST;ARGNO2;ARGNO{D/P};ARGACS	TRUE
+kʉt	kʉt	ADP	TRUE
+kʉt	kʉt	N;NOM;SG	TRUE
+kʉt	kʉta	ADP;DAT	TRUE
+kʉt	kʉtən	ADP;LOC	TRUE
+kʉt	kʉtən	N;PSS{2/3}D;NOM;SG	TRUE
+kʉtəp	kʉtəp	ADJ	TRUE
+kʉtəp	kʉtəp	N;NOM;SG	TRUE
+kʉtəp	kʉtəpa	ADP	TRUE
+kʉtəp	kʉtəpa	N;DAT;SG	TRUE
+kʉtəp	kʉtəpən	N;LOC;SG	TRUE
+kʉtərtti	kʉtərsa	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+kʉtərtti	kʉtərtaλən	V;IMP;ARGNO{D/P};ARGAC;ARGNO2	TRUE
+kʉtərtti	kʉtərλa	V;PRS;PASS;ARGNO3;ARGNOS	TRUE
+kʉt	kʉtɛm	N;PSS1S;NOM;SG	TRUE
+kʉt	kʉtɛmən	N;PSS1S;LOC;SG	TRUE
+kʉt	kʉtɛmənən	N;PSS1D;LOC;SG	TRUE
+kʉtije	kʉtije	N;NOM;SG	TRUE
+kʉt	kʉtn	ADP;LOC	TRUE
+kʉtəp	kʉtpəλ	N;PSS3S;NOM;SG	TRUE
+kʉtəp	kʉtpəλa	N;PSS3S;DAT;SG	TRUE
+kʉtpije	kʉtpijenən	N;PSS2S;LOC;SG	TRUE
+kʉtəri	kʉtret	N;PL;NOM	TRUE
+kʉtλəp	kʉtλəpən	N;LOC;SG	TRUE
+kʉtλəp	kʉtλəpəλ	N;PSS3S;NOM;SG	TRUE
+kʉλ	kʉλ	ADJ	TRUE
+kʉλˊ	kʉλˊ	N;NOM;SG	TRUE
+kʉλˊ	kʉλˊa	N;DAT;SG	TRUE
+kʉλˊ	kʉλˊət	N;PL;NOM	TRUE
+kʉλˊlɛŋki	kʉλˊlɛŋki	N;NOM;SG	TRUE
+kʉλˊ	kʉλˊŋən	N;NOM;DU	TRUE
+kʉλa	kʉλa	ADV	TRUE
+kʉλa	kʉλašək	ADV;COMP	TRUE
+lak	lak	N;NOM;SG	TRUE
+lak	laka	N;DAT;SG	TRUE
+lakka	lakka	ADP	TRUE
+laknɛməti	laknɛməs	V;PST;ARGNO3;ARGNOS	TRUE
+lalɛməti	lalɛməs	V;PST;ARGNO3;ARGNOS	TRUE
+lăńa	lăńa	ADV	TRUE
+laŋkti	laŋkəm	V.PTCP;PST	TRUE
+laŋkti	laŋkəλən	V;PRS;ARGNO2;ARGNOS	TRUE
+laŋkti	laŋkλət	V;PRS;ARGNO3;ARGNOP	TRUE
+lăp	lăp	ADV	TRUE
+lăpəŋ	lăpəŋ	ADJ	TRUE
+lăpjirti	lăpjirsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+lăppɛntti	lappɛntəm	V.PTCP;PST	TRUE
+lăpśošiti	lăpśošsa	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+lăpti	lăpteλ	N;PSS3S;NOM;SG	TRUE
+lăptɵχərti	lăptɵχərsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+lăpwʉti	lăpwʉsi	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+lăpχɵrλɛməti	lăpχɵrλɛməλən	V;PRS;ARGNO2;ARGNOS	TRUE
+laś	laśa	N;DAT;SG	TRUE
+lawɛməti	lawɛməsλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+leŋki	leŋkeλ	N;PSS3S;NOM;SG	TRUE
+leŋki	leŋkeλən	N;PSS3S;LOC;SG	TRUE
+leŋkər	leŋkər	N;NOM;SG	TRUE
+lɛpək	lɛpək	N;NOM;SG	TRUE
+lɛpək	lɛpəkt	N;PL;NOM	TRUE
+lɛpək	lɛpkət	N;PL;NOM	TRUE
+lipaś	lipaś	ADJ	TRUE
+lipaś	lipaśa	ADV	TRUE
+lipət	lipət	N;NOM;SG	TRUE
+lipət	lipətλaλ	N;PL;PSS3S;NOM	TRUE
+lipsiti	lipsiλən	V;PRS;ARGNO2;ARGNOS	TRUE
+liptəŋ	liptəŋ	ADJ	TRUE
+lipət	liptət	N;PL;NOM	TRUE
+liptije	liptijet	N;PL;NOM	TRUE
+lis	lis	N;NOM;SG	TRUE
+loŋχɛməti	loŋχɛməm	V.PTCP;PST	TRUE
+loŋχɛməti	loŋχɛməs	V;PST;ARGNO3;ARGNOS	TRUE
+losətti	losətsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+lot	lot	N;NOM;SG	TRUE
+lot	lotən	N;LOC;SG	TRUE
+lot	lotət	N;PL;NOM	TRUE
+lot	lotəλ	N;PSS3S;NOM;SG	TRUE
+lot	lotəλa	N;PSS3S;DAT;SG	TRUE
+lot	lotɛma	N;PSS1S;DAT;SG	TRUE
+lot	lotn	N;LOC;SG	TRUE
+lottəti	lottəm	V.PTCP;PST	TRUE
+lottəti	lottəsλən	V;PST;ARGNO{2/3};ARGNOD;ARGAC{D/P}	TRUE
+lottəti	lottəλɛmən	V;PRS;ARGNO1;ARGNOD;ARGACS	TRUE
+lɵńi	lɵńi	ADJ	TRUE
+lupti	lupa	V;IMP;ARGNO2;ARGNOS	TRUE
+lupti	lupaλən	V;IMP;ARGNO{D/P};ARGAC;ARGNO2	TRUE
+lupti	lupəm	V.PTCP;PST	TRUE
+lupti	lupəs	V;PST;ARGNO3;ARGNOS	TRUE
+lupti	lupəλ	V;PRS;ARGNO3;ARGNOS	TRUE
+lupti	lupəλəmən	V;PRS;ARGNO1;ARGNOD	TRUE
+lupijəλti	lupijəλ	V;PRS;ARGNO3;ARGNOS	TRUE
+lupijəλti	lupijəλteλ	V;PRS;INFER;ARGNO3;ARGNOP	TRUE
+lupijəλti	lupijəλλəm	V;PRS;ARGNO1;ARGNOS	TRUE
+lupijəλti	lupijəλλət	V;PRS;ARGNO3;ARGNOP	TRUE
+lupijəλti	lupijλ	V;PRS;ARGNO3;ARGNOS	TRUE
+lupijəλti	lupijλsa	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+lupijəλti	lupijλsa	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+lupijəλti	lupijλλa	V;PRS;PASS;ARGNO3;ARGNOS	TRUE
+lupti	lupmaλ	V;PST;INFER;ARGNO3;ARGNOS	TRUE
+lupti	lupsa	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+lupti	lupsajəŋən	V;PST;PASS;ARGNO3;ARGNOD	TRUE
+lupti	lupsəm	V;PST;ARGNO1;ARGNOS	TRUE
+lupti	lupsən	V;PST;ARGNO2;ARGNOS	TRUE
+lupti	lupsət	V;PST;ARGNO3;ARGNOP	TRUE
+lupti	lupsəw	V;PST;ARGNO1;ARGNOP	TRUE
+lupti	luptan	V;PRS;INFER;ARGNO{2/3};ARGNOD	TRUE
+lupti	luptaλ	V;PRS;INFER;ARGNO3;ARGNOS	TRUE
+lupti	lupteλ	V;PRS;INFER;ARGNO3;ARGNOP	TRUE
+lupti	lupti	V.PTCP;PRS	TRUE
+lupti	lupλ	V;PRS;ARGNO3;ARGNOS	TRUE
+lupti	lupλa	V;PRS;PASS;ARGNO3;ARGNOS	TRUE
+lupti	lupλajəm	V;PRS;PASS;ARGNO1;ARGNOS	TRUE
+lupti	lupλajət	V;PRS;PASS;ARGNO3;ARGNOP	TRUE
+lupti	lupλaŋən	V;PRS;PASS;ARGNO3;ARGNOD	TRUE
+lupti	lupλəm	V;PRS;ARGNO1;ARGNOS	TRUE
+lupti	lupλən	V;PRS;ARGNO2;ARGNOS	TRUE
+lupti	lupλəŋən	V;PRS;ARGNO3;ARGNOD	TRUE
+lupti	lupλət	V;PRS;ARGNO3;ARGNOP	TRUE
+lupti	lupλəw	V;PRS;ARGNO1;ARGNOP	TRUE
+lupti	lupλəλλe	V;PRS;ARGNO3;ARGNOS;ARGAC	TRUE
+lʉk	lʉk	N;NOM;SG	TRUE
+lʉk	lʉka	N;DAT;SG	TRUE
+lʉk	lʉken	N;PSS2S;NOM;SG	TRUE
+lʉk	lʉkət	N;PL;NOM	TRUE
+lʉk	lʉkəλ	N;PSS3S;NOM;SG	TRUE
+lʉkɛməti	lʉkɛməsλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+lʉkleŋki	lʉkleŋken	N;PSS2S;NOM;SG	TRUE
+lʉk	lʉkλamən	N;PL;PSS1D;NOM	TRUE
+lʉk	lʉkλən	N;PL;PSS{2/3}D;NOM	TRUE
+ma	ma	PRO;NOM;SG	TRUE
+măl	măl	PART	TRUE
+ma	mănԑm	PRO;DAT;SG	TRUE
+mănti	măna	V;IMP;ARGNOS;ARGNO2	TRUE
+mănti	mănatən	V;IMP;ARGNOD;ARGNO2	TRUE
+mănti	mănati	V;IMP;ARGNOP;ARGNO2	TRUE
+mănəm	mănəm	ADJ	TRUE
+mănti	mănəs	V;PST;ARGNO3;ARGNOS	TRUE
+mănti	mănəsəm	V;PST;ARGNO1;ARGNOS	TRUE
+mănti	mănəsəw	V;PST;ARGNO1;ARGNOP	TRUE
+ma	mănət	PRO;ACC;SG	TRUE
+mănti	mănəλ	V;PRS;ARGNO3;ARGNOS	TRUE
+mănԑməti	mănɛməs	V;PST;ARGNO3;ARGNOS	TRUE
+manijəλti	manijəλsəm	V;PST;ARGNO1;ARGNOS	TRUE
+manijəλti	mănijəλλət	V;PRS;ARGNO3;ARGNOP	TRUE
+mănti	mănmaλ	V;PST;INFER;ARGNO3;ARGNOS	TRUE
+mănti	mănmaλən	V;PST;ARGNO3;ARGNOS;TAXIS	TRUE
+mănti	mănmen	V;PST;INFER;ARGNO2;ARGNOS	TRUE
+mănti	manmeλ	V;PST;INFER;ARGNO3;ARGNOP	TRUE
+mănti	măns	V;PST;ARGNO3;ARGNOS	TRUE
+mănti	mănsaŋən	V;PST;PASS;ARGNO3;ARGNOD	TRUE
+mănti	mănsəm	V;PST;ARGNO1;ARGNOS	TRUE
+mănti	mănsəmən	V;PST;ARGNO1;ARGNOD	TRUE
+mănti	mănsəmn	V;PST;ARGNO1;ARGNOD	TRUE
+mănti	mănsəŋən	V;PST;ARGNO3;ARGNOD	TRUE
+mănšəti	mănšəs	V;PST;ARGNO3;ARGNOS	TRUE
+mănšəti	mănšəsi	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+mănšəti	mănšəsλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+mănti	mănsət	V;PST;ARGNO3;ARGNOP	TRUE
+mănšəti	mănšətaλ	V;PRS;INFER;ARGNO3;ARGNOS	TRUE
+mănšəti	mănšətenən	V;PRS;ARGNO2;ARGNOS;TAXIS	TRUE
+mănti	mănsəw	V;PST;ARGNO1;ARGNOP	TRUE
+mănšəti	mănšəλijət	V;PRS;PASS;ARGNO3;ARGNOP	TRUE
+mănšɛməti	mănšɛmsəmn	V;PST;ARGNO1;ARGNOD	TRUE
+mănti	măntan	V;PRS;INFER;ARGNO{2/3};ARGNOD	TRUE
+mănti	măntanən	V;PRS;ARGNO{2/3};ARGNOD;TAXIS	TRUE
+mănti	măntaλ	V;PRS;INFER;ARGNO3;ARGNOS	TRUE
+mănti	măntaλən	V;PRS;ARGNO3;ARGNOS;TAXIS	TRUE
+mănti	măntaλn	V;PRS;ARGNO3;ARGNOS;TAXIS	TRUE
+mănti	mănten	V;PRS;INFER;ARGNO2;ARGNOS	TRUE
+mănti	măntew	V;PRS;INFER;ARGNO1;ARGNOP	TRUE
+mănti	mănteλ	V;PRS;INFER;ARGNO3;ARGNOP	TRUE
+mănti	măntɛm	V;PRS;INFER;ARGNO1;ARGNOS	TRUE
+mănti	măntɛmən	V;PRS;INFER;ARGNO1;ARGNOD	TRUE
+ma	mănti	PRO;ACC;SG	TRUE
 mănti	mănti	V.PTCP;PRS	TRUE
-măn	mănti	PRO;ACC;SG	FALSE
-măn	mănti	V.PTCP;PRS	FALSE
-	mǎnti		FALSE
-măn	măntija	V.PTCP;PRS;DAT	FALSE
-mănti	mănλ	V;ARGNO3;ARGNOP	FALSE
-mănti	mănλ	V;PRS;ARGNO3;ARGNOS	FALSE
-man	manλa	V;PRS;PASS;ARGNO3;ARGNOS	FALSE
-	mănλa		FALSE
-manλ	manλaλəw	V;PRS;ARGNO1;ARGNOP	FALSE
-mănti	mănλew	V;PRS;ARGNO1;ARGNOP	FALSE
-mănti	mănλew	V;PRS;ARGNO1;ARGNOP;ARGACS	FALSE
-mănti	mănλǝλəw	V;ARGNO1;ARGNOP;ARGAC{D/P};ARGNO3;ARGNOP	FALSE
-mănti	mănλǝλəw	V;PRS;ARGNO1;ARGNOP	FALSE
-man	manλəm	V;PRS;ARGNO1;ARGNOS	FALSE
-mănti	mănλəm	V;PRS;ARGNO1;ARGNOS	FALSE
-manti	manλəman	V;PRS;ARGNO1;ARGNOD	FALSE
-man	manλəmən	V;PRS;ARGNO1;ARGNOD	FALSE
-	mănλəmən		FALSE
-mănti	mănλəmən	V;PRS;ARGNO1;ARGNOD	FALSE
-man	manλən	V;PRS;ARGNO2;ARGNOS	FALSE
-mănti	mănλən	V;PRS;ARGNO2;ARGNOS	FALSE
-mănti	mănλən-mănλən	V;PRS;ARGNO2;ARGNOS;V;PRS;ARGNO2;ARGNOS	FALSE
-mănti	mănλəŋən	V;PRS;ARGNO3;ARGNOD	FALSE
-man	manλət	V;PRS;ARGNO3;ARGNOP	FALSE
-mănti	mănλət	V;PL;ARGNO3;ARGNOP	FALSE
-mănti	mănλət	V;PRS;ARGNO3;ARGNOP	FALSE
-mănti	mănλətən	V;PRS;ARGNO2;ARGNOD	FALSE
-mănti	mănλəti	V;PRS;ARGNO2;ARGNOP	FALSE
-man	manλəw	V;PRS;ARGNO1;ARGNOP	FALSE
-mănti	mănλəw	V;PRS;ARGNO1;ARGNOP	FALSE
-mănti	mănλəλəw	V;PRS;ARGNO1;ARGNOP;ARGAC{D/P}	FALSE
-mănti	mănλum	V;PRS;ARGNO1;ARGNOS	FALSE
-mănti	mănλʉw	V;PRS;ARGNO1;ARGNOP	FALSE
-mar	mar	ADV	FALSE
-mar	mar	N;NOM;SG	FALSE
-măr	măr	ADP	FALSE
-măr	măr	N;NOM;SG	FALSE
-măr	măra	ADP;DAT	FALSE
-mărat	măratəmən	V.PTCP;PST;LOC	FALSE
-măratti	măratəs	V;PST;ARGNO3;ARGNOS	FALSE
-măr	mărewn	ADP;ARGNO1;ARGNOP;LOC	FALSE
-mar	mareλən	N;PSS3S;LOC;SG	FALSE
-mărək	mărək	N;NOM;SG	FALSE
-marək	marəka	N;DAT;SG	FALSE
-mar	marən	N;LOC;SG	FALSE
-măr	mărən	ADP;LOC	FALSE
-măr	mărən	N;LOC;SG	FALSE
-măr	mărənən	N;PSS{2/3}D;LOC;SG	FALSE
-mărəŋ	mărəŋ	ADJ	FALSE
-mărətti	mărətəs	V;PST;ARGNO3;ARGNOS	FALSE
-măr	mărəλən	ADP;PSS3S;LOC	FALSE
-mar	marɛmən	ADP;ARGNO1;ARGNOS;LOC	FALSE
-mar	marɛmən	N;PSS1S;LOC;SG	FALSE
-măr	mărɛmən	ADP;ARGNO1;ARGNOS;LOC	FALSE
-marɛmə	marɛməten	V.PTCP;PRS;ARGNO2;ARGNOS	FALSE
-mărɛməti	mărɛməλijŋən	V;ARGNO3;ARGNOD	FALSE
-mărɛm	mărɛmijλ	V;PRS;ARGNO3;ARGNOS	FALSE
-	mărɛmn		FALSE
-marija	marija	N;NOM;SG	FALSE
-marja	marja	N;NOM;SG	FALSE
-	mărŋəλtijəλλən		FALSE
-mărš	măršəp	ADJ	FALSE
-mărt	mărtəs	V;PST;ARGNO3;ARGNOS	FALSE
-măti	măs	V;PST;ARGNO3;ARGNOS	FALSE
-măti	măsəm	V;PST;ARGNO1;ARGNOS	FALSE
-măti	măsi	V;PST;PASS;ARGNO3;ARGNOS	FALSE
-măti	măsijəm	V;PST;PASS;ARGNO1;ARGNOS	FALSE
-măti	măsijəwa	V;PST;PASS;ARGNO1;ARGNOP;PASS	FALSE
-măšja	măšja	ADJ	FALSE
-măšja	măšjaja	ADJ;DAT	FALSE
-maskwa	maskwa	N;NOM;SG	FALSE
-măti	măsλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
-măti	măsλən	V;PST;ARGNO{2/3};ARGNOD;ARGAC{D/P}	FALSE
-mata	mata	PRO;NOM;SG	FALSE
-măta	măta	PRO;NOM;SG	FALSE
-măta	mătajət	PRO;PL;NOM	FALSE
-matajəλ	matajəλ	ADV	FALSE
-ma	matɛm	V;PRS;ARGNO1;ARGNOS	FALSE
-mă	măti	V.PTCP;PRS	FALSE
-mătta	mătta	PRO;NOM;SG	FALSE
-matte	matte	PART	FALSE
-mătte	mătte		FALSE
-mătte	mătte	ADV	FALSE
-mătte	mătte	CONJ	FALSE
-mătt	măttən	PRO;LOC;SG	FALSE
-mătti	mătti	PART	FALSE
-mătti	mătti	PRO;NOM;SG	FALSE
-mătti	măttijən	PRO;LOC;SG	FALSE
-mattirən	mattirən	ADV	FALSE
-măttirən	măttirən	ADV	FALSE
-măttirən	măttirən	PART	FALSE
-mattirən	mattirn	ADV	FALSE
-măttirn	măttirn	PART	FALSE
-maw	mawəŋ	ADJ	FALSE
-măw	măwəŋ	ADJ	FALSE
-măti	măλ	V;PRS;ARGNO3;ARGNOS	FALSE
-măλ	măλ	ADJ	FALSE
-maλatti	maλattija	N;DAT;SG	FALSE
-măti	măλen	V;PRS;ARGNO2;ARGNOS;ARGACS	FALSE
-măti	măλew	V;PRS;ARGNO1;ARGNOP;ARGACS	FALSE
-măti	măλəm	V;PRS;ARGNO1;ARGNOS	FALSE
-măti	măλən	V;PRS;ARGNO2;ARGNOS	FALSE
-măti	măλɛm	V;PRS;ARGNO1;ARGNOS;ARGACS	FALSE
-măti	măλi	V;PRS;PASS;ARGNO3;ARGNOS	FALSE
-măti	măλʉw	V;PRS;ARGNO1;ARGNOP	FALSE
-măti	măλλe	V;PRS;ARGNO3;ARGNOS;ARGAC	FALSE
-mă	măλλən		FALSE
-	meń		FALSE
-meń	meń	N;NOM;SG	FALSE
-meń	meńəλ	N;PSS3S;NOM;SG	FALSE
-meń	meńəλa	N;PSS3S;DAT;SG	FALSE
-meń	meńəλən	N;PSS3S;LOC;SG	FALSE
-	meŋk		FALSE
-	meŋkŋən		FALSE
-	meŋkλaλ		FALSE
-mes	mesən	N;LOC;SG	FALSE
-mesta	mesta	N;NOM;SG	FALSE
-mesta	mestajen	N;PSS2S;NOM;SG	FALSE
-met	met	ADV	FALSE
-mewəλ	mewəλən	N;LOC;SG	FALSE
-mewti	mewtəs	V;PST;ARGNO3;ARGNOS	FALSE
-mewλ	mewλen	N;PSS2S;NOM;SG	FALSE
-mewλ	mewλəλ	N;PSS3S;NOM;SG	FALSE
-mewλ	mewλəλa	N;PSS3S;DAT;SG	FALSE
-mewλ	mewλəλən	N;PSS3S;LOC;SG	FALSE
-mɛlək	mɛlək	ADJ	FALSE
-mɛń nɛ	mɛń ńe	N;NOM;SG	FALSE
-mɛń nɛ	mɛń ńeŋən	N;PSS2S;NOM;SG	FALSE
-mɛń nɛ	mɛń ńɛŋəλ	N;PSS3S;NOM;SG	FALSE
-mɛn	mɛnəmmaλ	V;PST;INFER;ARGNO3;ARGNOS	FALSE
-	mɛnɛməmaλ		FALSE
-mɛnɛmti	mɛnɛməsi	V;PST;PASS;ARGNO3;ARGNOS	FALSE
-mɛnɛməti	mɛnɛməsλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
-mɛnm	mɛnmantəs	V;PST;ARGNO3;ARGNOS	FALSE
-mɛnλ	mɛnλaλət	V;PASS;PL;ARGNO3;ARGNOP	FALSE
-mɛŋk	mɛŋk	N;NOM;SG	FALSE
-	mɛŋk		FALSE
-mɛŋk iki	mɛŋk ikeλ	N;PSS3S;NOM;SG	FALSE
-mɛŋk iki	mɛŋk iki	N;NOM;SG	FALSE
-mɛŋk	mɛŋkəλ	N;PSS3S;NOM;SG	FALSE
-mɛšəm	mɛšəmsəλλe	V;PST;ARGNO3;ARGNOS	FALSE
-mɛsta	mɛsta	N;NOM;SG	FALSE
-mɛsta	mɛstajən	N;LOC;SG	FALSE
-mɛsta	mɛstajəλa	N;PSS3S;DAT;SG	FALSE
-mɛsta	mɛstaλaλ	N;PL;PSS3S;NOM	FALSE
-mɛstə	mɛstəjewən	N;PSS1P;LOC;SG	FALSE
-mɛt	mɛt	PART	FALSE
-mɛt	mɛt	ADV	FALSE
-mɛt	mɛt	PART	FALSE
-mɛt jɵχət	mɛt jɵχət	ADV	FALSE
-mɛt šʉpəŋ	mɛt šʉpəŋ	ADV	FALSE
-mɛta	mɛta	PART	FALSE
-mɛtra	mɛtra	N;NOM;SG	FALSE
-mɛtš	mɛtšaλi	V;IMP;ARGNOS;ARGAC{D/P};ARGNO3;ARGNOS	FALSE
-mɛt	mɛtsən	V;PST;ARGNO2;ARGNOS	FALSE
-mɛtšəti	mɛtšəsi	V;PST;PASS;ARGNO3;ARGNOS	FALSE
-mɛtšəti	mɛtšəste	V;PST;PL;PSS3S;ARGNO3;ARGNOS	FALSE
-mɛtšəti	mɛtšəsλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
-mɛwəλ	mɛwəλ	N;NOM;SG	FALSE
-mɛwəλ	mɛwəλən	N;LOC;SG	FALSE
-mij	mija	V;ARGNO3;ARGNOS	FALSE
-mij	mija	V;IMP;ARGNOS;ARGNO3;ARGNOS	FALSE
-mij	mijaλən		FALSE
-mij	mije	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS	FALSE
-mij	mijəm	V.PTCP;PST	FALSE
-	mijət		FALSE
-mijλˊ	mijλˊəλijλət	V;PRS;ARGNO3;ARGNOP	FALSE
-mij	mijλˊijəλŋən	V;ARGNO3;ARGNOS;DU	FALSE
-mijλˊ	mijλˊsət	V;PST;ARGNO3;ARGNOP	FALSE
-mij	mijλe	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS	FALSE
-mil	mil	N;NOM;SG	FALSE
-mil	mila	N;DAT;SG	FALSE
-mil	miləp	ADJ	FALSE
-mil	miləλ	N;PSS3S;NOM;SG	FALSE
-milliun	milliun	NUM	FALSE
-mil	miln	N;LOC;SG	FALSE
-min	min	PRO;NOM;SG	FALSE
-minama	minama	PRO;NOM;SG	FALSE
-min	minətti	PRO;ACC;ACC;SG	FALSE
-min	minətti	PRO;ACC;SG	FALSE
-minɛmən	minɛmən		FALSE
-min	minɛməna	PRO;DAT;SG	FALSE
-minɛməna	minɛməna		FALSE
-mir	mir	N;NOM;SG	FALSE
-mir	miren	N;PSS2S;NOM;SG	FALSE
-mir	mirew	N;PSS1P;NOM;SG	FALSE
-mir	mirən	N;LOC;SG	FALSE
-mir	mirəta	N;PL;DAT	FALSE
-mir	mirəλ	N;PSS3S;NOM;SG	FALSE
-	mirəλa		FALSE
-mir	mirəλən	N;PL;LOC	FALSE
-mir	mirλaλ	N;PL;PSS3P;NOM	FALSE
-mirχot	mirχota	N;DAT;SG	FALSE
-mis	mis	N;NOM;SG	FALSE
-miš nɛ	miš nɛ	N;NOM;SG	FALSE
-mis	misəŋ	ADJ	FALSE
-mis	misλaλ	N;PL;PSS3S;NOM	FALSE
-mit	mit	N;NOM;SG	FALSE
-mitaλəti	mitaλəs	V;PST;ARGNO3;ARGNOS	FALSE
-mitjoχ	mitjoχ	N;NOM;SG	FALSE
-mitjoχ	mitjoχət	N;PL;NOM	FALSE
-mitjoχ	mitjoχλaλ	N;PL;PSS3S;NOM	FALSE
-mitjoχ	mitjoχλaλən	N;PL;PSS3S;LOC	FALSE
-mitra	mitra	N;NOM;SG	FALSE
-mitra	mitrajən	N;LOC;SG	FALSE
-mitra	mitrajəŋ	ADJ	FALSE
-mitwuχ	mitwuχ	N;NOM;SG	FALSE
-mitχɵ	mitχɵ	N;NOM;SG	FALSE
-mitχɵ	mitχɵja	N;DAT;SG	FALSE
-mitχɵ	mitχɵjəλ	N;PSS3S;NOM;SG	FALSE
-mitχɵ	mitχɵjɛm	N;PSS1S;NOM;SG	FALSE
-mitχɵ	mitχɵjλ	N;PSS3S;NOM;SG	FALSE
-mitχɵ	mitχɵjλa	N;PSS3S;DAT;SG	FALSE
-miλˊij	miλˊijλət	V;PRS;ARGNO3;ARGNOP	FALSE
-	mmm		FALSE
-moj	moj	N;NOM;SG	FALSE
-moj	moja	N;DAT;SG	FALSE
-moj	mojəŋ	ADJ	FALSE
-moj	mojəŋ	ADJ;ADJ	FALSE
-moj	mojəŋa	ADJ;DAT	FALSE
-	mojiλa		FALSE
-mojpər	mojpər	N;NOM;SG	FALSE
-mojpər	mojpərən	N;LOC;SG	FALSE
-	mojλaλ		FALSE
-	mojλaλət		FALSE
-	mojλəpsətən		FALSE
-	mojλəpsijət		FALSE
-mojλəti	mojλəsət	V;PST;ARGNO3;ARGNOP	FALSE
-mojλəti	mojλəsi	V;PST;PASS;ARGNO3;ARGNOS	FALSE
-mojλəti	mojλəsijəm	V;PST;PASS;ARGNO1;ARGNOS	FALSE
-mojλəti	mojλəsijmən	V;PST;PASS;ARGNO1;ARGNOD	FALSE
-mojλəti	mojλəsλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
-	mojλəti		FALSE
-mojλə	mojλəti	V.PTCP;PRS	FALSE
-	mojλəλ		FALSE
-	mojλəλəw		FALSE
-mojλəti	mojλəλɛm	V;PRS;ARGNO1;ARGNOS;ARGACS	FALSE
-mojλəti	mojλəλijəm	V;PRS;PASS;ARGNO1;ARGNOS	FALSE
-	mojλəλλe		FALSE
-	mojλupsi		FALSE
-	mojλupsijət		FALSE
-moldanow	moldanow	N;NOM;SG	FALSE
-	moləpśəŋ		FALSE
-moləpśi	moləpśi	N;NOM;SG	FALSE
-moləpśi	moləpśiλaλ	N;PL;PSS3S;NOM	FALSE
-molśe	molśen	N;PSS2S;NOM;SG	FALSE
-molśɛ	molśɛm	N;PSS1S;NOM;SG	FALSE
-molśi	molśi	N;NOM;SG	FALSE
-mońś	mońś	N;NOM;SG	FALSE
-mońśti	mońśa	V;ARGNO3;ARGNOS	FALSE
-mońś	mońśem	N;PSS1S;NOM;SG	FALSE
-mońś	mońśen	N;PSS2S;NOM;SG	FALSE
-mońśti	mońśəs	V;PST;ARGNO3;ARGNOS	FALSE
-mońś	mońśət	N;PL;NOM	FALSE
-mońśti	mońśəλ	V;PRS;ARGNO3;ARGNOS	FALSE
-mońś	mońśi	V.PTCP;PRS	FALSE
-mońśi	mońśi	V;ARGNO3;ARGNOS	FALSE
-mońśti	mońśλaλ	V;ARGNO3;ARGNOS;ARGNO3;ARGNOP	FALSE
-moń	mońλajəm	V;PRS;PASS;ARGNO1;ARGNOS	FALSE
-moń	mońλaλ	V;PRS;ARGNO3;ARGNOP;ARGAC{D/P}	FALSE
-morti	morti	ADJ	FALSE
-moś	moś	N;NOM;SG	FALSE
-moseŋ	moseŋ		FALSE
-mosəŋ	mosəŋ	ADV	FALSE
-mosəŋ	mosəŋ	PART	FALSE
-mosti	mosəs	V;PST;ARGNO3;ARGNOS	FALSE
-mosti	mosəλ	V;ARGNO3;ARGNOS	FALSE
-mosti	mosəλ	V;PRS;ARGNO3;ARGNOS	FALSE
-mosəλt	mosəλtəsλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
-ewəmλ	mosəλtijəs-ewəmλijəs	V;PST;V;PST;ARGNO3;ARGNOS	FALSE
-mosəλtiλ	mosəλtiλəs	V;PST;ARGNO3;ARGNOS	FALSE
-mośi	mośi	V;ARGNO3;ARGNOS	FALSE
-mos	mosman	V.CVB	FALSE
-n	mośn	N;NOM;SG	FALSE
-mosŋ	mosŋ	ADV	FALSE
-mos	mosti	V.PTCP;PRS	FALSE
-mosti	mosλ	V;PRS;ARGNO3;ARGNOS	FALSE
-mosti	mosλajən	V;DAT;LOC;ARGNO3;ARGNOP	FALSE
+mănti	mănλ	V;PRS;ARGNO3;ARGNOS	TRUE
+mănti	mănλa	V;PRS;PASS;ARGNO3;ARGNOS	TRUE
+mănti	mănλew	V;PRS;ARGNO1;ARGNOP;ARGACS	TRUE
+mănti	mănλəλəw	V;PRS;ARGNO1;ARGNOP;ARGAC{D/P}	TRUE
+mănti	mănλəm	V;PRS;ARGNO1;ARGNOS	TRUE
+mănti	mănλəmən	V;PRS;ARGNO1;ARGNOD	TRUE
+mănti	mănλən	V;PRS;ARGNO2;ARGNOS	TRUE
+mănti	mănλəŋən	V;PRS;ARGNO3;ARGNOD	TRUE
+mănti	mănλət	V;PRS;ARGNO3;ARGNOP	TRUE
+mănti	mănλətən	V;PRS;ARGNO2;ARGNOD	TRUE
+mănti	mănλəti	V;PRS;ARGNO2;ARGNOP	TRUE
+mănti	mănλəw	V;PRS;ARGNO1;ARGNOP	TRUE
+mănti	mănλəλəw	V;PRS;ARGNO1;ARGNOP;ARGAC{D/P}	TRUE
+măr	măr	ADP	TRUE
+măr	măr	N;NOM;SG	TRUE
+măr	măra	N;DAT;SG	TRUE
+măratti	măratəs	V;PST;ARGNO3;ARGNOS	TRUE
+măr	mărewn	N;SG;PSS1P;LOC	TRUE
+măr	măreλən	N;PSS3P;LOC;SG	TRUE
+mărək	mărək	N;NOM;SG	TRUE
+mărək	mărəka	N;DAT;SG	TRUE
+măr	mărən	N;LOC;SG	TRUE
+măr	mărən	ADP;LOC	TRUE
+măr	mărənən	N;PSS{2/3}D;LOC;SG	TRUE
+mărəŋ	mărəŋ	ADJ	TRUE
+mărətti	mărətəs	V;PST;ARGNO3;ARGNOS	TRUE
+măr	mărəλən	N;SG;PSS3S;LOC	TRUE
+măr	mărɛmən	N;PSS1S;SG;LOC	TRUE
+mărɛməti	mărɛməten	V;PRS;INFER;ARGNO2;ARGNOS	TRUE
+mărɛməti	mărɛməλijŋən	V;PRS;PASS;ARGNO3;ARGNOD	TRUE
+mărɛmijəλti	mărɛmijλ	V;PRS;ARGNO3;ARGNOS	TRUE
+măr	mărɛmn	N;PSS1S;SG;LOC	TRUE
+mărŋəλtijəλti	mărŋəλtijəλλən	V;PRS;ARGNO2;ARGNOS	TRUE
+mărətti	mărtəs	V;PST;ARGNO3;ARGNOS	TRUE
+măti	măs	V;PST;ARGNO3;ARGNOS	TRUE
+măti	măsəm	V;PST;ARGNO1;ARGNOS	TRUE
+măti	măsi	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+măti	măsijəm	V;PST;PASS;ARGNO1;ARGNOS	TRUE
+măšja	măšja	ADJ	TRUE
+măšjaja	măšjaja	ADV	TRUE
+măti	măsλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+măti	măsλən	V;PST;ARGNO{2/3};ARGNOD;ARGAC{D/P}	TRUE
+mătajəλ	mătajəλ	ADV	TRUE
+măti	măti	V.PTCP;PRS	TRUE
+mătta	mătta	PRO;NOM;SG	TRUE
+mătta	măttajət	PRO;PL;NOM	TRUE
+mătte	mătte	ADV	TRUE
+mătte	mătte	CONJ	TRUE
+mătta	măttən	PRO;LOC;SG	TRUE
+măttirən	măttirən	ADV	TRUE
+măttirən	măttirn	ADV	TRUE
+mawəŋ	mawəŋ	ADJ	TRUE
+măti	măλ	V;PRS;ARGNO3;ARGNOS	TRUE
+măλ	măλ	ADJ	TRUE
+măλatti	măλattija	N;DAT;SG	TRUE
+măti	măλen	V;PRS;ARGNO2;ARGNOS;ARGACS	TRUE
+măti	măλew	V;PRS;ARGNO1;ARGNOP;ARGACS	TRUE
+măti	măλəm	V;PRS;ARGNO1;ARGNOS	TRUE
+măti	măλən	V;PRS;ARGNO2;ARGNOS	TRUE
+măti	măλəw	V;PRS;ARGNO1;ARGNOP	TRUE
+măti	măλɛm	V;PRS;ARGNO1;ARGNOS;ARGACS	TRUE
+măti	măλi	V;PRS;PASS;ARGNO3;ARGNOS	TRUE
+măti	măλλe	V;PRS;ARGNO3;ARGNOS;ARGAC	TRUE
+măti	măλλən	V;PRS;ARGNO2;ARGNOP;ARGAC{D/P}	TRUE
+meń	meń	N;NOM;SG	TRUE
+meń	meńəλ	N;PSS3S;NOM;SG	TRUE
+meń	meńəλa	N;PSS3S;DAT;SG	TRUE
+meń	meńəλən	N;PSS3S;LOC;SG	TRUE
+mes	mesən	N;LOC;SG	TRUE
+mewəλ	mewəλ	N;NOM;SG	TRUE
+mewəλ	mewəλən	N;LOC;SG	TRUE
+mewətti	mewtəs	V;PST;ARGNO3;ARGNOS	TRUE
+mewəλ	mewλen	N;PSS2S;NOM;SG	TRUE
+mewəλ	mewλəλ	N;PSS3S;NOM;SG	TRUE
+mewəλ	mewλəλa	N;PSS3S;DAT;SG	TRUE
+mewəλ	mewλəλən	N;PSS3S;LOC;SG	TRUE
+mɛlək	mɛlək	ADJ	TRUE
+mɛnəmti	mɛnəmmaλ	V;PST;INFER;ARGNO3;ARGNOS	TRUE
+mɛnɛməti	mɛnɛməmaλ	V;PST;INFER;ARGNO3;ARGNOS	TRUE
+mɛnɛməti	mɛnɛməsi	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+mɛnɛməti	mɛnɛməsλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+mɛńnɛ	mɛńńɛ	N;NOM;SG	TRUE
+mɛńnɛ	mɛńńɛŋən	N;PSS2S;NOM;SG	TRUE
+mɛńnɛ	mɛńńɛŋəλ	N;PSS3S;NOM;SG	TRUE
+mɛnλəti	mɛnλəλət	V;PRS;ARGNO3;ARGNOP	TRUE
+mɛŋk	mɛŋk	N;NOM;SG	TRUE
+mɛŋk	mɛŋkəλ	N;PSS3S;NOM;SG	TRUE
+mɛšəmtti	mɛšəmsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+mɛt	mɛt	ADV	TRUE
+mɛta	mɛta	PART	TRUE
+mɛtjɵχət	mɛtjɵχət	ADV	TRUE
+mɛtšəti	mɛtšaλi	V;IMP;ARGNOS;ARGAC{D/P};ARGNO2	TRUE
+mɛtšəti	mɛtšəsi	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+mɛtšəti	mɛtšəsλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+mɛtšopəŋ	mɛtšopəŋ	ADV	TRUE
+măti	mija	V;IMP;ARGNO2;ARGNOS	TRUE
+măti	mijaλən	V;IMP;ARGNO2;ARGNO{D/P};ARGAC	TRUE
+măti	mije	V;IMP;ARGNOS;ARGACS;ARGNO2	TRUE
+măti	mijəm	V.PTCP;PST	TRUE
+mijλˊəti	mijλˊe	V;IMP;ARGNOS;ARGACS;ARGNO2	TRUE
+mijλˊijəλti	mijλˊijəλŋən	V;PRS;ARGNO3;ARGNOD	TRUE
+mijλˊəti	mijλˊsət	V;PST;ARGNO3;ARGNOP	TRUE
+mil	mil	N;NOM;SG	TRUE
+mil	mila	N;DAT;SG	TRUE
+miləp	miləp	ADJ	TRUE
+mil	miləλ	N;PSS3S;NOM;SG	TRUE
+mil	miln	N;LOC;SG	TRUE
+min	min	PRO;NOM;DU	TRUE
+min	minam	PRO;DAT;DU	TRUE
+min	mint	PRO;ACC;SG	TRUE
+mir	mir	N;NOM;SG	TRUE
+mir	miren	N;PSS2S;NOM;SG	TRUE
+mir	mirew	N;PSS1P;NOM;SG	TRUE
+mir	mirən	N;LOC;SG	TRUE
+mir	mirəta	N;PL;DAT	TRUE
+mir	mirəλ	N;PSS3S;NOM;SG	TRUE
+mir	mirəλa	N;PSS3S;DAT;SG	TRUE
+mir	mirəλən	N;PSS3S;LOC;SG	TRUE
+mir	mirλaλ	N;PL;PSS3P;NOM	TRUE
+mirχot	mirχota	N;DAT;SG	TRUE
+mis	mis	N;NOM;SG	TRUE
+misəŋ	misəŋ	ADJ	TRUE
+mis	misλaλ	N;PL;PSS3S;NOM	TRUE
+mit	mit	N;NOM;SG	TRUE
+mitaλəti	mitaλəs	V;PST;ARGNO3;ARGNOS	TRUE
+mitjoχ	mitjoχ	N;NOM;SG	TRUE
+mitjoχ	mitjoχət	N;PL;NOM	TRUE
+mitjoχ	mitjoχλaλ	N;PL;PSS3S;NOM	TRUE
+mitjoχ	mitjoχλaλən	N;PL;PSS3S;LOC	TRUE
+mitra	mitra	N;NOM;SG	TRUE
+mitra	mitrajən	N;LOC;SG	TRUE
+mitrajəŋ	mitrajəŋ	ADJ	TRUE
+mitχɵ	mitχɵ	N;NOM;SG	TRUE
+mitχɵ	mitχɵja	N;DAT;SG	TRUE
+mitχɵ	mitχɵjəλ	N;PSS3S;NOM;SG	TRUE
+mitχɵ	mitχɵjɛm	N;PSS1S;NOM;SG	TRUE
+mitχɵ	mitχɵjλ	N;PSS3S;NOM;SG	TRUE
+mitχɵ	mitχɵjλa	N;PSS3S;DAT;SG	TRUE
+moj	moj	N;NOM;SG	TRUE
+moj	moja	N;DAT;SG	TRUE
+mojəŋ	mojəŋ	ADJ	TRUE
+mojəŋa	mojəŋa	ADV	TRUE
+mojpər	mojpər	N;NOM;SG	TRUE
+mojpər	mojpərən	N;LOC;SG	TRUE
+moj	mojλa	N;PSS3S;DAT;SG	TRUE
+moj	mojλaλ	N;PL;PSS3S;NOM	TRUE
+mojλəptəti	mojλəpsəλən	V;PST;ARGNO2;ARGNO{D/P};ARGACS	TRUE
+mojλəpsi	mojλəpsi	N;NOM;SG	TRUE
+mojλəptəti	mojλəpsijət	V;PST;PASS;ARGNO3;ARGNOP	TRUE
+mojλəpsi	mojλəpsijət	N;NOM;PL	TRUE
+mojλəti	mojλəsət	V;PST;ARGNO3;ARGNOP	TRUE
+mojλəti	mojλəsi	V;PST;PASS;ARGNO3;ARGNOS	TRUE
+mojλəti	mojλəsijəm	V;PST;PASS;ARGNO1;ARGNOS	TRUE
+mojλəti	mojλəsijmən	V;PST;PASS;ARGNO1;ARGNOD	TRUE
+mojλəti	mojλəsλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+mojλəti	mojλəti	V.PTCP;PRS	TRUE
+mojλəti	mojλəλ	V;PRS;ARGNO3;ARGNOS	TRUE
+mojλəti	mojλəλət	V;PRS;ARGNO3;ARGNOP	TRUE
+mojλəti	mojλəλəw	V;PRS;ARGNO1;ARGNOP	TRUE
+mojλəti	mojλəλɛm	V;PRS;ARGNO1;ARGNOS;ARGACS	TRUE
+mojλəti	mojλəλijəm	V;PRS;PASS;ARGNO1;ARGNOS	TRUE
+mojλəti	mojλəλλe	V;PRS;ARGNO3;ARGNOS;ARGAC	TRUE
+moləpśəŋ	moləpśəŋ	ADJ	TRUE
+moləpśi	moləpśi	N;NOM;SG	TRUE
+moləpśi	moləpśiλaλ	N;PL;PSS3S;NOM	TRUE
+molśi	molśen	N;PSS2S;NOM;SG	TRUE
+molśi	molśɛm	N;PSS1S;NOM;SG	TRUE
+molśi	molśi	N;NOM;SG	TRUE
+mońś	mońś	N;NOM;SG	TRUE
+mońśti	mońśa	V;IMP;ARGNO2;ARGNOS	TRUE
+mońś	mońśen	N;PSS2S;NOM;SG	TRUE
+mońśti	mońśəs	V;PST;ARGNO3;ARGNOS	TRUE
+mońś	mońśət	N;PL;NOM	TRUE
+mońśti	mońśəλ	V;PRS;ARGNO3;ARGNOS	TRUE
+mońś	mońśɛm	N;PSS1S;NOM;SG	TRUE
+mońśi	mońśi	V.PTCP;PRS	TRUE
+mońśti	mońśλaλ	V;PRS;ARGNO3;ARGNOP;ARGAC{D/P}	TRUE
+mońśi	mońλajəm	V;PRS;PASS;ARGNO1;ARGNOS	TRUE
+mońśi	mońλaλ	V;PRS;ARGNO3;ARGNOP;ARGAC{D/P}	TRUE
+morti	morti	ADJ	TRUE
+mosəŋ	mosəŋ	ADV	TRUE
+mosti	mosəs	V;PST;ARGNO3;ARGNOS	TRUE
+mosti	mosəλ	V;PRS;ARGNO3;ARGNOS	TRUE
+mosəλtəti	mosəλtəsλe	V;PST;ARGNO3;ARGNOS;ARGAC	TRUE
+mosəλtijəλti	mosəλtijəs	V;PST;ARGNO3;ARGNOS	TRUE
+mosəλtijəλti	mosəλtijλəs	V;PST;ARGNO3;ARGNOS	TRUE
+mosti	mosman	V.CVB	TRUE
+mosəŋ	mosŋ	ADV	TRUE
+mosti	mosti	V.PTCP;PRS	TRUE
+mosti	mosλ	V;PRS;ARGNO3;ARGNOS	TRUE
+mosti	mosλajən	V;PRS;PASS;ARGNO2;ARGNOS	TRUE
 moś	mośλan	N;PL;PSS2S;NOM	FALSE
 moś	mośλaλ	N;PL;PSS3S;NOM	FALSE
 mosti	mosλəm	V;PRS;ARGNO1;ARGNOS	FALSE
@@ -2374,32 +2156,27 @@ mʉs	mʉsəλ	V;PRS;ARGNO3;ARGNOS	FALSE
 mʉsəλ	mʉsəλ	V;ARGNO3;ARGNOS	FALSE
 mʉtšə	mʉtšəsən	V;PST;ARGNO2;ARGNOS	FALSE
 mʉλti wʉrən+dial.var.	mʉtti wʉrən	ADV	FALSE
-mʉw	mʉw	N;NOM;SG	FALSE
-mʉw păj	mʉw păj	N;NOM;SG	FALSE
-mʉw păj	mʉw păjən	N;LOC;SG	FALSE
-mʉw taχi	mʉw taχi	N;NOM;SG	FALSE
-mʉw	mʉwa	N;DAT;SG	FALSE
-jiŋk	mʉwa-jiŋka	N;DAT;N;DAT;SG	FALSE
-mʉw	mʉwemən	N;PSS1S;LOC;SG	FALSE
-mʉw	mʉwen	N;PSS2S;NOM;SG	FALSE
-mʉw	mʉwew	N;PSS1P;NOM;SG	FALSE
-mʉw	mʉwewa	N;PSS1P;DAT;SG	FALSE
-mʉw	mʉwewən	N;PSS1P;LOC;SG	FALSE
-mʉw	mʉwewn	N;PSS1P;LOC;SG	FALSE
-mʉw	mʉwən	N;LOC;SG	FALSE
-mʉw	mʉwən	N;PSS2P;NOM;SG	FALSE
-mʉw	mʉwəŋ	ADJ	FALSE
-mʉw	mʉwət	N;PL;NOM	FALSE
-mʉw	mʉwəta	N;PL;DAT	FALSE
-mʉw	mʉwəλ	N;PSS3S;NOM;SG	FALSE
-mʉw	mʉwəλa	N;PSS3S;DAT;SG	FALSE
-mʉw	mʉwɛm	N;PSS1S;NOM;SG	FALSE
-mʉw	mʉwɛma	N;PSS1S;DAT;SG	FALSE
-mʉw	mʉwɛmən	N;PSS1S;LOC;SG	FALSE
-mʉw	mʉwɛŋ	ADJ	FALSE
-mʉw	mʉwi	ADJ	FALSE
-ij	mʉwijen	N;PSS2S;NOM;SG	FALSE
-mʉw	mʉwλi	ADJ	FALSE
+mʉw	mʉw	N;NOM;SG	TRUE
+mʉw	mʉwa	N;DAT;SG	TRUE
+mʉw	mʉwen	N;PSS2S;NOM;SG	TRUE
+mʉw	mʉwew	N;PSS1P;NOM;SG	TRUE
+mʉw	mʉwewa	N;PSS1P;DAT;SG	TRUE
+mʉw	mʉwewən	N;PSS1P;LOC;SG	TRUE
+mʉw	mʉwewn	N;PSS1P;LOC;SG	TRUE
+mʉw	mʉwən	N;LOC;SG	TRUE
+mʉw	mʉwən	N;PSS2P;NOM;SG	TRUE
+mʉwəŋ	mʉwəŋ	ADJ	TRUE
+mʉw	mʉwət	N;PL;NOM	TRUE
+mʉw	mʉwəta	N;PL;DAT	TRUE
+mʉw	mʉwəλ	N;PSS3S;NOM;SG	TRUE
+mʉw	mʉwəλa	N;PSS3S;DAT;SG	TRUE
+mʉw	mʉwɛm	N;PSS1S;NOM;SG	TRUE
+mʉw	mʉwɛma	N;PSS1S;DAT;SG	TRUE
+mʉw	mʉwɛmən	N;PSS1S;LOC;SG	TRUE
+mʉwije	mʉwijen	N;PSS2S;NOM;SG	TRUE
+mʉwpaj	mʉwpaj	N;NOM;SG	TRUE
+mʉwpaj	mʉwpajən	N;LOC;SG	TRUE
+mʉwλi	mʉwλi	ADJ	TRUE
 mʉλ	mʉλ	N;NOM;SG	FALSE
 mʉλ taχi	mʉλ taχija	N;DAT;SG	FALSE
 mʉλ	mʉλəm	V.PTCP;PST	FALSE
@@ -2654,6 +2431,7 @@ nɛŋ	nɛŋɛm	N;PSS1S;NOM;SG	FALSE
 nɛŋ	nɛŋɛmən	N;PSS1D;NOM;SG	FALSE
 ij	nɛŋijen	N;PSS2S;NOM;SG	FALSE
 nɛŋ	nɛŋijenən	N;PSS2S;LOC;SG	FALSE
+nɛŋ	nɛŋŋən	N;DU;NOM	FALSE
 nɛpek	nɛpek	N;NOM;SG	FALSE
 nɛpek	nɛpeka	N;DAT;SG	FALSE
 nɛpek	nɛpeken	N;PSS2S;NOM;SG	FALSE
@@ -2675,7 +2453,7 @@ nik	nik	ADV	FALSE
 nik kăwərt	nik kăwərsəŋən	V;PST;ARGNO3;ARGNOD	FALSE
 nik kăwərt	nik kăwərsəλən	V;PST;ARGNO3;ARGNOD;ARGACS	FALSE
 nik kăwərt	nik kăwərsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
-nik kăwərt	nik kăwərtaλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS	FALSE
+nik kăwərt	nik kăwərtaλən	V;IMP;ARGNO{D/P};ARGAC;ARGNO3;ARGNOS	FALSE
 nik kăwərt	nik kăwərti	V;ARGNO3;ARGNOS	FALSE
 nik mʉλ	nik mʉλsəŋən	V;PST;ARGNO3;ARGNOD	FALSE
 nik mʉλ	nik mʉλti	V.PTCP;PRS	FALSE
@@ -3048,7 +2826,7 @@ ortti	ortλəw	V;PRS;ARGNO1;ARGNOP	FALSE
 oš	oš	N;NOM;SG	FALSE
 osa	osa	ADJ	FALSE
 osa	osa	ADV	FALSE
-oš	ošǝŋ	ADJ;ADJ	FALSE
+oš	ošəŋ	ADJ;ADJ	FALSE
 ošńi	ošńilɛŋkɛλ	N;PSS3S;NOM;SG	FALSE
 ośoλ	ośoλən	N;LOC;SG	FALSE
 otdˊlˊeńija	otdˊlˊeńijajən	N;LOC;SG	FALSE
@@ -3120,16 +2898,16 @@ oχti	oχtija	N;DAT;SG	FALSE
 	ɵŋəχ		FALSE
 	ɵŋχə		FALSE
 ɵŋχ	ɵŋχən	N;LOC;SG	FALSE
-ɵpǝt	ɵpǝt	N;NOM;SG	FALSE
-ɵpǝt	ɵpǝten	N;PSS2S;NOM;SG	FALSE
-ɵpǝt	ɵpǝtən	N;PSS2S;NOM;SG	FALSE
+ɵpət	ɵpət	N;NOM;SG	FALSE
+ɵpət	ɵpəten	N;PSS2S;NOM;SG	FALSE
+ɵpət	ɵpətən	N;PSS2S;NOM;SG	FALSE
 ɵpət	ɵpət	N;NOM;SG	FALSE
 ɵpət	ɵpətən	LOC	FALSE
 ɵpət	ɵpətλaλ	N;PL;PSS3S;NOM	FALSE
 ɵpət	ɵpətλew	N;PL;PSS1P;NOM	FALSE
 ɵpət	ɵpətλən	N;PL;PSS{2/3}D;NOM	FALSE
 ɵpt	ɵpt	N;NOM;SG	FALSE
-ɵpt	ɵptǝt	N;PL;NOM	FALSE
+ɵpt	ɵptət	N;PL;NOM	FALSE
 ɵpt	ɵptλaλ	V;ARGNO3;ARGNOP;ARGNO3;ARGNOP	FALSE
 ɵp	ɵpλan	N;PL;PSS2S;NOM	FALSE
 ɵp	ɵpλaw	N;PL;PSS1P;NOM	FALSE
@@ -3224,7 +3002,7 @@ pănnɛ	pănnɛ	N;NOM;SG	FALSE
 pănt	pănt	N;NOM;SG	FALSE
 pant	panta	N;DAT;SG	FALSE
 pănt	pănta	N;DAT;SG	FALSE
-pănt	păntǝλ	N;PRS;NOM;SG	FALSE
+pănt	păntəλ	N;PRS;NOM;SG	FALSE
 pănt	păntən	N;LOC;SG	FALSE
 pănt	păntəŋa	ADJ;DAT	FALSE
 pant	pantət	N;PSS3P;NOM;SG	FALSE
@@ -3388,7 +3166,7 @@ paλtap	paλtapəŋ	ADJ	FALSE
 păλtap	păλtapəŋ	ADJ	FALSE
 	păλtapət		FALSE
 păλtap	păλtapšək	V;COMP;ARGNO3;ARGNOS	FALSE
-	păλtaptǝti		FALSE
+	păλtaptəti		FALSE
 paλ	paλti	V.PTCP;PRS	FALSE
 păλ	păλti	V.PTCP;PRS	FALSE
 paλti	paλλa	V;PRS;PASS;ARGNO3;ARGNOS	FALSE
@@ -3831,7 +3609,7 @@ pušχ	pušχλaλ	N;PL;PSS3S;NOM	FALSE
 putali	putali	N;NOM;SG	FALSE
 putali	putalijən	N;LOC;SG	FALSE
 	puteλ		FALSE
-putǝrt	putǝrtiλəm	V;PST;PASS;INFER;ARGNO3;ARGNOS	FALSE
+putərt	putərtiλəm	V;PST;PASS;INFER;ARGNO3;ARGNOS	FALSE
 putər	putər	N;NOM;SG	FALSE
 	putəra		FALSE
 putər	putərəλ	N;PSS3S;NOM;SG	FALSE
@@ -3947,7 +3725,7 @@ pʉl	pʉlλaλ	N;PL;PSS3S;NOM;SG	FALSE
 pʉn	pʉn	N;NOM;SG	FALSE
 pʉnant	pʉnanəλ	V;PRS;ARGNO3;ARGNOS	FALSE
 pʉnant	pʉnansajət	V;PST;PASS;ARGNO3;ARGNOP	FALSE
-pʉn	pʉnaλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS	FALSE
+pʉn	pʉnaλən	V;IMP;ARGNO{D/P};ARGAC;ARGNO3;ARGNOS	FALSE
 pʉn	pʉnəm	V.PTCP;PST	FALSE
 pʉnəmtiλ	pʉnəmtiλajje	V;IMP;ARGNOS;ARGNO3;ARGNOS	FALSE
 pʉn	pʉnən	N;LOC;SG	FALSE
@@ -3979,8 +3757,8 @@ pʉntši	pʉntši	V;ARGNO3;ARGNOS	FALSE
 pʉn	pʉnλ	N;PSS3S;NOM;SG	FALSE
 pʉn	pʉnλaλ	N;PL;PSS3S;NOM	FALSE
 pʉnšti	pʉnλen	V;ARGNO2;ARGNOS;ARGACS;ARGNO3;ARGNOP	FALSE
-pʉŋǝλ	pʉŋǝλ	N;NOM;SG	FALSE
-pʉŋǝλ	pʉŋǝλλaλ	V;ARGNO3;ARGNOP;ARGNO3;ARGNOP	FALSE
+pʉŋəλ	pʉŋəλ	N;NOM;SG	FALSE
+pʉŋəλ	pʉŋəλλaλ	V;ARGNO3;ARGNOP;ARGNO3;ARGNOP	FALSE
 pʉŋəλ	pʉŋəλ	N;NOM;SG	FALSE
 pʉŋəλa	pʉŋəλa	ADV	FALSE
 pʉŋəλ	pʉŋəλən	ADP;LOC	FALSE
@@ -4194,7 +3972,7 @@ rut	ruta	ADP;DAT	FALSE
 rʉma	rʉma	ADV	FALSE
 rʉś	rʉś	ADJ	FALSE
 rʉś	rʉś	N;NOM;SG	FALSE
-rʉś	rʉśǝt	N;PL;NOM	FALSE
+rʉś	rʉśət	N;PL;NOM	FALSE
 rʉś	rʉśət	N;PL;NOM	FALSE
 	rʉśi	ADJ	FALSE
 rʉś	rʉśλam	N;PL;PSS1S;NOM	FALSE
@@ -4481,7 +4259,7 @@ sewɛm	sewɛmijəλλ	V;ARGNO3;ARGNOS	FALSE
 	sewɛrməλλe		FALSE
 sewti	sewisəλλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
 sewr	sewratən	V;IMP;ARGNOS;DU;ARGNO3;ARGNOS	FALSE
-sewr	sewraλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS	FALSE
+sewr	sewraλən	V;IMP;ARGNO{D/P};ARGAC;ARGNO3;ARGNOS	FALSE
 sewr	sewre	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS	FALSE
 sewr	sewrəs	V;PST;ARGNO3;ARGNOS	FALSE
 sew	sewti	V.PTCP;PRS	FALSE
@@ -4859,7 +4637,7 @@ soχλ	soχλət	N;PL;NOM	FALSE
 soχλ	soχλəλ	N;PSS3S;NOM;SG	FALSE
 sɵjəm	sɵjəm	N;NOM;SG	FALSE
 	sɵjpăti		FALSE
-šɵjtti	šɵjtiλaλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS	FALSE
+šɵjtti	šɵjtiλaλən	V;IMP;ARGNO{D/P};ARGAC;ARGNO3;ARGNOS	FALSE
 šɵk	šɵk	N;NOM;SG	FALSE
 šɵk	šɵka	N;DAT;SG	FALSE
 šɵkaśti	šɵkaśa	V;ARGNO3;ARGNOS	FALSE
@@ -5155,7 +4933,7 @@ sʉw	sʉw	N;NOM;SG	FALSE
 šʉwər	šʉwərle	N;NOM;SG	FALSE
 šʉλˊpaŋ	šʉλˊpaŋ	ADJ	FALSE
 sʉλt	sʉλt	N;NOM;SG	FALSE
-	sʉλtǝmλaλ		FALSE
+	sʉλtəmλaλ		FALSE
 sʉλtəm	sʉλtəm	N;NOM;SG	FALSE
 sʉχ	sʉχ	N;NOM;SG	FALSE
 sʉχ	sʉχəŋ	ADJ	FALSE
@@ -5626,7 +5404,7 @@ tɵti	tɵti	V.PTCP;PRS	TRUE
 tɵ	tɵti	V.PTCP;PRS	FALSE
 tɵ	tɵtija	V.PTCP;PRS;DAT	FALSE
 tɵti	tɵtmaλ	V;PST;INFER;ARGNO3;ARGNOS	FALSE
-tɵtλˊ	tɵtλˊǝλət	V;PRS;ARGNO3;ARGNOP	FALSE
+tɵtλˊ	tɵtλˊəλət	V;PRS;ARGNO3;ARGNOP	FALSE
 tɵtλˊ	tɵtλˊəm	V.PTCP;PST	FALSE
 tɵti	tɵtλˊəsəm	V;PST;ARGNO1;ARGNOS	FALSE
 tɵti	tɵtλˊəsəw	V;PST;ARGNO1;ARGNOP	FALSE
@@ -5648,7 +5426,7 @@ tɵti	tɵλen	V;PRS;ARGNO2;ARGNOS;ARGACS	FALSE
 	tɵλew	V;ARGNO3;ARGNOS	FALSE
 tɵti	tɵλew	V;PRS;ARGNO1;ARGNOP	FALSE
 tɵti	tɵλew	V;PRS;ARGNO1;ARGNOP;ARGACS	FALSE
-tɵti	tɵλǝw	V;ARGNO1;ARGNOP;ARGNO3;ARGNOP	FALSE
+tɵti	tɵλəw	V;ARGNO1;ARGNOP;ARGNO3;ARGNOP	FALSE
 tɵti	tɵλəm	V;PRS;ARGNO1;ARGNOS	FALSE
 tɵti	tɵλəmən	V;PRS;ARGNO1;ARGNOD	FALSE
 tɵti	tɵλən	V;PRS;ARGNO2;ARGNOS	FALSE
@@ -5801,8 +5579,8 @@ tʉtsɛm	tʉtsɛm	N;NOM;SG	FALSE
 λʉw+dial.var.	tʉw	PRO;NOM;SG	FALSE
 tʉw	tʉwa	V;IMP;ARGNOS;ARGNO3;ARGNOS	FALSE
 tʉw	tʉwatən	V;IMP;ARGNOS;DU;ARGNO3;ARGNOS	FALSE
-	tʉwaλǝn		FALSE
-tʉ	tʉwaλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS	FALSE
+	tʉwaλən		FALSE
+tʉ	tʉwaλən	V;IMP;ARGNO{D/P};ARGAC;ARGNO3;ARGNOS	FALSE
 tʉw	tʉwe	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS	FALSE
 λʉweλ+dial.var.	tʉweta	PRO;NOM;SG	FALSE
 tɵti	tʉwəm	V.PTCP;PST	FALSE
@@ -5977,7 +5755,7 @@ uχ	uχλəŋ	PSS3S;ADJ	FALSE
 ʉməs	ʉməsλajət	V;PRS;PASS;ARGNO3;ARGNOP	FALSE
 ʉməs	ʉməsλaŋən	V;PRS;ARGNO3;ARGNOD	FALSE
 ʉməs	ʉməsλət	V;PRS;ARGNO3;ARGNOP	FALSE
-ʉməs	ʉmsaλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS	FALSE
+ʉməs	ʉmsaλən	V;IMP;ARGNO{D/P};ARGAC;ARGNO3;ARGNOS	FALSE
 ʉmsəλt	ʉmseλλa	V;PRS;PASS;ARGNO3;ARGNOS	FALSE
 ʉməs	ʉmsəs	V;PST;ARGNO3;ARGNOS	FALSE
 ʉmsəλt	ʉmsəλsa	V;PST;PASS;ARGNO3;ARGNOS	FALSE
@@ -6130,8 +5908,8 @@ wan	wanəλtijəλλət	V;PRS;ARGNO3;ARGNOP	FALSE
 wanəλtiλ	wanəλtiλəs	PST	FALSE
 wanka	wanka	N;NOM;SG	FALSE
 wănkar	wănkar	N;NOM;SG	FALSE
-wankʉtǝλ	wankʉtǝλ	ADJ	FALSE
-wankʉtǝλ	wankʉtǝλən	ADJ;LOC	FALSE
+wankʉtəλ	wankʉtəλ	ADJ	FALSE
+wankʉtəλ	wankʉtəλən	ADJ;LOC	FALSE
 wankʉtəλ	wankʉtəλ	ADV	FALSE
 wankʉtəλi	wankʉtəλi	ADV	FALSE
 wankʉtλ	wankʉtλ	ADV	FALSE
@@ -6149,7 +5927,7 @@ wantti	wanta	V;ARGNO3;ARGNOS	FALSE
 wănt	wănta	V;IMP;ARGNOS;ARGNO3;ARGNOS	FALSE
 wantti	wantatən	V;IMP;ARGNOD;ARGNO3;ARGNOS	FALSE
 wantti	wantati	V;IMP;ARGNOP;ARGNO3;ARGNOS	FALSE
-wănt	wăntaλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS	FALSE
+wănt	wăntaλən	V;IMP;ARGNO{D/P};ARGAC;ARGNO3;ARGNOS	FALSE
 wante	wante		FALSE
 wantti	wante	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS	FALSE
 wănt	wănte	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS	FALSE
@@ -6232,7 +6010,7 @@ wantti	wantλɛm	V;ARGNO3;ARGNOS;ARGNO1;ARGNOS;ARGACS	FALSE
 wantti	wantλɛmsa	V;PRS;ARGNO1;ARGNOS;ARGACS	FALSE
 wantti	wantλλe	V;PRS;ARGNO3;ARGNOS;ARGAC	FALSE
 wan	wanλəmən	V;PRS;ARGNO1;ARGNOD	FALSE
-wanλt	wanλtaλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS	FALSE
+wanλt	wanλtaλən	V;IMP;ARGNO{D/P};ARGAC;ARGNO3;ARGNOS	FALSE
 wanλt	wanλtəs	V;PST;ARGNO3;ARGNOS	FALSE
 wanλt	wanλtəsλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
 wanλtə	wanλtətijən	V.PTCP;PRS;LOC	FALSE
@@ -6290,7 +6068,7 @@ wewtam	wewtama	ADJ;DAT	FALSE
 wew	wewλ	N;PSS3S;NOM;SG	FALSE
 wewλi	wewλi	ADJ	FALSE
 ɛwəλt	weλ	ADP	FALSE
-weλti	weλaλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS	FALSE
+weλti	weλaλən	V;IMP;ARGNO{D/P};ARGAC;ARGNO3;ARGNOS	FALSE
 weλti	weλe	V;IMP;ARGNOS;ARGACS;ARGNO3;ARGNOS	FALSE
 weλ	weλəm	V.PTCP;PST	FALSE
 weλti	weλəmsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
@@ -6523,20 +6301,19 @@ wopi	wopi	ADP	FALSE
 wort	wortti	V.PTCP;PRS	FALSE
 wortti	worλen	V;PRS;ARGNO2;ARGNOS;ARGACS	FALSE
 wor	worλəmən	V;PRS;ARGNO1;ARGNOD	FALSE
-woš	woš	N;NOM;SG	FALSE
+woš	woš	N;NOM;SG	TRUE
 woš	woša	N;DAT;SG	TRUE
-woš	woša	N;DAT;SG	FALSE
-woš	wošen	N;PSS2S;NOM;SG	FALSE
-	wošena		FALSE
-woš	wošew	N;PSS1P;NOM;SG	FALSE
-woš	wošewa	N;PSS1P;DAT;SG	FALSE
-woš	wošewən	N;PSS1P;LOC;SG	FALSE
-	wošeλa		FALSE
-woš	wošən	N;LOC;SG	FALSE
-woš	wošəŋ	ADJ;ADJ	FALSE
-woš	wošət	N;PL;NOM	FALSE
+woš	wošen	N;PSS2S;NOM;SG	TRUE
+woš	wošena	N;PSS2S;DAT;SG	TRUE
+woš	wošew	N;PSS1P;NOM;SG	TRUE
+woš	wošewa	N;PSS1P;DAT;SG	TRUE
+woš	wošewən	N;PSS1P;LOC;SG	TRUE
+woš	wošeλa	N;PSS3P;DAT;SG	TRUE
+woš	wošən	N;LOC;SG	TRUE
+wošəŋ	wošəŋ	ADJ	TRUE
+woš	wošət	N;PL;NOM	TRUE
 wošətti	wošəta	V;PASS;ARGNO3;ARGNOS	FALSE
-wošətti	wošətaλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS	FALSE
+wošətti	wošətaλən	V;IMP;ARGNO{D/P};ARGAC;ARGNO3;ARGNOS	FALSE
 wošətti	wošətijλa	V;PASS;ARGNO3;ARGNOS	FALSE
 wošət	wošətman	V.CVB	FALSE
 wošətti	wošətsa	V;PST;PASS;ARGNO3;ARGNOS	FALSE
@@ -6546,13 +6323,13 @@ wošətti	wošətλa	V;PRS;PASS;ARGNO3;ARGNOS	FALSE
 wošətti	wošətλəm	V;PRS;ARGNO1;ARGNOS	FALSE
 wošətti	wošətλən	V;PRS;ARGNO2;ARGNOS	FALSE
 	wošətλəw		FALSE
-woš	wošəλa	N;PSS3S;DAT;SG	FALSE
-woš	wošɛm	N;PSS1S;NOM;SG	FALSE
-woš	wošijeλ	N;PSS3S;NOM;SG	FALSE
+woš	wošəλa	N;PSS3S;DAT;SG	TRUE
+woš	wošɛm	N;PSS1S;NOM;SG	TRUE
+wošije	wošijeλ	N;PSS3S;NOM;SG	TRUE
 wošitti	wošitsəλəw	V;PST;ARGNO1;ARGNOP;ARGAC{D/P}	FALSE
 woś	wośmaλ	V;PST;INFER;ARGNO3;ARGNOS	FALSE
-woš	wošn	N;LOC;SG	FALSE
-woš	wošt	N;PL;NOM	FALSE
+woš	wošn	N;LOC;SG	TRUE
+woš	wošt	N;PL;NOM	TRUE
 wośχ	wośχəsaŋən	V;PST;ARGNO3;ARGNOD	FALSE
 wośχ	wośχɛmijəλλəλλe	V;PRS;ARGNO3;ARGNOS;ARGAC	FALSE
 wośχiti	wośχijəλ	V;PRS;ARGNO3;ARGNOS	FALSE
@@ -7300,7 +7077,7 @@ jańλśə	λapətλajən-jańλśəλijən	V;PRS;PASS;ARGNO2;ARGNOS;V;PRS;PASS;
 λapka	λapkajət	N;PL;NOM	FALSE
 λapka	λapkajəta	N;PL;DAT	FALSE
 λap	λapsəλλe	V;PST;ARGNO3;ARGNOS;ARGAC	FALSE
-λăpət	λăptaλən	V;IMP;ARGNOP;ARGAC;ARGNO3;ARGNOS	FALSE
+λăpət	λăptaλən	V;IMP;ARGNO{D/P};ARGAC;ARGNO3;ARGNOS	FALSE
 λăptijəλ	λăptijəλsajət	V;PST;PASS;ARGNO3;ARGNOP	FALSE
 λaraś	λaraś	N;NOM;SG	FALSE
 λaraś	λaraśət	N;PL;NOM	FALSE
@@ -7675,7 +7452,7 @@ n	λorn	N;NOM;SG	FALSE
 λoλˊ	λoλˊten	V.PTCP;PRS;ARGNO2;ARGNOS	FALSE
 λoλˊ	λoλˊti	V.PTCP;PRS	FALSE
 λoλˊti	λoλˊλ	V;PRS;ARGNO3;ARGNOS	FALSE
-λoλˊti	λoλˊλǝt	V;PRS;ARGNO3;ARGNOP	FALSE
+λoλˊti	λoλˊλət	V;PRS;ARGNO3;ARGNOP	FALSE
 λoλˊ	λoλˊλəm	V;PRS;ARGNO1;ARGNOS	FALSE
 λoλˊ	λoλˊλən	V;PRS;ARGNO2;ARGNOS	FALSE
 λoλˊti	λoλˊλət	V;PRS;ARGNO3;ARGNOP	FALSE
@@ -7688,7 +7465,7 @@ n	λorn	N;NOM;SG	FALSE
 λʉj+sp.var.	λɵjpi	ADJ	FALSE
 λɵjt	λɵjtət	N;PL;NOM	FALSE
 λɵj	λɵjti	V.PTCP;PRS	FALSE
-λɵmǝt	λɵmǝtti	V.PTCP;PRS	FALSE
+λɵmət	λɵmətti	V.PTCP;PRS	FALSE
 λɵmətˊλˊə	λɵmətˊλˊəs	V;PST;ARGNO3;ARGNOS	FALSE
 λɵmətˊλˊə	λɵmətˊλˊəti	V.PTCP;PRS	FALSE
 λɵmətˊλˊə	λɵmətˊλˊəλəm	V;PRS;ARGNO1;ARGNOS	FALSE
@@ -8301,7 +8078,7 @@ nti	χojn	V;ARGNO3;ARGNOS	FALSE
 χot	χotew	N;PSS1P;NOM;SG	FALSE
 χot	χotewa	N;PSS1P;DAT;SG	FALSE
 χot	χoteλ	N;PSS3P;NOM;SG	FALSE
-χot	χotǝtən	N;PL;LOC	FALSE
+χot	χotətən	N;PL;LOC	FALSE
 χot	χotən	N;LOC;SG	FALSE
 χot	χotəna	N;PSS{2/3}D;DAT;SG	FALSE
 	χotəŋ		FALSE
@@ -8362,32 +8139,23 @@ nti	χojn	V;ARGNO3;ARGNOS	FALSE
 χoλλə	χoλλəti	V.PTCP;PRS	FALSE
 χoλλəti	χoλλəλ	V;PRS;ARGNO3;ARGNOS	FALSE
 χoλλəti	χoλλəλən	V;PRS;ARGNO2;ARGNOS	FALSE
-χɵ	χɵ	N;NOM;SG	FALSE
-χɵ jăk	χɵ jăkət	N;PL;NOM	FALSE
-χɵ jʉχ	χɵ jʉχλaλ	N;PL;PSS3S;NOM;SG	FALSE
-χɵ ńăwrɛm	χɵ ńăwrɛm	N;NOM;SG	FALSE
-χɵ pʉχ	χɵ pʉχ	N;NOM;SG	FALSE
-χɵ pʉχ	χɵ pʉχa	N;DAT;SG	FALSE
-	χɵja		FALSE
-χɵ	χɵja	N;DAT;SG	FALSE
-χɵ	χɵjat	N;DAT;ACC;SG	FALSE
-χɵ	χɵjen	N;PSS2S;NOM;SG	FALSE
-χɵ	χɵjew	N;PSS1P;NOM;SG	FALSE
-	χɵjeλ		FALSE
-χɵ	χɵjeλ	N;PSS3S;NOM;SG	FALSE
-χɵ	χɵjən	N;LOC;SG	FALSE
-χɵ	χɵjən	N;PSS{2/3}D;NOM;SG	FALSE
-χɵ	χɵjəŋ	ADJ	FALSE
-χɵ	χɵjət	N;PL;NOM	FALSE
-χɵ	χɵjəλ	N;PSS3S;NOM;SG	FALSE
-χɵ	χɵjəλən	N;PSS3S;LOC;SG	FALSE
-χɵ	χɵjɛm	N;PSS1S;NOM;SG	FALSE
-χɵ	χɵjŋən	N;DU;NOM;SG	FALSE
-nɛŋ	χɵjŋən-nɛŋŋən	N;DU;N;DU;NOM;SG	FALSE
-χɵj	χɵjtaλ	V.PTCP;PRS;ARGNO3;ARGNOP	FALSE
-χɵ	χɵjλan	N;PL;PSS2S;NOM	FALSE
-χɵ	χɵjλaλ	N;PL;PSS3S;NOM	FALSE
-χɵ	χɵjλən	N;PL;LOC	FALSE
+χɵ	χɵ	N;NOM;SG	TRUE
+χɵ	χɵja	N;DAT;SG	TRUE
+χɵ	χɵjen	N;PSS2S;NOM;SG	TRUE
+χɵ	χɵjew	N;PSS1P;NOM;SG	TRUE
+χɵ	χɵjeλ	N;PSS3P;NOM;SG	TRUE
+χɵ	χɵjən	N;LOC;SG	TRUE
+χɵ	χɵjən	N;PSS{2/3}D;NOM;SG	TRUE
+χɵjəŋ	χɵjəŋ	ADJ	TRUE
+χɵ	χɵjət	N;PL;NOM	TRUE
+χɵ	χɵjəλ	N;PSS3S;NOM;SG	TRUE
+χɵ	χɵjəλən	N;PSS3S;LOC;SG	TRUE
+χɵ	χɵjɛm	N;PSS1S;NOM;SG	TRUE
+χɵ	χɵjŋən	N;DU;NOM	TRUE
+χɵjti	χɵjtaλ	V;PRS;INFER;ARGNO3;ARGNOP	TRUE
+χɵ	χɵjλan	N;PL;PSS2S;NOM	TRUE
+χɵ	χɵjλaλ	N;PL;PSS3S;NOM	TRUE
+χɵ	χɵjλən	N;PL;PSS2P;LOC	TRUE
 χɵl	χɵl	N;NOM;SG	FALSE
 χɵl	χɵla	N;DAT;SG	FALSE
 χɵlaŋ wɛj	χɵlaŋ wɛjŋən	N;PSS3D;NOM;SG	FALSE
@@ -8402,6 +8170,7 @@ nɛŋ	χɵjŋən-nɛŋŋən	N;DU;N;DU;NOM;SG	FALSE
 χɵn	χɵn	CONJ	FALSE
 χɵn	χɵn	PART	FALSE
 χɵn	χɵn	PRO;NOM;SG	FALSE
+χɵńawrɛm	χɵńawrɛm	N;NOM;SG	TRUE
 χɵńəλ	χɵńəλ	N;NOM;SG	FALSE
 χɵntti	χɵntəs	V;PST;ARGNO3;ARGNOS	FALSE
 χɵn	χɵnti		FALSE
@@ -8668,6 +8437,7 @@ n	χujatn	N;NOM;SG	FALSE
 	χuwat		FALSE
 χuλ	χuλ	NUM	FALSE
 χuλ	χuλ	PRO;NOM;SG	FALSE
+χuλ	χuλ	PRO;NOM;SG	TRUE
 χuλati	χuλas	V;PST;ARGNO3;ARGNOS	FALSE
 χuλati	χuλasət	V;PST;ARGNO3;ARGNOP	FALSE
 χuλati	χuλast	V;PST;ARGNO3;ARGNOP	FALSE
@@ -8679,6 +8449,7 @@ n	χujatn	N;NOM;SG	FALSE
 χuλti	χuλɛməλ	V;PRS;ARGNO3;ARGNOS	FALSE
 χuλijewa	χuλijewa	NUM	FALSE
 χuλijewa	χuλijewa	PRO;NOM;SG	FALSE
+χuλijewa	χuλijewa	ADV	TRUE
 χuλiti	χuλijəλ	V;PRS;ARGNO3;ARGNOS	FALSE
 χuλna	χuλna	ADV	FALSE
 χuλnapa	χuλnapa	INTJ	FALSE
@@ -8798,37 +8569,31 @@ n	χujatn	N;NOM;SG	FALSE
 χʉwλəti	χʉwλəmaλ	V;PST;INFER;ARGNO3;ARGNOS	FALSE
 χʉwλəti	χʉwλəs	V;PST;ARGNO3;ARGNOS	FALSE
 χʉwλəti	χʉwλəsət	V;PST;ARGNO3;ARGNOP	FALSE
-χʉλ	χʉλ	N;NOM;SG	FALSE
-χʉλ	χʉλ	PRO;NOM;SG	FALSE
+χʉλ	χʉλ	N;NOM;SG	TRUE
 χʉλ pɛλa	χʉλ pɛλa	ADV	FALSE
 χʉλ wɛλ	χʉλ wɛλti	V.PTCP;PRS	FALSE
-χʉλ wʉj	χʉλ wʉj	N;NOM;SG	FALSE
-χʉλ λor	χʉλ λor	N;NOM;SG	FALSE
-χʉλ λor	χʉλ λorən	N;LOC;SG	FALSE
 χʉλˊ	χʉλˊeλ	N;PSS3S;NOM;SG	FALSE
 χʉλˊśa	χʉλˊśa	PRO;NOM;SG	FALSE
-χʉλ	χʉλa	N;DAT;SG	FALSE
+χʉλ	χʉλa	N;DAT;SG	TRUE
 χʉλa	χʉλam	V.PTCP;PST	FALSE
-χʉλ	χʉλan	N;PL;PSS2S;NOM	FALSE
 χʉλa	χʉλati	V.PTCP;PRS	FALSE
-χʉλ	χʉλen	N;PSS2S;NOM;SG	FALSE
-χʉλ	χʉλew	N;PSS1P;NOM;SG	FALSE
-χʉλ	χʉλeλ	N;PSS3S;NOM;SG	FALSE
-χʉλ	χʉλəŋ	ADJ;ADJ	FALSE
-χʉλ	χʉλət	N;PL;NOM	FALSE
-χʉλ	χʉλəw	N;PSS1P;NOM;SG	FALSE
-χʉλ	χʉλəλ	N;PSS3S;NOM;SG	FALSE
-χʉλ	χʉλɛm	N;PSS1S;NOM;SG	FALSE
-χʉλijewa	χʉλiewa	ADV	FALSE
-χʉλ	χʉλije	N;NOM;SG	FALSE
-χʉλ	χʉλijen	N;PSS2S;NOM;SG	FALSE
-χʉλ	χʉλijena	N;PSS2S;DAT;SG	FALSE
-χʉλ	χʉλijet	N;PL;NOM	FALSE
-χʉλijewa	χʉλijewa	ADV	FALSE
-χʉλ	χʉλijeλ	N;PSS3S;NOM;SG	FALSE
+χʉλ	χʉλen	N;PSS2S;NOM;SG	TRUE
+χʉλ	χʉλew	N;PSS1P;NOM;SG	TRUE
+χʉλ	χʉλeλ	N;PSS3P;NOM;SG	TRUE
+χʉλəŋ	χʉλəŋ	ADJ	TRUE
+χʉλ	χʉλət	N;PL;NOM	TRUE
+χʉλ	χʉλəλ	N;PSS3S;NOM;SG	TRUE
+χʉλ	χʉλɛm	N;PSS1S;NOM;SG	TRUE
+χʉλije	χʉλije	N;NOM;SG	TRUE
+χʉλije	χʉλijen	N;PSS2S;NOM;SG	TRUE
+χʉλije	χʉλijena	N;PSS2S;DAT;SG	TRUE
+χʉλije	χʉλijet	N;PL;NOM	TRUE
+χʉλ	χʉλijeλ	N;PSS3S;NOM;SG	TRUE
 χʉλmət	χʉλmətsəŋən	V;PST;ARGNO3;ARGNOD	FALSE
 χʉλna	χʉλna	ADV	FALSE
 χʉλi	χʉλsəŋən	V;PST;ARGNO3;ARGNOD	FALSE
 χʉλta	χʉλta	PRO;NOM;SG	FALSE
 χʉλti	χʉλti	ADV	FALSE
-χʉλ	χʉλλaλ	N;PL;PSS3P;NOM	FALSE
+χʉλwuj	χʉλwuj	N;NOM;SG	TRUE
+χʉλ	χʉλλan	N;PL;PSS2S;NOM	TRUE
+χʉλ	χʉλλaλ	N;PL;PSS3P;NOM	TRUE
